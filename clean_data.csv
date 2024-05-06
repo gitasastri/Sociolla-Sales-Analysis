@@ -1,0 +1,1577 @@
+<<<<<<< HEAD
+brand_id,brand_name,product_name,product_id,price,category,subcategory,average_rating,amount_sold,total_recommended_count,total_repurchase_no_count,total_repurchase_yes_count,purchase_power,revenue
+796,3ce,VELVET LIP TINT,97810,264000,Makeup, Lip Cream,4.576190476190476,42,42,2,30,medium,11088000
+796,3ce,MINI MULTI EYE COLOR PALETTE,97833,423000,Makeup, Eyeshadow,4.883333333333334,6,12,0,11,medium,2538000
+796,3ce,FACE BLUSH,97801,300000,Makeup, Blush,4.858823529411765,13,17,0,15,medium,3900000
+796,3ce,BLUR WATER TINT,97817,264000,Makeup, Lip Tint,4.729629629629629,51,53,3,48,medium,13464000
+796,3ce,CLOUD LIP TINT,97818,264000,Makeup, Lip Cream,4.768421052631579,17,19,0,19,medium,4488000
+796,3ce,NEW TAKE EYESHADOW PALETTE,98428,880000,Makeup, Eyeshadow,5.0,1,5,0,5,high,880000
+796,3ce,SUPER SLIM EYE BROW PENCIL,98369,212000,Makeup, Eyebrows,5.0,1,4,0,4,medium,212000
+796,3ce,VELVET FIT FOUNDATION,98368,564000,Makeup, Foundation,5.0,1,2,0,2,high,564000
+796,3ce,LIQUID PRIMER EYE SHADOW,98363,264000,Makeup, Eyeshadow,4.975,2,8,0,8,medium,528000
+796,3ce,[ 3CE x TOILETPAPER]   MAKEUP FIX POWDER,98429,581000,Makeup, Pressed Powder,5.0,3,4,0,4,high,1743000
+796,3ce,SOFT MATTE LIPSTICK,98409,317000,Makeup, Lipstick,4.844444444444445,4,9,0,9,medium,1268000
+796,3ce,EYE SWITCH,98312,264000,Makeup, Eyeshadow,5.0,2,6,0,6,medium,528000
+796,3ce,SYRUP LAYERING TINT,98430,264000,Makeup, Lip Tint,4.876923076923077,5,12,1,12,medium,1320000
+796,3ce,NEW TAKE FACE BLUSHER,98431,352000,Makeup, Blush,5.0,1,6,0,6,medium,352000
+796,3ce,TATTOO LIP TINT,102642,229000,Makeup, Lip Tint,5.0,2,7,0,7,medium,458000
+796,3ce,[ 3CE x TOILETPAPER]   VELVET LIP TINT,98435,317000,Makeup, Lip Tint,5.0,4,8,0,8,medium,1268000
+796,3ce,[ 3CE x TOILETPAPER]   FACE BLUSH,98434,352000,Makeup, Blush,4.975,5,8,0,8,medium,1760000
+796,3ce,[ 3CE x TOILETPAPER]   MULTI EYE COLOR PALETTE,98432,775000,Makeup, Eyeshadow,5.0,1,1,0,1,high,775000
+796,3ce,SUPER SLIM PEN EYE LINER,98370,229000,Makeup, Eyeliner,4.971428571428572,4,7,0,7,medium,916000
+751,abib,Heartleaf Essence Calming Pump,91887,380000,Skincare, Essence,4.775,8,8,0,6,medium,3040000
+751,abib,Quick Sunstick Protection Bar,91207,400000,Skincare, Sunscreen,4.666666666666666,17,17,0,16,medium,6800000
+751,abib,Yuja Essence Vitalizing Pump,91209,380000,Skincare, Essence,4.607142857142858,5,7,1,4,medium,1900000
+751,abib,Heartleaf Sun Essence Calming Drop,91895,390000,Skincare, Essence,4.84375,6,8,0,8,medium,2340000
+751,abib,Gummy Sheet Mask Milk Sticker,91194,56000,Skincare, Sheet Mask,4.916666666666667,5,6,0,6,low,280000
+751,abib,Jericho Rose Creme Nutrition Tube,98624,490000,Skincare, Face Cream & Lotion,5.0,1,3,0,3,medium,490000
+751,abib,Rebalancing Emulsion Skin Booster,91886,430000,Skincare, Face Cream & Lotion,4.875,2,4,0,3,medium,860000
+751,abib,Heartleaf Facial Mist Calming Spray Set,106156,310000,Skincare, Toner,4.666666666666667,3,3,0,1,medium,930000
+751,abib,Gummy Sheet Mask Heartleaf Sticker,91195,56000,Skincare, Sheet Mask,4.826923076923077,11,12,1,11,low,616000
+751,abib,Mild Acidic pH sheet Mask Heartleaf Fit,91201,56000,Skincare, Sheet Mask,4.625,14,15,0,13,low,784000
+751,abib,Acne Foam Cleanser Heartleaf Foam,91203,230000,Skincare, Face Wash,4.875,30,30,0,28,medium,6900000
+751,abib,Rice Probiotics Overnight Mask Barrier Jelly,98614,390000,Skincare, Wash off Mask,5.0,1,3,0,3,medium,390000
+751,abib,Jericho Rose Essence Nutrition Pump,98609,380000,Skincare, Essence,5.0,1,3,0,3,medium,380000
+751,abib,Protective Lip Balm Block Stick,98611,160000,Skincare, Lip Balm,4.78125,6,7,1,7,medium,960000
+751,abib,Pine Needle Pore Pad Clear Touch,91889,340000,Skincare, Toner,4.857142857142858,5,7,0,7,medium,1700000
+751,abib,Mild Acidic pH Sheet Mask Yuja Fit,91199,56000,Skincare, Sheet Mask,4.791666666666666,4,6,0,6,low,224000
+751,abib,Mild Acidic pH Sheet Mask Jericho Rose Fit  (single),98599,56000,Skincare, Sheet Mask,4.958333333333333,4,6,0,6,low,224000
+751,abib,Calming Facial Soap Heartleaf Stone,98608,200000,Skincare, Cleansing Bar,5.0,1,3,0,3,medium,200000
+751,abib,Yuja Probiotics Blemish Pad Vitalizing Touch,91893,360000,Skincare, Toner,4.583333333333333,2,2,0,2,medium,720000
+730,acwell,Licorice pH Balancing Cleansing Toner,21291,165000,Skincare, Toner,4.635697764070933,1297,1224,85,990,medium,214005000
+730,acwell,Real Aqua Balancing Cream,90792,340000,Skincare, Face Cream & Lotion,4.7142857142857135,26,28,0,23,medium,8840000
+730,acwell,pH Balancing Bubble Free Cleansing Gel,90795,212000,Skincare, Cleansing Gel,4.573170731707317,39,36,7,27,medium,8268000
+730,acwell,pH Balancing Soothing Cleansing Foam,90794,202000,Skincare, Face Wash,4.815789473684211,17,19,0,16,medium,3434000
+730,acwell,Licorice pH Balancing Advance Serum,82363,220000,Skincare, Face Serum,4.577702702702703,145,133,20,101,medium,31900000
+730,acwell,Licorice pH Balancing Essence Mist,63246,229000,Skincare, Essence,4.627840909090909,86,83,4,64,medium,19694000
+730,acwell,Licorice pH Balancing Essential Cream,99997,320000,Skincare, Face Cream & Lotion,4.818181818181818,9,11,0,11,medium,2880000
+730,acwell,Licorice pH Balancing Intensive Eye Cream,82362,289000,Skincare, Eye Cream,4.591346153846154,50,49,3,34,medium,14450000
+730,acwell,Real Aqua Balancing Lotion,90791,290000,Skincare, Face Cream & Lotion,4.6764705882352935,15,17,0,13,medium,4350000
+730,acwell,Real Aqua Balancing Ampoule,90793,300000,Skincare, Ampoule,4.931818181818182,9,11,0,10,medium,2700000
+730,acwell,Real Aqua Balancing Toner,85742,290000,Skincare, Toner,4.75,11,13,0,10,medium,3190000
+15654,adara-cosmetics,Noni Glow Conentrate,104991,106500,Skincare, Face Oil,5.0,2,2,0,2,medium,213000
+15654,adara-cosmetics,ADARA - Diamond Glycolic All In One Moisturizer,105056,103000,Skincare, Face Gel,5.0,2,2,0,2,medium,206000
+15654,adara-cosmetics,Bee Clear Acne Regular,104993,45000,Skincare, Acne Treatment / Sealing gel / Cream,4.95,10,10,0,10,low,450000
+15654,adara-cosmetics,ADARA - Diamond Glycolic Serum Instabirght,105055,99000,Skincare, Face Serum,5.0,3,3,0,3,low,297000
+15654,adara-cosmetics,Overnight Skinpair Concentrate,104992,99000,Skincare, Face Serum,5.0,2,2,0,2,low,198000
+15654,adara-cosmetics,PMS Ceramide Pudding,104998,103000,Skincare, Face Cream & Lotion,4.833333333333333,6,6,0,5,medium,618000
+15654,adara-cosmetics,Bee Clear Acne Treatment Extra Formula,104994,52000,Skincare, Acne Treatment / Sealing gel / Cream,4.852272727272727,22,21,1,20,low,1144000
+15654,adara-cosmetics,C Bright Serum,104990,107500,Skincare, Face Serum,5.0,3,3,0,3,medium,322500
+15654,adara-cosmetics,Bee White Spotless Cream,105007,126500,Skincare, Acne Treatment / Sealing gel / Cream,4.5,4,4,0,3,medium,506000
+15654,adara-cosmetics,Bee White Eye Do Care,105000,116000,Skincare, Eye Cream,4.785714285714286,7,7,0,6,medium,812000
+15654,adara-cosmetics,Bee White Foam Cleanser,104999,93000,Skincare, Face Wash,4.375,2,2,0,1,low,186000
+15654,adara-cosmetics,P.M.S Series Clarifying Toner,104997,74500,Skincare, Toner,5.0,2,2,0,2,low,149000
+15654,adara-cosmetics,P.M.S Series Stay Clear Enzyme Wash,104996,61000,Skincare, Face Wash,4.865384615384615,13,13,0,13,low,793000
+15654,adara-cosmetics,Bee Clear Acne Concentrate,104995,107500,Skincare, Face Serum,5.0,3,3,0,3,medium,322500
+15654,adara-cosmetics,Bee White Yogurt Night Dream,105010,120000,Skincare, Face Cream & Lotion,5.0,1,1,0,0,medium,120000
+15654,adara-cosmetics,Bee White Spotless Gel,105006,126500,Skincare, Acne Treatment / Sealing gel / Cream,4.699999999999999,5,5,0,4,medium,632500
+584,aeris-beaute,Nudie Blendies - Makeup Sponge,99707,95000,Accessories, Sponge & Applicators,4.694444444444444,15,18,3,14,low,1425000
+584,aeris-beaute,Cloud Conceal Puff,102712,65000,Accessories, Sponge & Applicators,4.8,25,30,0,24,low,1625000
+584,aeris-beaute,The New Coral Face & Eye Brush Set,75162,379000,Accessories, Brush Set,4.721590909090909,88,86,6,61,medium,33352000
+584,aeris-beaute,Mini Blendie Pill,102710,85000,Accessories, Makeup Pouch,4.931818181818182,5,11,0,10,low,425000
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X3-Blush,104048,59000,Accessories, Face Brushes,5.0,1,1,0,1,low,59000
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X4-Foundation,104050,59000,Accessories, Face Brushes,5.0,2,2,0,2,low,118000
+584,aeris-beaute,Smart Sonic Facial Cleanser,87216,575000,Accessories, Facial Tools,4.828431372549019,49,50,1,42,high,28175000
+584,aeris-beaute,Libre Trimming Scissor,104614,99000,Accessories, Brow Tools,5.0,3,3,0,2,low,297000
+584,aeris-beaute,Aeris Beauté Golden Silk Set (12 pcs Face & Eye Brush Set) + Free Gift,94533,615000,Accessories, Face Brushes,4.750000000000001,11,11,0,10,high,6765000
+584,aeris-beaute,Mrs. Blendie,34585,95000,Accessories, Sponge & Applicators,4.676900584795321,142,141,3,112,low,13490000
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X9-Eye Blending,104053,45000,Accessories, Face Brushes,5.0,1,1,0,1,low,45000
+584,aeris-beaute,Libre Precision Tweezer,104615,79000,Accessories, Brow Tools,4.666666666666667,3,3,1,2,low,237000
+584,aeris-beaute,Facial-Firming Rose Quartz Roller,86888,355000,Accessories, Facial Tools,4.875,1,2,0,1,medium,355000
+584,aeris-beaute,Rose Quartz Facial Set - Lifting Duo,86887,630000,Accessories, Facial Tools,4.625,1,2,0,2,high,630000
+584,aeris-beaute,Duo Color Switcher,92097,65000,Accessories, Brush Cleanser & Tools,4.666666666666667,7,9,0,7,low,455000
+584,aeris-beaute,The Coral 2.0 - Individual Brushes CR2-Pressed Powder,104066,75000,Accessories, Face Brushes,5.0,1,1,0,1,low,75000
+584,aeris-beaute,Pro Packs (Mr),72439,400000,Accessories, Sponge & Applicators,5.0,1,1,0,1,medium,400000
+584,aeris-beaute,Pro Packs (Sister),72441,356000,Accessories, Sponge & Applicators,4.541666666666666,4,5,1,5,medium,1424000
+584,aeris-beaute,Instant Brush Cleaner,82692,95000,Accessories, Brush Cleanser & Tools,4.916666666666667,1,3,0,3,low,95000
+584,aeris-beaute,Facelift Beauty Roller,91000,475000,Accessories, Facial Tools,4.7142857142857135,6,7,0,4,medium,2850000
+584,aeris-beaute,The Coral 2.0 - Individual Brushes CR7-Flat Highlight,104069,50000,Accessories, Face Brushes,5.0,1,1,0,1,low,50000
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X12-Brow Highlight,104060,35000,Accessories, Face Brushes,5.0,1,1,0,1,low,35000
+584,aeris-beaute,Gold Facial Spa Set,85150,295000,Accessories, Facial Tools,4.802631578947368,18,19,1,15,medium,5310000
+584,aeris-beaute,Rose Quartz Facial Set - Soothing Trio,86886,875000,Accessories, Facial Tools,4.75,2,3,1,2,high,1750000
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X11-Brow,104059,45000,Accessories, Face Brushes,5.0,1,1,0,1,low,45000
+584,aeris-beaute,Smart Photon Light Therapy Device,88690,875000,Accessories, Facial Tools,4.806818181818182,21,22,1,14,high,18375000
+584,aeris-beaute,Onyx 15 Face & Eye Brush Set,34594,379000,Accessories, Brush Set,4.654999999999999,50,48,4,27,medium,18950000
+584,aeris-beaute,Aeris Beauté x Sociolla Smart Sonic Facial Cleanser,95484,575000,Accessories, Facial Tools,4.787878787878788,65,64,8,45,high,37375000
+584,aeris-beaute,Sister Blendie,71592,95000,Accessories, Sponge & Applicators,4.713414634146341,39,38,2,34,low,3705000
+584,aeris-beaute,Pro Packs (Mrs),72440,356000,Accessories, Sponge & Applicators,5.0,1,3,0,3,medium,356000
+584,aeris-beaute,Blendie Bar Watermelon & Pear,70530,67000,Accessories, Brush Cleanser & Tools,4.75,97,99,0,87,low,6499000
+584,aeris-beaute,Solo Color Switcher,92095,60000,Accessories, Brush Cleanser & Tools,4.125000000000001,4,4,2,2,low,240000
+584,aeris-beaute,Horoscope Blendie Bar,100316,67000,Accessories, Brush Cleanser & Tools,5.0,1,1,0,1,low,67000
+15703,alatte,Glazed Lip Tint,106999,79900,Makeup, Lip Tint,4.8,1,1,0,1,low,79900
+15542,alchemist-fragrance,01 Powder Room Eau De Parfum,98055,229000,Fragrance, Eau De Parfum,4.409356725146199,54,52,7,35,medium,12366000
+15542,alchemist-fragrance,Onirique | Extrait de Parfum,107269,379000,Fragrance, Eau De Parfum,4.461538461538461,13,12,1,9,medium,4927000
+15542,alchemist-fragrance,04 Home Garden Eau De Parfum,98059,229000,Fragrance, Eau De Parfum,4.4375,13,14,2,7,medium,2977000
+15542,alchemist-fragrance,03 Got My Mojo Back Eau De Parfum,98058,229000,Fragrance, Eau De Parfum,4.568181818181818,41,43,1,25,medium,9389000
+15542,alchemist-fragrance,02 Pink Laundry Eau De Parfum,98057,229000,Fragrance, Eau De Parfum,4.421875,61,62,4,41,medium,13969000
+15542,alchemist-fragrance,Out West Extrait De Parfum,99920,319000,Fragrance, Eau De Parfum,4.681818181818183,19,22,0,16,medium,6061000
+1350,allglows,"Shake Lip Pigment (SLP) - Matte Liquid Lipstick, Serum-Infused",105045,139000,Makeup, Lip Cream,4.657142857142857,14,13,2,10,medium,1946000
+1350,allglows,Cheek Pigment,92682,139000,Makeup, Blush,4.7,33,38,1,30,medium,4587000
+1350,allglows,Allglows Lid Pigment Shimmer,94319,139000,Makeup, Eyeshadow,5.0,9,13,0,13,medium,1251000
+15700,amuse,DEW POWER VEGAN CUSHION,106967,508000,Makeup, Cushion,5.0,1,1,0,1,high,508000
+15700,amuse,DEW TINT,106952,299000,Makeup, Lip Tint,5.0,1,1,0,1,medium,299000
+15700,amuse,DEW VELVET,106951,299000,Makeup, Lip Tint,5.0,1,1,0,1,medium,299000
+2019,anessa,New Brightening Uv Sunscreen Gel,91302,403000,Skincare, Sunscreen,4.49438202247191,89,82,9,61,medium,35867000
+2019,anessa,New Perfect Uv Sunscreen Skincare Spray 60gr,91298,302000,Skincare, Sun Care,4.635,49,47,3,35,medium,14798000
+2019,anessa,ANESSA Trial Set Brightening Gel,106363,403000,Skincare, Sunscreen,4.75,2,2,0,2,medium,806000
+2019,anessa,Perfect UV Sunscreen Mild Milk,86904,494000,Skincare, Sun Care,4.669349778883361,270,258,18,205,medium,133380000
+2019,anessa,New Perfect UV Sunscreen Skincare Gel,91297,403000,Skincare, Sun Care,4.669254658385093,160,156,8,128,medium,64480000
+2019,anessa,Moisture UV Sunscreen Mild Gel,84228,403000,Skincare, Sunscreen,4.560416666666667,133,111,12,85,medium,53599000
+2019,anessa,ANESSA Trial Set Gold Gel,106362,403000,Skincare, Sunscreen,4.958333333333333,6,6,0,6,medium,2418000
+2019,anessa,Twinpack Anessa Perfect UV Milk 20ml,87904,402000,Skincare, Sun Care,4.5,1,1,0,0,medium,402000
+2019,anessa,All-Day UV Protection Sets,75377,503000,Skincare, Skin Care Set,3.5,1,1,0,1,high,503000
+2019,anessa,Day Serum,91300,543000,Skincare, Sunscreen,4.6477272727272725,20,21,3,18,high,10860000
+15689,anua,Heartleaf Clear Pad,106751,599000,Skincare, Toner,4.0,1,1,0,0,high,599000
+814,argavell,Argan Shampoo,70732,89000,Hair Care, Shampoo,4.576007326007327,270,249,30,193,low,24030000
+814,argavell,100% Organic Argan Oil,70731,130000,Hair Care, Hair Oil,4.678260869565217,113,109,7,88,medium,14690000
+814,argavell,Superfood Gentle Cleanser,98024,119000,Skincare, Face Wash,4.9,3,5,0,5,medium,357000
+2086,ariul,Pack of 6 - 7Days Mask Green Tea+S,90681,132000,Skincare, Sheet Mask,5.0,1,1,0,1,medium,132000
+2086,ariul,Set of 7 - Ariul 7Days Mask,86728,154000,Skincare, Sheet Mask,4.9,5,5,0,5,medium,770000
+2086,ariul,ARIUL 7days Mask Bamboo + B,86076,22000,Skincare, Sheet Mask,4.778270509977827,451,445,6,393,low,9922000
+2086,ariul,ARIUL 7days Mask Lemon + C,86072,22000,Skincare, Sheet Mask,4.770727506565456,770,712,12,609,low,16940000
+2086,ariul,My Mood Maker Cute,72686,21500,Skincare, Sheet Mask,4.689792663476874,1957,1822,53,1451,low,42075500
+2086,ariul,ARIUL 7days Mask Calendula + P,86077,22000,Skincare, Sheet Mask,4.780042918454936,466,460,9,391,low,10252000
+2086,ariul,7Days Mask Duo 2 in 1 Brightening Night Mask,92451,22000,Skincare, Clay Mask,4.803536345776031,509,498,15,428,low,11198000
+2086,ariul,7Days Glow Brightening Serum,97877,114000,Skincare, Face Serum,4.763358778625954,262,256,8,208,medium,29868000
+2086,ariul,ARIUL 7days Mask Aloe + H,86075,22000,Skincare, Sheet Mask,4.7589108910891085,555,498,7,439,low,12210000
+2086,ariul,ARIUL 7days Mask Green Tea + S,86071,22000,Skincare, Sheet Mask,4.7572,625,613,14,535,low,13750000
+2086,ariul,Smooth & Pure Cleansing Tissue,63765,29000,Skincare, Cleansing Wipes,4.652536929993578,1557,1494,62,1125,low,45153000
+2086,ariul,7Days Advanced Anti-Aging Serum,97880,114000,Skincare, Face Serum,4.766566265060241,166,160,4,130,medium,18924000
+2086,ariul,Smooth & Pure Lip & Eye Remover Pads,63766,45000,Skincare, Cleansing Wipes,4.719641401792991,1227,1199,33,984,low,55215000
+2086,ariul,Ariul Watermelon Hydro Vital Cream,75347,159000,Skincare, Face Cream & Lotion,4.606032338308458,804,755,72,544,medium,127836000
+2086,ariul,Ariul Green Vitamin C Toning Ampoule,101839,199000,Skincare, Face Serum,4.875,12,12,0,11,medium,2388000
+2086,ariul,7Days Mask Duo 2 in 1 Acne Care Night Mask,92450,22000,Skincare, Clay Mask,4.802407932011332,353,344,8,307,low,7766000
+2086,ariul,7Days Acne Clearing Serum,97879,114000,Skincare, Face Serum,4.804838709677419,155,151,7,122,medium,17670000
+2086,ariul,ARIUL 7days Mask Tea Tree + M,86074,22000,Skincare, Sheet Mask,4.7578125,672,659,16,566,low,14784000
+2086,ariul,Watermelon Hydro Glow Serum,75346,169000,Skincare, Face Serum,4.648504273504273,468,440,33,321,medium,79092000
+2086,ariul,7 DAYS FLORAL MIST (Face Spray),82384,125000,Skincare, Face Mist,4.625,140,127,13,87,medium,17500000
+2086,ariul,Smooth & Pure Daily Toning Pad 30 sheet,82382,69900,Skincare, Toner,4.617978686125369,314,305,7,227,low,21948600
+2086,ariul,7Days Plus Mask - Lemon,63091,39000,Skincare, Sheet Mask,4.6589068825910935,247,235,14,192,low,9633000
+2086,ariul,7Days Plus Mask - Green Tea,63092,39000,Skincare, Sheet Mask,4.695121951219512,164,161,3,131,low,6396000
+2086,ariul,Watermelon Hydro Glow Sleeping Mask,75339,179000,Skincare, Sleeping Mask,4.631102362204724,635,606,38,436,medium,113665000
+2086,ariul,My Mood Maker Glam,72688,21500,Skincare, Sheet Mask,4.679382889200562,1426,1370,55,1070,low,30659000
+2086,ariul,My Mood Maker Chic,72687,21500,Skincare, Sheet Mask,4.674402643619725,1967,1885,77,1478,low,42290500
+2086,ariul,Watermelon Hydro Glow Cream Spout,84566,59000,Skincare, Face Cream & Lotion,4.7230215827338125,139,134,6,103,low,8201000
+2086,ariul,ARIUL 7days Mask Lotus + N,86073,22000,Skincare, Sheet Mask,4.749415887850467,428,421,5,369,low,9416000
+2086,ariul,Watermelon Hydro Vital Sheet Mask,75338,24000,Skincare, Sheet Mask,4.687667560321716,746,730,22,603,low,17904000
+2086,ariul,Watermelon Hydro Glow Sleeping Mask Spout,84567,69000,Skincare, Sleeping Mask,4.718518518518518,135,126,7,100,low,9315000
+2086,ariul,Tell Me Your Wish Hand Cream,72694,39500,Bath & Body, Hand & Foot Cream,4.586767895878525,461,441,23,309,low,18209500
+2086,ariul,Tell Me Your Wish Hand Essence Happy with Box,81547,39000,Bath & Body, Hand & Foot Cream,4.5773809523809526,42,38,4,29,low,1638000
+2086,ariul,Watermelon Hydro Glow Gel Mist,75340,159000,Skincare, Face Mist,4.616906474820144,278,258,22,185,medium,44202000
+2086,ariul,7Days Plus Mask - Aloe,63093,39000,Skincare, Sheet Mask,4.64240506329114,158,151,6,133,low,6162000
+2086,ariul,Tell Me Your Wish Hand Butter,72695,39500,Bath & Body, Body Care,4.637906897319548,1162,1096,59,797,low,45899000
+2086,ariul,Tell Me Your Wish Hand Essence,72693,39500,Bath & Body, Body Care,4.618314901820345,1062,1010,66,717,low,41949000
+2086,ariul,Smooth & Pure Daily Peeling Pad 30 sheet,82383,69900,Skincare, Toner,4.622906184486373,450,431,15,311,low,31455000
+281,artisan-professionnel,Classiques,2135,28000,Makeup, False Eyelashes,4.683768444948922,872,863,36,728,low,24416000
+281,artisan-professionnel,L'Absolu,2261,45000,Makeup, False Eyelashes,4.65106248685041,82,94,6,79,low,3690000
+281,artisan-professionnel,Voile,2567,50000,Makeup, False Eyelashes,4.540740740740741,48,51,3,46,low,2400000
+281,artisan-professionnel,Touche 3D Lashes,25485,50000,Makeup, False Eyelashes,4.672,46,49,1,40,low,2300000
+281,artisan-professionnel,Artisan Professionnel Classiques 1170 x January Christy,94322,28000,Makeup, False Eyelashes,4.657142857142857,5,7,0,6,low,140000
+281,artisan-professionnel,L'Essentiel,34174,55000,Makeup, False Eyelashes,4.709090909090909,131,140,5,115,low,7205000
+281,artisan-professionnel,Petite Artisan,2532,45000,Makeup, False Eyelashes,4.702564102564102,66,77,4,62,low,2970000
+281,artisan-professionnel,Touche,35051,50000,Makeup, False Eyelashes,4.823076923076923,48,51,2,49,low,2400000
+281,artisan-professionnel,Artisan Professionnel Classique 1626 x Dini Nurdiani,86934,28000,Makeup, False Eyelashes,4.720000000000001,3,5,0,5,low,84000
+281,artisan-professionnel,Classiques 1624,82706,28000,Makeup, False Eyelashes,4.739999999999999,8,10,0,10,low,224000
+281,artisan-professionnel,Voile New Exclusive Collection,35050,50000,Makeup, False Eyelashes,4.8279069767441865,39,41,3,39,low,1950000
+281,artisan-professionnel,OPTIMISTE ROUGE Pro Lip Colour,102840,108000,Makeup, Lip Cream,4.927272727272728,7,11,0,7,medium,756000
+281,artisan-professionnel,Delicat 7472,82704,58000,Makeup, False Eyelashes,5.0,3,5,0,5,low,174000
+281,artisan-professionnel,Artisan Professionnel - Eyeliner Pro Dessiner - Bonne Nuit,94321,128000,Makeup, Eyeliner,4.683333333333334,11,11,1,7,medium,1408000
+281,artisan-professionnel,Voile 5792,74066,50000,Makeup, False Eyelashes,4.927272727272728,9,11,0,10,low,450000
+281,artisan-professionnel,Artisan Professionnel Voile 5932 x Sela,86935,50000,Makeup, False Eyelashes,5.0,6,8,0,8,low,300000
+281,artisan-professionnel,Artisan Professionnel Voile 5535 x Kirana Fary,94325,50000,Makeup, False Eyelashes,5.0,1,3,0,3,low,50000
+281,artisan-professionnel,Delicat 7355,82703,58000,Makeup, False Eyelashes,4.639999999999999,3,5,1,4,low,174000
+281,artisan-professionnel,Artisan Professionnel Classiques 1635 x Dewi Tian,94324,28000,Makeup, False Eyelashes,5.0,1,3,0,3,low,28000
+281,artisan-professionnel,Artisan Professionnel Voile 5201 x Candra Zhang,94323,50000,Makeup, False Eyelashes,5.0,1,3,0,3,low,50000
+281,artisan-professionnel,Voile 5523,74065,50000,Makeup, False Eyelashes,5.0,4,6,0,6,low,200000
+281,artisan-professionnel,L'Essentiel Special 246 X 743,34762,99000,Makeup, False Eyelashes,5.0,4,4,0,4,low,396000
+1196,aveeno,Soothing and Calming Moisturizing Lotion,70973,230000,Bath & Body, Body Lotion / Body Serum,4.7100760456273765,262,257,6,221,medium,60260000
+1196,aveeno,Skin Relief Body Wash,23451,205900,Bath & Body, Body Wash,4.522058823529412,134,132,5,92,medium,27590600
+1196,aveeno,Daily Moisturising Body Wash,23449,184900,Bath & Body, Body Wash,4.5918803418803416,116,112,8,89,medium,21448400
+1196,aveeno,Soothing and Calming Moisturizing Body Wash,70974,184900,Bath & Body, Body Wash,4.698630136986301,70,72,4,56,medium,12943000
+1196,aveeno,Baby Wash and Shampoo,36384,194300,Hair Care, Shampoo,4.818181818181818,9,11,0,10,medium,1748700
+1196,aveeno,Daily Moisturizing Energizing Lotion,100014,230000,Bath & Body, Body Lotion / Body Serum,4.83,23,25,0,24,medium,5290000
+504,avoskin,YOUR SKIN BAE SERIES Niacinamide 12% + Centella,80851,154300,Skincare, Face Serum,4.55674074074074,3375,3121,298,2329,medium,520762500
+504,avoskin,YOUR SKIN BAE SERIES Collagen 10% + Gingseng Root,80850,154300,Skincare, Face Serum,4.625161098443542,1441,1374,70,1060,medium,222346300
+504,avoskin,Hydrating Treatment Essence,11257,132100,Skincare, Essence,4.4759570494864604,2142,1933,290,1285,medium,282958200
+504,avoskin,Your Skin Bae Toner Vitamin C 2% + Niacinamide 2% + Carrot Extract + Raspberry,84387,176500,Skincare, Toner,4.5928362573099415,339,311,41,234,medium,59833500
+504,avoskin,Miraculous Refining Serum,33304,276400,Skincare, Face Serum,4.588900203665988,2455,2341,151,1848,medium,678562000
+504,avoskin,YOUR SKIN BAE SERIES Toner Niacinamide 7% + Alpha Arbutin 1% + Kale,80839,165400,Skincare, Toner,4.574376612209803,1163,1079,93,776,medium,192360200
+504,avoskin,Natural Sublime Facial Cleanser,79496,132100,Skincare, Face Wash,4.690382452193476,889,861,34,726,medium,117436900
+504,avoskin,Advance Action Eye Ampoule,78922,243100,Skincare, Eye Serum,4.436267071320182,1318,1206,110,792,medium,320405800
+504,avoskin,Miraculous Retinol Ampoule,71144,287500,Skincare, Anti-Aging,4.646138583638584,3276,3166,105,2649,medium,941850000
+504,avoskin,YSB Serum Infused Cleanser Kojic Acid + Glycolic Acid + Licorice Allantion + Sodium Hyaluronate,102893,109900,Skincare, Face Wash,4.7444444444444445,45,44,2,31,medium,4945500
+504,avoskin,YOUR SKIN BAE SERIES Alpha Arbutin 3% + Grapeseed,80847,154300,Skincare, Face Serum,4.634108946608947,2772,2638,159,2096,medium,427719600
+504,avoskin,YSB Multi Herbs Hydro Burst Moisturizer,104204,138800,Skincare, Face Gel,4.545454545454546,11,9,3,8,medium,1526800
+504,avoskin,YOUR SKIN BAE SERIES Ultimate Hyaluron Marine Collagen 5% + Hyacross 2% + Galactomyces,80842,165400,Skincare, Toner,4.643911439114391,813,775,53,594,medium,134470200
+504,avoskin,Miraculous Refining Series Travel Kit,91774,243100,Skincare, Skin Care Set,4.71,25,24,1,16,medium,6077500
+504,avoskin,YOUR SKIN BAE SERIES ByeAcne ByeBlackhead Salicylic Acid 2% + Zinc,80844,154300,Skincare, Face Serum,4.562281315605318,1426,1328,123,994,medium,220031800
+504,avoskin,Intensive Nourishing Eye Cream Alpha Arbutin + Squalane + Kojic Acid + Retinol + Peptide + Edelweiss Extract,30907,165400,Skincare, Eye Cream,4.163550906346295,1388,1129,275,587,medium,229575200
+504,avoskin,YSB Niacinamide + Centella Asiatica Concentrated Serum Mask,89738,38900,Skincare, Sheet Mask,4.738970588235294,68,67,1,55,low,2645200
+504,avoskin,YSB Serum Mandelic Acid 5% + Panthenol + Perilla Extract,98927,154300,Skincare, Face Serum,4.645833333333333,12,12,1,11,medium,1851600
+504,avoskin,YSB Serum Infused Cleanser Spirulina + Witch Hazel + Glycolic Acid,102891,109900,Skincare, Face Wash,4.5875,40,38,5,24,medium,4396000
+504,avoskin,YSB Serum Spirulina + Witch Hazel + Glycolic Acid + Niacinamide (30 ml),100240,143200,Skincare, Face Serum,4.580357142857142,28,27,2,16,medium,4009600
+504,avoskin,Miraculous Divine Aura Ampoule X Paola Serena,92251,320800,Skincare, Ampoule,4.707831325301205,83,80,3,73,medium,26626400
+504,avoskin,Miraculous Divine Aura Liquid Ampoule Sheet Mask,92253,54400,Skincare, Sheet Mask,4.614035087719298,57,53,5,42,low,3100800
+504,avoskin,Miraculous Refining Series,84342,492900,Chăm sóc da, Set Chăm sóc da,4.0,1,1,0,1,medium,492900
+504,avoskin,Miraculous Divine Aura Essence-Toner X Paola Serena,92256,365200,Skincare, Essence,4.739583333333333,72,70,3,59,medium,26294400
+504,avoskin,YSB Vit. C + Hyaluronic Acid Concentrated Serum Mask,89739,38900,Skincare, Sheet Mask,4.724137931034483,58,57,2,47,low,2256200
+504,avoskin,YOUR SKIN BAE SERIES Ultimate Hyaluron HYACROSS 3% + Green Tea,80849,154300,Skincare, Face Serum,4.672683513838748,831,801,37,668,medium,128223300
+504,avoskin,YOUR SKIN BAE SERIES  Toner Salicylic Acid 1% + Zinc + Tea Tree Water,80841,165400,Skincare, Toner,4.594581749049429,526,491,45,354,medium,87000400
+504,avoskin,YSB Vitamin C Wrinkle Balm Moisturizing Stick,106629,187600,Skincare, Face Cream & Lotion,4.875,2,2,0,2,medium,375200
+504,avoskin,"Your Skin Bae Serum YSB Azeclair 10% + Niacinamide 2,5% + Kombucha Vaccine Serum",84384,165400,Skincare, Face Serum,4.561377245508982,665,624,62,443,medium,109991000
+504,avoskin,Miraculous Dark Spots Solution Active-Serum Infused Cleanser,98925,132100,Skincare, Face Wash,4.568181818181818,44,41,3,31,medium,5812400
+504,avoskin,Miraculous Retinol Toner Anniversary Edition,89753,243100,Skincare, Skin Care Set,4.663366336633663,101,96,4,80,medium,24553100
+504,avoskin,YSB Serum Tea Tree + Witch Hazel + Glycolic Acid + Rosemary (30 ml),100242,143200,Skincare, Face Serum,4.790540540540541,37,37,0,31,medium,5298400
+504,avoskin,My Serendipity NO.0 Deep Body Cleanser (200ml),101311,121000,Bath & Body, Body Wash,4.625,4,4,0,4,medium,484000
+504,avoskin,YOUR SKIN BAE Serum Panthenol 5% + Mugwort + Cica,87126,154300,Skincare, Face Serum,4.615853658536586,492,468,32,358,medium,75915600
+504,avoskin,Miraculous Retinol 7th Bday Edition,92268,573900,Skincare, Skin Care Set,4.5,1,1,0,0,high,573900
+504,avoskin,Miraculous Retinol Series,84343,530600,Skincare, Skin Care Set,4.625,4,4,0,3,high,2122400
+504,avoskin,My Serendipity NO.1 Deep Body Cleanser (200ml),101312,121000,Bath & Body, Body Wash,4.583333333333334,6,6,0,5,medium,726000
+504,avoskin,Miraculous Dark Spots Solution Essence Toner,98919,209800,Skincare, Toner,4.692307692307692,39,36,1,25,medium,8182200
+504,avoskin,Your Skin Bae Serum Vitamin C 3% + Niacinamide 2% + Mandarin Orange Fruit Extract,84385,165400,Skincare, Face Serum,4.629940443963184,1849,1745,133,1348,medium,305824600
+504,avoskin,YSB Serum Tranexamic Acid 3% + Glycolic Acid + Cranberry + Licorice,98926,154300,Skincare, Face Serum,4.615771812080537,149,140,12,93,medium,22990700
+504,avoskin,YSB Alpha Arbutin + Grapeseed Concentrated Serum Mask,89734,38900,Skincare, Sheet Mask,4.701298701298701,77,72,7,64,low,2995300
+504,avoskin,Miraculous Retinol Series Travel Kit,91888,254200,Skincare, Skin Care Set,4.677884615384615,104,100,5,73,medium,26436800
+504,avoskin,Avoskin Intensive Divine Day Cream,34626,154300,Skincare, Face Cream & Lotion,4.305208333333333,240,198,45,130,medium,37032000
+504,avoskin,Miraculous Dark Spots Solution Ampoule,98917,232000,Skincare, Ampoule,4.646551724137931,58,55,1,43,medium,13456000
+504,avoskin,Miraculous Acne Solution Spot Treatment,89715,243100,Skincare, Acne Treatment / Sealing gel / Cream,4.588888888888889,135,119,14,99,medium,32818500
+504,avoskin,"Your Skin Bae Serum Lactic Acid 10% + Niacinamide 2,5%",84383,143200,Skincare, Face Serum,4.64119170984456,772,741,40,600,medium,110550400
+504,avoskin,"YSB Serum Lactic Acid 10% + Kiwi Fruit 5% + Niacinamide 2,5% High Dose Anniversary Edition (30 ml)",99614,143200,Skincare, Face Serum,4.75107296137339,233,228,6,195,medium,33365600
+504,avoskin,YOUR SKIN BAE Toner Ceramide LC S-20 1% + Mugwort + Cica,87127,176500,Skincare, Toner,4.597982708933717,347,324,17,254,medium,61245500
+504,avoskin,Ultra Brightening Cream 3% Alpha Arbutin + 0.5% Retinolsome + 2% Squalane,76154,176500,Skincare, Face Cream & Lotion,4.426070038910506,257,234,23,157,medium,45360500
+504,avoskin,Miraculous Acne Solution Micro Serum,89717,243100,Skincare, Face Serum,4.597560975609756,205,185,17,150,medium,49835500
+504,avoskin,YSB Serum Kojic Acid 1% + Glycolic Acid + Soybean + Licorice (30 ml),99595,143200,Skincare, Face Serum,4.569444444444445,126,118,9,86,medium,18043200
+504,avoskin,Avoskin Basic Kit,65900,320800,Skincare, Skin Care Set,4.414092140921409,45,42,5,27,medium,14436000
+504,avoskin,Avoskin Luminous Emulsion Night Cream,34627,154300,Skincare, Face Cream & Lotion,4.370588235294118,255,219,42,146,medium,39346500
+504,avoskin,Your Skin Bae Mugwort Series,89657,330800,Skincare, Skin Care Set,4.541666666666667,6,6,0,6,medium,1984800
+504,avoskin,Kiss Your Crush! Hydration Plump It Up Travel Kit,91891,209800,Skincare, Skin Care Set,4.589285714285714,14,14,1,10,medium,2937200
+504,avoskin,Miraculous Acne Solution Bubble-Serum Infused Cleanser,89716,154300,Skincare, Face Wash,4.595486111111111,144,133,11,95,medium,22219200
+504,avoskin,Naufa Pure Olive Oil Bar Soap,34628,24500,Skincare, Cleansing Bar,4.527426160337553,237,221,18,150,low,5806500
+504,avoskin,AHA BHA PHA Sheetmask,79498,43300,Skincare, Sheet Mask,4.462374581939799,299,278,23,199,low,12946700
+504,avoskin,It`s Time To Glow Travel Kit,91890,209800,Skincare, Skin Care Set,4.4375,16,14,3,11,medium,3356800
+504,avoskin,Miraculous Acne Solution Overnight Liquid Ampoule Sheet Mask Set of 3,90780,128700,Skincare, Sheet Mask,2.75,1,0,1,0,medium,128700
+504,avoskin,Miraculous Acne Solution Overnight Liquid Ampoule Sheet Mask,89718,43300,Skincare, Sheet Mask,4.669075144508671,173,159,10,138,low,7490900
+504,avoskin,Avoskin Triple Sheetmask Package,83623,259800,Skincare, Sheet Mask,4.0,1,1,0,1,medium,259800
+15230,axis-y,Dark Spot Glow Serum,82424,387000,Skincare, Face Serum,4.512861736334405,311,292,29,212,medium,120357000
+15230,axis-y,Quinoa One-Step balanced Gel Cleanser,82425,324000,Skincare, Face Wash,4.551282051282051,39,37,4,22,medium,12636000
+15230,axis-y,New Skin Resolution Gel Mask,106759,387000,Skincare, Wash off Mask,5.0,1,1,0,1,medium,387000
+475,azarine,Hydramax-C Sunscreen Serum,92683,65000,Skincare, Sun Care,4.731332357247438,1366,1334,60,1142,low,88790000
+475,azarine,Hydrashoothe Sunscreen Gel Spf45+++,82166,65000,Skincare, Sun Care,4.786224163647987,9386,9168,215,8372,low,610090000
+475,azarine,Velvety Lippie Cream,105903,54000,Makeup, Lip Cream,4.603703703703704,108,104,5,74,low,5832000
+475,azarine,Chic to Cheek Blush,108254,59000,Makeup, Blush,4.64,5,5,0,5,low,295000
+475,azarine,Retinol Smooth Glowing Serum,96223,59000,Skincare, Face Serum,4.620967741935484,403,385,25,283,low,23777000
+475,azarine,Tinted Lippie Cake,103676,49000,Makeup, Lip Tint,4.689212827988338,343,332,16,265,low,16807000
+475,azarine,Bodyguard Moisturiser Sunscreen Serum  Sweet Treats Baby,97672,65000,Bath & Body, Body Lotion / Body Serum,4.722027972027972,143,139,5,117,low,9295000
+475,azarine,Hydrasoothe Sunscreen Mist,92690,65000,Skincare, Sun Care,4.508819951338199,822,733,90,527,low,53430000
+475,azarine,Bodyguard Moisturiser Sunscreen Serum  Sun O'Clock,97671,65000,Bath & Body, Body Lotion / Body Serum,4.713270142180095,211,207,6,176,low,13715000
+475,azarine,Bodysaver Moisturiser Bright Power 100 ml,101319,45000,Bath & Body, Body Lotion / Body Serum,4.642045454545455,44,41,5,28,low,1980000
+475,azarine,Mild Purifying Toner,91513,69000,Skincare, Toner,4.780087527352298,457,422,19,383,low,31533000
+475,azarine,Multi Acids Glowing Toner,91512,69000,Skincare, Toner,4.753597122302159,278,256,9,233,low,19182000
+475,azarine,Cicamide Barrier Sunscreen Moisturiser SPF 35 PA+++,105905,39000,Skincare, Face Serum,4.806603773584905,53,53,0,46,low,2067000
+475,azarine,Bodysaver Moisturiser Barrier Glow 100 ml,101316,45000,Bath & Body, Body Lotion / Body Serum,4.533333333333333,15,15,3,7,low,675000
+475,azarine,Bodyguard Moisturiser Sunscreen Serum  Young & Free,97896,65000,Bath & Body, Body Lotion / Body Serum,4.703947368421053,228,218,13,172,low,14820000
+475,azarine,Xpress micellar oil water,98876,49000,Skincare, Makeup Remover,4.7785714285714285,70,69,4,55,low,3430000
+475,azarine,Niacinamide 5 % + Moisture Sepiwhite Serum,96218,59000,Skincare, Face Serum,4.641176470588236,170,163,14,109,low,10030000
+475,azarine,Daily Beginner Exfoliating Toner,91515,69000,Skincare, Toner,4.792929292929293,396,365,12,328,low,27324000
+475,azarine,Moisture Rich Hydrating Toner,91514,69000,Skincare, Toner,4.76867469879518,415,384,19,354,low,28635000
+475,azarine,Oh! So Fine Liner,103674,55000,Makeup, Eyeliner,4.564705882352941,34,28,4,20,low,1870000
+475,azarine,Sweet Treats Eyeshadow,108252,62000,Makeup, Eyeshadow,4.640000000000001,5,5,0,5,low,310000
+475,azarine,Pure Radiance Barrier Moisturizer,106596,54000,Skincare, Face Cream & Lotion,4.6875,16,16,0,12,low,864000
+475,azarine,Intense Luminous Barrier Moisturizer,106594,54000,Skincare, Face Cream & Lotion,4.461538461538462,26,25,2,16,low,1404000
+475,azarine,Make It Brow-Cara!,108251,59000,Makeup, Eyebrows,4.8,4,4,0,2,low,236000
+475,azarine,Oh! My Brow Definer,103675,55000,Makeup, Eyebrows,4.735714285714286,56,55,2,43,low,3080000
+475,azarine,Bodyguard Moisturiser Sunscreen Serum  Sunproof Monster,97673,65000,Bath & Body, Body Lotion / Body Serum,4.669512195121951,205,198,7,155,low,13325000
+475,azarine,Niacinamide 10% + Dipotassium Glycyrrhizate Glorious Serum,102738,99000,Skincare, Face Serum,4.386363636363637,22,20,3,10,low,2178000
+475,azarine,Calm My Acne Sunscreen Moisturiser SPF 35 PA+++,105904,39000,Skincare, Face Serum,4.845454545454546,55,54,1,52,low,2145000
+475,azarine,Ceramoist botanical micellar water,98875,39000,Skincare, Makeup Remover,4.74404761904762,84,80,7,62,low,3276000
+475,azarine,Oil Free Brightening Daily Moisturizer,86490,69000,Skincare, Face Cream & Lotion,4.814696485623003,1565,1534,27,1378,low,107985000
+475,azarine,Acne Spot Serum,96214,29000,Skincare, Face Serum,4.631983240223463,358,330,32,257,low,10382000
+475,azarine,Bodyguard Moisturiser Sunscreen Serum  Magical Luv,97897,65000,Bath & Body, Body Lotion / Body Serum,4.715,350,344,8,281,low,22750000
+475,azarine,Bodysaver Moisturiser Smooth On 100 ml,101315,45000,Bath & Body, Body Lotion / Body Serum,4.483333333333334,30,28,3,19,low,1350000
+475,azarine,HydraMax Water Bank Serum,96222,49000,Skincare, Face Serum,4.643491124260355,169,160,15,109,low,8281000
+475,azarine,PHA 10% + Astaxanthin Hillarious Serum,102736,99000,Skincare, Face Serum,4.875,4,4,0,4,low,396000
+475,azarine,Vitamin C 10% + Diamond Booster Serum,102735,99000,Skincare, Face Serum,4.289473684210526,19,16,3,12,low,1881000
+475,azarine,Get Sunkissed! Bronzer,108257,59000,Makeup, Bronzer,4.666666666666667,3,3,0,2,low,177000
+475,azarine,Miracle Oil Serum,96225,59000,Skincare, Face Serum,4.588235294117647,34,30,3,28,low,2006000
+475,azarine,AHA-BHA-PHA Peeling Serum,96215,49000,Skincare, Face Serum,4.592105263157895,171,154,20,107,low,8379000
+475,azarine,Bubble On Me Deep Mask Cleanser,84779,125000,Skincare, Face Wash,4.75,98,96,6,76,medium,12250000
+475,azarine,Vitamin Lab Instant Glow Peel Off Nail Polish,87996,35000,Nail Care, Nail Polish,4.51937984496124,129,124,6,107,low,4515000
+475,azarine,Retinol Complex + 5x Ceramide Mighty Serum,102737,99000,Skincare, Face Serum,4.555555555555555,27,27,1,17,low,2673000
+475,azarine,Tone Up Mineral Sunscreen Serum,92691,75000,Skincare, Sun Care,4.694606413994169,343,319,27,266,low,25725000
+475,azarine,Miraclear Herbal Peeling Serum,76038,29500,Skincare, Face Serum,4.669835466179159,1094,1037,69,852,low,32273000
+475,azarine,Brightening C- Glow Serum,96217,59000,Skincare, Face Serum,4.610745614035088,228,211,24,157,low,13452000
+475,azarine,Advanced Youth Barrier Moisturizer,106595,54000,Skincare, Face Cream & Lotion,4.75,10,10,0,9,low,540000
+475,azarine,Bodysaver Moisturiser Ageless Glow 100 ml,101317,45000,Bath & Body, Body Lotion / Body Serum,4.75,24,24,0,15,low,1080000
+475,azarine,Polypeptide Fresh Vitality Toner,100116,69000,Skincare, Toner,4.472222222222222,36,33,5,20,low,2484000
+475,azarine,Daily Defender Multivitamin Serum,96230,59000,Skincare, Face Serum,4.632352941176471,85,81,5,52,low,5015000
+475,azarine,Radiant Luminous Serum,96220,49000,Skincare, Face Serum,4.620879120879121,91,85,4,60,low,4459000
+475,azarine,Eyeluminate Firming Serum C White,74715,42000,Skincare, Eye Serum,4.54982292682999,1186,1089,93,748,low,49812000
+475,azarine,Purifying Deep Cleansing Clay Mask,88409,65000,Skincare, Clay Mask,4.637392241379311,464,426,42,322,low,30160000
+475,azarine,C White Ultralight Hydraglow Day Cream,76036,55000,Skincare, Face Cream & Lotion,4.844712739383847,1201,1186,19,1084,low,66055000
+475,azarine,Blackhead Remover Mask,88410,50000,Skincare, Nose Pack,4.62827868852459,610,536,65,462,low,30500000
+475,azarine,Calming Skinpair Serum,96219,59000,Skincare, Face Serum,4.631889763779528,127,122,6,95,low,7493000
+475,azarine,Fresh Radiance Brightening Scrub,76037,32500,Skincare, Scrub & Exfoliator,4.560416666666667,120,111,8,73,low,3900000
+475,azarine,Acne Spot Gel,12602,45000,Skincare, Sealing / Treatment Gel / Cream,4.57673860911271,417,382,46,284,low,18765000
+1371,balans,Recharge Honey Lemon Tube | 14 Sachet,94653,379000,Supplement, Beauty Suplements,4.74525201893623,94,93,0,88,medium,35626000
+1371,balans,Balans Pure Tube | Collagen Drink – 14 Sachets,97753,389000,Supplement, Beauty Suplements,4.133333333333334,4,4,0,4,medium,1556000
+1371,balans,Active Mixed Berries Tube | 14 Sachet,94654,379000,Supplement, Beauty Suplements,4.779635823114083,38,39,0,37,medium,14402000
+1371,balans,Lite Tropical Fruits Tube | 14 Sachet,94655,379000,Supplement, Beauty Suplements,4.616725507502206,104,101,3,83,medium,39416000
+202,banana-boat,Sport Ultra SPF50+ Sunscreen Lotion,98549,254000,Skincare, Sunscreen,4.741935483870968,60,60,2,48,medium,15240000
+202,banana-boat,Ultra Protect Sunscreen Lotion SPF 50,2556,183000,Skincare, Sun Care,4.496010638297872,184,175,17,134,medium,33672000
+202,banana-boat,Deep Tanning Oil,23441,99000,Skincare, Sun Care,4.583333333333333,1,3,0,3,low,99000
+202,banana-boat,Simply Protect Aqua Sensitive Suncreen Lotion SPF50+ 50ml,102836,177000,Skincare, Sunscreen,4.7125,18,19,2,14,medium,3186000
+202,banana-boat,Sport Ultra SPF30 Sunscreen Lotion 90ml,484,159000,Skincare, Sun Care,4.3578947368421055,93,89,7,57,medium,14787000
+202,banana-boat,Ultra Protect Ultramist SPF50,23439,254000,Skincare, Sun Care,4.723194748358862,457,448,14,351,medium,116078000
+202,banana-boat,Simply Protect Aqua Daily Moisture Sunscreen Lotion SPF50+,63867,168000,Skincare, Sun Care,4.656336088154269,363,341,20,276,medium,60984000
+202,banana-boat,Ultra Protect Faces Sunscreen Lotion SPF 50 - 60ml,483,151000,Skincare, Sun Care,4.297222222222222,268,224,46,150,medium,40468000
+202,banana-boat,Simply Protect Aqua Long Wearing Moisture Sunscreen Lotion SPF50+,63866,168000,Skincare, Sun Care,4.673575129533679,189,184,9,142,medium,31752000
+202,banana-boat,Sun Comfort Lotion SPF 50,33707,193000,Skincare, Sun Care,4.342105263157896,55,53,6,35,medium,10615000
+202,banana-boat,Sport Ultra SPF50 Sunscreen Lotion 90ml,485,193000,Bath & Body, Body Sunscreen,4.335972850678733,220,216,15,152,medium,42460000
+202,banana-boat,Ultra Protect Sunscreen Lotion SPF 30,2555,151000,Bath & Body, Body Sunscreen,4.15,38,35,6,22,medium,5738000
+202,banana-boat,Deep Tanning Oil SPF 4 - 236ml,487,118000,Bath & Body, Tanning,4.514705882352941,15,16,2,11,medium,1770000
+202,banana-boat,Protective Tanning Oil SPF 8,2206,169000,Bath & Body, Tanning,4.428571428571429,5,7,1,4,medium,845000
+1247,banobagi,Vita Genic Jelly Mask Cica,106914,25000,Skincare, Sheet Mask,4.916666666666667,3,3,0,3,low,75000
+1247,banobagi,Vita Genic Jelly Mask Relaxing,106910,25000,Skincare, Sheet Mask,4.875,2,2,0,2,low,50000
+1247,banobagi,Vita Genic Jelly Mask Whitening,106907,25000,Skincare, Sheet Mask,4.875,2,2,0,2,low,50000
+1247,banobagi,Vita Genic Jelly Mask Lifting,106912,25000,Skincare, Sheet Mask,4.875,2,2,0,2,low,50000
+1247,banobagi,Vita Genic Jelly Mask Hydrating,106913,25000,Skincare, Sheet Mask,4.875,2,2,0,2,low,50000
+1247,banobagi,Vita Genic Jelly Mask Pore Tightening,106911,25000,Skincare, Sheet Mask,4.875,2,2,0,2,low,50000
+1247,banobagi,Vita Genic Jelly Mask Vitalizing,106908,25000,Skincare, Sheet Mask,4.875,2,2,0,2,low,50000
+1284,barenbliss,Cherry Makes Cheerful Lip Velvet,91569,69000,Makeup, Lip Cream,4.586168741355464,1446,1351,98,1043,low,99774000
+1284,barenbliss,Peach Makes Perfect Lip Tint,88812,69000,Makeup, Lip Tint,4.619731465265615,3426,3288,159,2627,low,236394000
+1284,barenbliss,Korean Bloomatte Full Bloom Transferproof Matte Tint LONGLAST 12H,100546,69000,Makeup, Lip Tint,4.573654390934845,706,660,63,492,low,48714000
+1284,barenbliss,Berry Makes Comfort Lip Cream,88811,69000,Makeup, Lip Cream,4.568921389396708,1094,1028,87,736,low,75486000
+1284,barenbliss,Kiwi Tin Tint Lip & Cheek,100699,69000,Makeup, Lip Tint,4.520105820105821,378,349,34,241,low,26082000
+1284,barenbliss,Fortune Cookie Eyeshadow,88832,69000,Makeup, Eyeshadow,4.621374045801526,524,496,24,371,low,36156000
+1284,barenbliss,Highlight! Rich Girl in Area,88840,79000,Makeup, Highlighter,4.676683937823834,193,186,12,124,low,15247000
+1284,barenbliss,Roll to Volume Mascara,101591,79000,Makeup, Mascara,4.773658536585366,205,195,9,165,low,16195000
+1284,barenbliss,Into Glow! Mon Paris Brightening Body Wash,98073,79000,Bath & Body, Body Wash,4.726010101010101,198,189,11,136,low,15642000
+1284,barenbliss,Barenbliss Fine to Refine Compact Powder,93071,129000,Makeup, Pressed Powder,4.542180094786729,422,393,35,290,medium,54438000
+1284,barenbliss,Butter Rush Vitamin Lip mask,91570,45000,Skincare, Lip Mask,4.562996031746032,504,455,55,322,low,22680000
+1284,barenbliss,Cheerio Acne! Black Opium Calming Body Wash,98078,79000,Bath & Body, Body Wash,4.588888888888889,180,157,18,114,low,14220000
+1284,barenbliss,Ceramoist Glow Lip Serum,101911,69000,Skincare, Lip Balm,4.71046511627907,215,206,11,160,low,14835000
+1284,barenbliss,True Beauty Inside Cushion Refill,103916,109000,Makeup, Cushion,4.661538461538461,39,37,2,33,medium,4251000
+1284,barenbliss,Soul-Matte Loose Powder,88842,99000,Makeup, Loose Powder,4.600210304942165,951,888,78,671,low,94149000
+1284,barenbliss,Make Me Classy Eyebrow,88838,49000,Makeup, Eyebrows,4.580630630630631,444,409,32,317,low,21756000
+1284,barenbliss,Into Glow! Mon Paris Brightening Body Serum,98081,89000,Bath & Body, Body Lotion / Body Serum,4.6477272727272725,220,210,14,147,low,19580000
+1284,barenbliss,Cheerio Acne! Black Opium Calming Body Serum,98082,89000,Bath & Body, Body Lotion / Body Serum,4.652892561983471,121,115,6,84,low,10769000
+1284,barenbliss,Barenbliss True Beauty Inside Cushion,93060,159000,Makeup, Cushion,4.5137931034482754,754,692,76,486,medium,119886000
+1284,barenbliss,Barenbliss Start-Over Concealer,93062,89000,Makeup, Concealer,4.463636363636363,154,135,18,88,low,13706000
+1284,barenbliss,Like A Pro! Shockproof DuraBrow Pomade,101592,69000,Makeup, Eyebrows,4.584126984126984,63,59,5,36,low,4347000
+1284,barenbliss,Better Than Magic Eyeliner,88835,45000,Makeup, Eyeliner,4.671860465116279,860,813,52,650,low,38700000
+1284,barenbliss,Double shot! C Day A Night Deep Brightening Double Serum,96869,189000,Skincare, Face Serum,4.61436170212766,94,90,4,65,medium,17766000
+1284,barenbliss,Spark-Tacular Party Blush,88841,75000,Makeup, Blush,4.6971428571428575,245,236,11,184,low,18375000
+1284,barenbliss,Set N Slick Lasting Browcara,106781,79000,Makeup, Eyebrows,4.711111111111111,9,9,0,8,low,711000
+1284,barenbliss,Yogurt Vit+ Mask Sakura Brightening Solution,90076,17000,Skincare, Sheet Mask,4.767412935323383,201,199,5,163,low,3417000
+1284,barenbliss,Caramel Frost Renewing Lip Scrub,103915,45000,Skincare, Lip Scrub,4.583333333333334,12,11,1,9,low,540000
+1284,barenbliss,Machi Peachy Micellar Water,90078,55000,Skincare, Micellar Water,4.669381107491857,307,287,21,213,low,16885000
+1284,barenbliss,K.O! Kombucha Omega Deep Cleansing Balm,99357,119000,Skincare, Cleansing Balm,4.600515463917526,97,86,12,57,medium,11543000
+1284,barenbliss,barenbliss My UV Armor SPF 50 PA++++,96437,89000,Skincare, Sun Care,4.5534351145038165,131,119,18,84,low,11659000
+1284,barenbliss,Clear Up Cheer Up Self-Care Travel Kit,102529,159000,Bath & Body, Bath & Body Set,5.0,5,5,0,4,medium,795000
+1284,barenbliss,10 Elements! Amino Acid Rich Foam Cleanser,99358,109000,Skincare, Face Wash,4.674242424242424,33,33,2,16,medium,3597000
+1284,barenbliss,I'm Pore-fect Amazon Glow Clay Duo,102822,109000,Skincare, Clay Mask,4.75,19,19,1,14,medium,2071000
+1284,barenbliss,KO! Kombucha Omega Deep Cleansing Balm (Refill),99716,89000,Skincare, Cleansing Balm,4.365384615384615,13,10,1,7,low,1157000
+1284,barenbliss,Double Joy Inside Holiday Edition Cushion Kit (cushion + refill),100978,268000,Makeup, Cushion,4.729411764705882,17,17,0,13,medium,4556000
+1284,barenbliss,Kiwi Tint Lip & Cheek Full Set Series,101182,275000,Makeup, Lip Tint,4.618181818181818,11,11,0,8,medium,3025000
+1284,barenbliss,Yogurt Vit+ Mask Tea Tree Calming Solution,90077,17000,Skincare, Sheet Mask,4.654285714285714,175,167,11,118,low,2975000
+1284,barenbliss,Barenbliss Peach Punch Mini Lip Tint Kit,106157,135000,Makeup, Lip Tint,4.694285714285714,70,70,0,57,medium,9450000
+1322,base,Dreamy Glow Postbiotic Gel Mask,102648,145000,Skincare, Face Gel,4.625,4,4,0,4,medium,580000
+1322,base,Fresh Clarifying Clay Mask,99873,225000,Skincare, Clay Mask,4.75,14,14,0,8,medium,3150000
+1322,base,Ultra Matte Natural Sunscreen SPF 50 PA+++,90204,169000,Skincare, Sun Care,4.446875,80,72,8,51,medium,13520000
+1322,base,Deep Sebum Control & Pore Clarifying Serum,91259,159000,Skincare, Face Serum,4.619047619047619,21,18,3,16,medium,3339000
+1322,base,Ultra Clarity Balancing Lotion,90209,189000,Skincare, Face Cream & Lotion,4.464285714285714,14,13,1,5,medium,2646000
+1322,base,Ultra Soothe Moisture Cream,90213,189000,Skincare, Face Cream & Lotion,4.45,5,4,1,2,medium,945000
+1322,base,Gloss & Go Lip Tint,102401,98000,Makeup, Lip Tint,4.714285714285714,21,21,0,15,low,2058000
+1322,base,Ultra Soothe Natural Sunscreen SPF 50 PA+++,90205,169000,Skincare, Sunscreen,4.285714285714286,28,23,8,10,medium,4732000
+1322,base,BASE Youthful Concentrate Eye Serum 15g,102553,139000,Skincare, Eye Serum,4.0,7,6,1,5,medium,973000
+1322,base,BASE Smooth Solar Shield Eye Cream SPF 45 PA+++ 15g,102552,139000,Skincare, Eye Cream,4.5,4,3,1,2,medium,556000
+1322,base,Relief Hydration & Barrier Calming Serum,98880,159000,Skincare, Face Serum,4.305555555555555,9,9,3,6,medium,1431000
+1322,base,All Day Quick Comfort Face Mist,102646,98000,Skincare, Face Mist,4.833333333333333,12,12,0,9,low,1176000
+1322,base,Daily Renewal Natural Exfoliating Pads,102645,149000,Skincare, Face Cream & Lotion,4.25,3,3,1,2,medium,447000
+1322,base,Rich Moisture & Youthful Firming Serum,98879,159000,Skincare, Face Serum,4.716666666666667,15,15,0,10,medium,2385000
+1322,base,Daily Radiance & Multi Protection Serum,93143,159000,Skincare, Face Serum,4.425,10,9,3,4,medium,1590000
+1322,base,Freshly Dew Toner,90206,159000,Skincare, Toner,4.53125,16,14,1,7,medium,2544000
+1322,base,BASE Gloss & Go Collection Set,102551,588000,Makeup, Lip Tint,4.7,2,2,0,2,high,1176000
+515,batiste,Tropical Exotic Coconut Dry Shampoo,103888,120082,Hair Care, Dry Shampoo,4.714285714285714,14,14,0,13,medium,1681148
+515,batiste,Light & Breezy Fresh,73918,120082,Hair Care, Dry Shampoo,4.607142857142858,42,41,3,34,medium,5043444
+515,batiste,Fruity & Cheeky Cherry,73945,120082,Hair Care, Dry Shampoo,4.628571428571428,70,68,3,56,medium,8405740
+515,batiste,BUY 1 FREE 1 Batiste Dry Shampoo - Clean & Classic Original 200ml,84989,238000,Hair Care, Dry Shampoo,4.25,2,1,1,1,medium,476000
+515,batiste,Clean & Classic Original,73944,120082,Hair Care, Dry Shampoo,4.596590909090909,44,42,4,32,medium,5283608
+515,batiste,Benefit Dry Shampoo & Volume,89158,150355,Hair Care, Dry Shampoo,4.428571428571429,14,11,3,10,medium,2104970
+515,batiste,Divine Dark With A Hint Of Color,73922,120082,Hair Care, Dry Shampoo,4.4642857142857135,7,4,1,3,medium,840574
+515,batiste,Pretty & Opulent Oriental,73920,120082,Hair Care, Dry Shampoo,4.611111111111111,18,18,0,14,medium,2161476
+515,batiste,Self Love Beaming Berries,104416,120082,Hair Care, Dry Shampoo,4.0,1,1,1,0,medium,120082
+515,batiste,Benefit Dry Shampoo & De-Frizz,89160,150355,Hair Care, Dry Shampoo,4.75,2,2,1,1,medium,300710
+515,batiste,Benefit Dry Shampoo & Hydrate,89159,150355,Hair Care, Dry Shampoo,4.333333333333333,3,2,0,1,medium,451065
+515,batiste,Clean & Classic Original Travel Size,73946,49445,Hair Care, Dry Shampoo,4.762711864406779,59,59,2,52,low,2917255
+2271,beauty-of-joseon,Glow Serum : Propolis + Niacinamide,102899,240000,Skincare, Face Serum,4.7,32,34,3,27,medium,7680000
+2271,beauty-of-joseon,Radiance Cleansing Balm,102906,270000,Skincare, Cleansing Balm,4.791666666666667,10,11,1,10,medium,2700000
+2271,beauty-of-joseon,Centella Asiatica Calming Mask,102897,35000,Skincare, Sheet Mask,4.875,4,4,0,3,low,140000
+2271,beauty-of-joseon,Glow Deep Serum : Rice + Alpha-Arbutin,102904,240000,Skincare, Face Serum,4.804878048780488,39,40,1,35,medium,9360000
+2271,beauty-of-joseon,Sunscreen : Rice + Probiotics,102905,250000,Skincare, Sunscreen,4.742774566473988,171,166,10,141,medium,42750000
+2271,beauty-of-joseon,Revive Eye Cream: Ginseng + Retinal,102907,260000,Skincare, Eye Cream,4.674242424242424,32,32,1,22,medium,8320000
+2271,beauty-of-joseon,Revive Serum : Ginseng + Snail Mucin,102903,240000,Skincare, Face Serum,4.816666666666666,13,15,0,12,medium,3120000
+2271,beauty-of-joseon,Ginseng Essence Water,102901,250000,Skincare, Essence,4.75,10,12,0,11,medium,2500000
+2271,beauty-of-joseon,Dynasty Cream,102898,340000,Skincare, Face Cream & Lotion,4.63125,39,39,2,27,medium,13260000
+2271,beauty-of-joseon,Green Plum Refreshing Cleanser,102900,180000,Skincare, Face Wash,4.857142857142857,5,7,0,6,medium,900000
+2271,beauty-of-joseon,Ginseng Cleansing Oil,102902,280000,Skincare, Cleansing Oil,4.764705882352942,15,17,0,16,medium,4200000
+15526,beauty-of-majesty,My Lipstick,89906,210000,Makeup, Lipstick,4.933333333333334,2,9,0,9,medium,420000
+15526,beauty-of-majesty,Dewy Lip Balm,89842,195000,Skincare, Lip Balm,4.583333333333333,2,6,0,6,medium,390000
+15526,beauty-of-majesty,Matt Holic Tint,89838,249000,Makeup, Lip Cream,4.971428571428572,3,7,0,6,medium,747000
+15526,beauty-of-majesty,Pearl Party Eye Glitter,89843,222000,Makeup, Eyeshadow,4.7,2,2,0,2,medium,444000
+15526,beauty-of-majesty,3in1 Triple Edge Eyebrow,89841,172000,Makeup, Eyebrows,4.880000000000001,2,5,0,4,medium,344000
+15526,beauty-of-majesty,Omg Matt Lip Lacquer,102621,222000,Makeup, Lip Cream,4.975,3,8,0,8,medium,666000
+15526,beauty-of-majesty,Wonderproof Mascara Long & Curl,89840,210000,Makeup, Mascara,5.0,1,2,0,2,medium,210000
+15526,beauty-of-majesty,Light On Tone-Up Cream,91642,289000,Skincare, Face Cream & Lotion,4.9375,2,4,0,3,medium,578000
+15526,beauty-of-majesty,Eight Tea Cicaming Serum,91641,299000,Skincare, Face Serum,5.0,2,4,0,4,medium,598000
+15526,beauty-of-majesty,Eight Tea Cleansing Foam,91637,199000,Skincare, Face Wash,5.0,1,3,0,3,medium,199000
+15526,beauty-of-majesty,Eight Tea Cleansing Water,89845,269000,Chăm sóc da, Nước tẩy trang,5.0,3,4,0,4,medium,807000
+15526,beauty-of-majesty,Just One Houttuynia Cordata Serum,102627,276000,Skincare, Face Serum,5.0,3,5,0,4,medium,828000
+15526,beauty-of-majesty,Eight Tea Boosting Mask,102631,370000,Skincare, Sheet Mask,4.875,4,6,0,6,medium,1480000
+15526,beauty-of-majesty,Eight Tea Lip And Eye Remover Pad,92265,64000,Skincare, Cleansing Wipes,4.5,2,3,1,3,low,128000
+15526,beauty-of-majesty,Light On In Shower Body Tone Up,91644,397000,Bath & Body, Body Lotion / Body Serum,4.875,3,4,0,4,medium,1191000
+15526,beauty-of-majesty,Eight Tea Water Capsule Cream,91636,299000,Skincare, Face Cream & Lotion,5.0,2,3,0,3,medium,598000
+15526,beauty-of-majesty,Peptide Power Ampoule,102626,300000,Skincare, Ampoule,5.0,2,4,0,4,medium,600000
+15662,beauty-secrets,Lovely Lavender Set,105339,150000,Bath & Body, Bath & Body Set,4.833333333333333,12,12,0,11,medium,1800000
+15662,beauty-secrets,Little Rose Set,105340,250000,Bath & Body, Bath & Body Set,4.8500000000000005,15,15,0,12,medium,3750000
+15662,beauty-secrets,Pretty Relax Set,105338,85000,Bath & Body, Bath & Body Set,4.979166666666667,12,12,0,11,low,1020000
+15662,beauty-secrets,Japan Cherry B Fragrance Mist,105336,200000,Fragrance, Body Mist,4.851851851851852,18,18,1,17,medium,3600000
+15662,beauty-secrets,Sweet Pea Body Lotion,105328,200000,Bath & Body, Body Lotion / Body Serum,5.0,7,7,0,6,medium,1400000
+15662,beauty-secrets,Sweet Pea Fragrance Mist,105329,200000,Fragrance, Body Mist,4.725490196078432,17,17,1,13,medium,3400000
+15662,beauty-secrets,Sweet Pea Shower Gel,105326,200000,Bath & Body, Body Wash,5.0,4,4,0,4,medium,800000
+15662,beauty-secrets,Dark Kiss Body Lotion,105320,200000,Bath & Body, Body Lotion / Body Serum,5.0,2,2,0,2,medium,400000
+15662,beauty-secrets,Japanese Cherry B Body Lotion,105334,200000,Bath & Body, Body Lotion / Body Serum,5.0,4,4,0,4,medium,800000
+15662,beauty-secrets,Japanese Cherry B Shower Gel,105330,200000,Bath & Body, Body Wash,4.9375,4,4,0,4,medium,800000
+15662,beauty-secrets,Japanese Cherry B Body Scrub,105331,200000,Bath & Body, Body Cleanser,5.0,3,3,0,3,medium,600000
+15662,beauty-secrets,Dark Kiss Body Scrub,105319,200000,Bath & Body, Body Cleanser,5.0,2,2,0,2,medium,400000
+15662,beauty-secrets,Sweet Pea Body Scrub,105327,200000,Bath & Body, Body Cleanser,5.0,4,4,0,3,medium,800000
+15662,beauty-secrets,Dark Kiss Fragrance Mist,105323,200000,Fragrance, Body Mist,4.791666666666667,16,16,0,14,medium,3200000
+109,beautyblender,California Girls,95950,655000,Accessories, Sponge & Applicators,4.833333333333334,1,3,0,3,high,655000
+109,beautyblender,Beautyblender BBF Kit,19880,695000,Accessories, Sponge & Applicators,4.833333333333333,4,6,1,5,high,2780000
+109,beautyblender,Original Pink,151,388000,Accessories, Sponge & Applicators,4.569672131147541,58,61,2,43,medium,22504000
+109,beautyblender,Bio Pure,85368,388000,Accessories, Sponge & Applicators,4.9375,2,4,0,3,medium,776000
+109,beautyblender,House Of Bounce,101410,399000,Accessories, Sponge & Applicators,5.0,1,1,0,1,medium,399000
+109,beautyblender,Blendercleanser Liquid,1470,378000,Accessories, Brush Cleanser & Tools,4.625,8,9,2,7,medium,3024000
+109,beautyblender,Blender Defender,25004,248000,Accessories, Travel Bottles & Makeup case,3.863636363636364,9,7,4,3,medium,2232000
+109,beautyblender,Beautyblender® Electric Violet,33855,388000,Accessories, Sponge & Applicators,4.7,9,10,1,7,medium,3492000
+109,beautyblender,Pro Black,150,388000,Accessories, Sponge & Applicators,4.375,42,43,3,31,medium,16296000
+109,beautyblender,Joy beautyblender,35369,388000,Accessories, Sponge & Applicators,4.291666666666666,4,5,0,2,medium,1552000
+109,beautyblender,Beautyblender Nude,19710,388000,Accessories, Sponge & Applicators,4.489999999999999,23,21,4,16,medium,8924000
+109,beautyblender,Blendercleanser Solid,1469,368000,Accessories, Brush Cleanser & Tools,4.5,11,12,2,10,medium,4048000
+575,benton,Air Fit UV Defense Sun Cream,102349,310000,Skincare, Sunscreen,4.375000000000001,6,5,1,4,medium,1860000
+575,benton,Fermentation Mask Pack,77964,45000,Skincare, Sheet Mask,4.691860465116279,43,40,2,34,low,1935000
+575,benton,Snail Bee High Content Essence,9847,320000,Treatment, Skincare,4.433024088541667,3072,2784,447,1904,medium,983040000
+575,benton,Snail Bee High Content Skin Toner,9845,280000,Skincare, Toner,4.353448275862069,667,593,119,363,medium,186760000
+575,benton,Snail Bee High Content Steam Cream,9848,290000,Skincare, Face Cream & Lotion,4.120426829268293,328,267,82,140,medium,95120000
+575,benton,Refresh by Cica Body Wash,102351,370000,Bath & Body, Body Wash,4.875,2,2,0,1,medium,740000
+575,benton,Snail Bee High Content Mask Pack,9844,40000,Skincare, Sheet Mask,4.414850136239783,367,334,32,233,low,14680000
+575,benton,Fermentation Essence,9841,350000,Skincare, Essence,4.387931034482758,203,178,31,114,medium,71050000
+575,benton,Honest Lip Balm,91288,140000,Skincare, Lip Balm,4.291666666666666,6,5,1,2,medium,840000
+575,benton,Mineral Sun Stick,86657,370000,Skincare, Sun Care,4.431818181818182,22,19,1,14,medium,8140000
+575,benton,Snail Bee Ultimate Hydrogel Eye Patch,70823,380000,Skincare, Eye Mask,4.446969696969697,66,59,7,36,medium,25080000
+575,benton,Deep Green Tea Cleansing Foam,82016,200000,Skincare, Face Wash,4.491071428571429,28,27,4,16,medium,5600000
+575,benton,Aloe Soothing Mask Pack,34777,40000,Skincare, Sheet Mask,4.549132947976879,173,166,8,120,low,6920000
+575,benton,Honest Eyelash Serum,98593,330000,Skincare, Eyelash Serum,4.803571428571429,14,13,2,10,medium,4620000
+575,benton,Aloe Propolis Soothing Gel,9850,270000,Skincare, Face Gel,4.625500546050237,2747,2641,158,2083,medium,741690000
+575,benton,Fermentation Eye Cream,9840,350000,Skincare, Eye Cream,4.13125,240,199,50,86,medium,84000000
+575,benton,Aloe Real Cool Soothing Gel,74234,130000,Skincare, Face Gel,4.522810218978102,274,255,20,184,medium,35620000
+575,benton,PHA Peeling Toner,86654,370000,Skincare, Toner,4.874999999999999,6,6,0,5,medium,2220000
+575,benton,Deep Green Tea Toner,70817,210000,Skincare, Toner,4.559190031152648,321,295,25,199,medium,67410000
+575,benton,Cacao Moist and Mild Toner,21838,270000,Skincare, Toner,4.378787878787879,33,30,5,22,medium,8910000
+575,benton,Centella Mask Pack,35542,40000,Skincare, Sheet Mask,4.588541666666666,144,130,11,97,low,5760000
+575,benton,Shea Butter dan Coconut Body Lotion,70820,320000,Bath & Body, Body Lotion,4.578947368421053,19,19,2,15,medium,6080000
+575,benton,Tea Tree Cleansing Water,22281,300000,Skincare, Micellar Water,4.389423076923077,52,50,6,28,medium,15600000
+575,benton,Cacao Moist and Mild Cream,9838,250000,Skincare, Face Cream & Lotion,4.37,100,90,14,47,medium,25000000
+575,benton,Cacao Moist And Mild Serum,70818,250000,Skincare, Face Serum,4.381944444444445,36,30,7,17,medium,9000000
+575,benton,Shea Butter and Olive Hand Cream,70819,130000,Hand & Foot Cream, Bath & Body,4.669642857142857,28,27,0,21,medium,3640000
+575,benton,Tea Tree Serum,82019,300000,Skincare, Face Serum,4.669642857142857,28,26,3,21,medium,8400000
+731,bhumi,Ceramide Hydra Lock Moisturizer,63259,261100,Skincare, Face Cream & Lotion,4.638333333333333,200,197,10,157,medium,52220000
+731,bhumi,HPR Retinol Serum,99783,202400,Skincare, Face Serum,4.69,50,48,2,43,medium,10120000
+731,bhumi,Overnight Body Serum,74050,182850,Bath & Body, Body Lotion / Body Serum,4.361111111111111,36,32,2,21,medium,6582600
+731,bhumi,C+ Brightening Booster,88250,217500,Skincare, Booster,4.608928571428572,140,134,8,101,medium,30450000
+731,bhumi,G-Alpine Hydra Lock Moisturizer,63261,258750,Skincare, Face Cream & Lotion,4.48470744680851,96,88,11,65,medium,24840000
+731,bhumi,HPR Retinol Serum,81329,327000,Skincare, Face Serum,4.6118421052631575,114,112,5,83,medium,37278000
+731,bhumi,Intensive Repair Barrier Serum,101352,194500,Skincare, Face Serum,4.875,6,6,0,6,medium,1167000
+731,bhumi,Refill Pack Ceramide Hydra Lock Moisturizer,93240,201500,Skincare, Face Cream & Lotion,4.73,25,24,0,20,medium,5037500
+731,bhumi,Skin Ready Hydrating Toner,86786,178500,Skincare, Toner,4.652777777777777,18,16,1,11,medium,3213000
+731,bhumi,beneath! By Bhumi Cucumber Calming Gel Mask,90339,143750,Skincare, Sleeping Mask,4.7142857142857135,7,7,1,5,medium,1006250
+731,bhumi,Claire Vibrant Booster,97321,200100,Skincare, Face Serum,4.53125,16,15,1,12,medium,3201600
+731,bhumi,beneath! By Bhumi Sugar Rush Exfoliating Serum,90335,105800,Skincare, Face Serum,4.722222222222221,18,17,1,16,medium,1904400
+731,bhumi,beneath! By Bhumi Dear Doris Skin Prep Essence Toner,90337,140300,Skincare, Toner,4.84375,8,7,0,6,medium,1122400
+731,bhumi,Luminight Exfoliating Serum,97320,241500,Skincare, Face Serum,4.750000000000001,17,16,1,16,medium,4105500
+731,bhumi,beneath! By Bhumi Very Berry Brightening Serum,90331,101200,Skincare, Face Serum,4.71875,8,8,1,6,medium,809600
+15349,bies,Miss Viviane,92782,300000,Fragrance, Eau De Parfum,4.904761904761905,4,7,0,7,medium,1200000
+15349,bies,Viva La Dolce,87420,300000,Fragrance, Eau De Parfum,4.317073170731708,38,36,6,27,medium,11400000
+15349,bies,Cecile,92594,300000,Fragrance, Eau De Parfum,4.7407407407407405,6,9,2,5,medium,1800000
+15349,bies,Bliss of Joy,92592,300000,Fragrance, Eau De Parfum,4.481481481481482,5,9,0,7,medium,1500000
+15349,bies,I Just Love It,87422,240000,Fragrance, Eau De Parfum,4.567567567567568,33,35,3,28,medium,7920000
+15349,bies,Blossom Garden EDP,87425,290000,Fragrance, Eau De Parfum,4.3580246913580245,24,24,4,14,medium,6960000
+15349,bies,Wish,92593,300000,Fragrance, Eau De Parfum,4.818181818181818,8,11,0,10,medium,2400000
+15349,bies,Blossom Roses EDP,87442,290000,Fragrance, Eau De Parfum,4.270833333333333,13,11,4,10,medium,3770000
+15349,bies,Blossom Roses Body Mist,87444,150000,Fragrance, Body Mist,4.583333333333333,5,8,0,6,medium,750000
+15349,bies,Blossom Meadow EDP,87448,290000,Fragrance, Eau De Parfum,4.549019607843138,14,17,2,10,medium,4060000
+15349,bies,Blossom Hills EDP,87451,290000,Fragrance, Eau De Parfum,4.621212121212121,19,22,0,16,medium,5510000
+15349,bies,Blossom Hills Body Mist,87454,150000,Fragrance, Body Mist,4.523809523809524,4,6,1,6,medium,600000
+15349,bies,Blossom Avenue Body Mist,87447,150000,Fragrance, Body Mist,4.291666666666667,5,7,2,6,medium,750000
+15349,bies,Love Elixir,87421,240000,Fragrance, Eau De Parfum,4.5681818181818175,41,39,5,30,medium,9840000
+15349,bies,Blossom Garden EDP Travel Size,87440,75000,Fragrance, Eau De Parfum,4.312222222222222,23,22,5,13,low,1725000
+15349,bies,Blossom Orchid EDP,87455,290000,Fragrance, Eau De Parfum,4.714285714285714,4,7,1,6,medium,1160000
+15349,bies,Blossom Meadow EDP Travel Size,87449,75000,Fragrance, Eau De Parfum,4.246376811594203,20,21,8,9,low,1500000
+15349,bies,Blossom Avenue EDP Travel Size,87446,75000,Fragrance, Eau De Parfum,4.555555555555555,9,11,0,8,low,675000
+15349,bies,Blossom Orchid EDP Travel Size,87456,75000,Fragrance, Eau De Parfum,4.583333333333333,13,15,2,11,low,975000
+15349,bies,Blossom Hills EDP Travel Size,87452,75000,Fragrance, Eau De Parfum,4.717948717948718,10,13,0,10,low,750000
+15349,bies,Blossom Roses EDP Travel Size,87443,75000,Fragrance, Eau De Parfum,4.277777777777779,9,10,3,6,low,675000
+15349,bies,Blossom Avenue EDP,87445,290000,Fragrance, Eau De Parfum,4.846153846153846,11,13,0,11,medium,3190000
+15349,bies,Blossom Meadow Body Mist,87450,150000,Fragrance, Body Mist,4.444444444444445,3,5,1,4,medium,450000
+1161,bio-beauty-lab,Blemish and Pore Clearing Toner,105118,185000,Skincare, Toner,4.726190476190476,21,21,0,18,medium,3885000
+1161,bio-beauty-lab,Bio Beauty Lab Acne Treatment Face Oil Twinpack - 10 ml,85749,390000,Skincare, Face Oil,4.75,1,1,0,1,medium,390000
+1161,bio-beauty-lab,Bio Beauty Lab Face Oil Complete Set - 10 ml,85740,390000,Skincare, Face Oil,4.5,2,2,0,1,medium,780000
+1161,bio-beauty-lab,Bio Beauty Lab Luxurious Face Oil Twinpack - 10 ml,85745,390000,Skincare, Face Oil,5.0,1,1,0,1,medium,390000
+192,bio-oil,Dry Skin Gel  50ml,36113,89000,Bath & Body, Body Lotion / Body Serum,4.59253640776699,824,788,42,600,low,73336000
+192,bio-oil,Dry Skin Gel  200ml,36110,254000,Bath & Body, Body Lotion / Body Serum,4.605263157894737,57,55,3,46,medium,14478000
+192,bio-oil,Dry Skin Gel 100ml,36111,152000,Bath & Body, Body Lotion / Body Serum,4.434684684684685,111,106,9,74,medium,16872000
+252,bio-essence,Bio Gold Radiance Cleanser,33751,71500,Skincare, Face Wash,4.512237762237762,143,133,13,98,low,10224500
+252,bio-essence,Bio Gold Night Cream,33756,351500,Skincare, Face Cream & Lotion,4.470588235294118,34,31,2,23,medium,11951000
+252,bio-essence,Bio Gold Golden Ratio Double Serum,33757,441000,Skincare, Face Serum,4.420454545454546,20,17,4,13,medium,8820000
+252,bio-essence,Bio White Advanced Whitening Serum,23593,294000,Skincare, Face Serum,4.220833333333333,58,54,7,31,medium,17052000
+252,bio-essence,Bio Renew Nourishing Toner,34690,188000,Skincare, Toner,4.631944444444445,34,35,1,26,medium,6392000
+252,bio-essence,Bio Gold Eye Power Illuminator,33753,351500,Skincare, Eye Serum,4.637931034482759,27,27,3,22,medium,9490500
+252,bio-essence,Bio Treasure  Korea Bamboo Acne Treatment Gel Cleanser,92812,81000,Skincare, Cleansing Gel,4.9,3,5,0,4,low,243000
+252,bio-essence,Bio-Treasure Japanese Cherry Blossom Brightening Face Wash,90190,84500,Skincare, Face Wash,4.708333333333334,4,6,0,5,low,338000
+252,bio-essence,Bio Essence - Bio Water B5 HYDRATING TONER,35511,222500,Skincare, Toner,4.703703703703704,25,26,1,23,medium,5562500
+252,bio-essence,Bio Essence - Bio Water B5 ACNE GEL 15,95606,140000,Skincare, Acne Treatment / Sealing gel / Cream,5.0,1,3,0,3,medium,140000
+252,bio-essence,Bio Essence - Bio Water B5 PORE MINIMIZER SERUM,95598,257500,Skincare, Face Serum,4.75,2,4,0,3,medium,515000
+252,bio-essence,Bio-Renew Deep Exfoliating Gel,36961,176500,Skincare, Scrub & Exfoliator,4.631313131313132,97,96,3,74,medium,17120500
+252,bio-essence,Bio Gold Day Cream SPF 25/PA++,33755,351500,Skincare, Face Cream & Lotion,4.663793103448276,26,29,0,22,medium,9139000
+252,bio-essence,Bio Renew Foamy Cleanser,34688,83500,Skincare, Face Wash,4.458333333333333,22,22,1,19,low,1837000
+252,bio-essence,Bio Vlift Face Lifting Cream,35129,388000,Skincare, Face Cream & Lotion,4.478260869565218,21,22,1,13,medium,8148000
+252,bio-essence,Bio Renew - Starter Pack - Perawatan Wajah Anti Aging,89982,163500,Skincare, Skin Care Set,5.0,2,2,0,2,medium,327000
+252,bio-essence,Bio White Advanced Whitening Day Cream SPF20,23597,232900,Skincare, Face Cream & Lotion,4.369791666666667,46,42,8,28,medium,10713400
+252,bio-essence,Bio Treatment Essence In Oil,23599,155000,Skincare, Face Oil,4.326086956521739,44,38,6,27,medium,6820000
+252,bio-essence,Bio Gold - Starter Pack - Perawatan Wajah Anti Aging,89983,175500,Skincare, Skin Care Set,5.0,2,2,0,2,medium,351000
+252,bio-essence,Bio Renew  Radiant Youth Facial Oil,34692,294000,Skincare, Face Oil,4.75,12,14,0,13,medium,3528000
+252,bio-essence,Bio Renew Deep Cleanser,34687,83500,Skincare, Face Wash,4.608974358974359,37,37,4,28,low,3089500
+252,bio-essence,Bio Essence - Bio White Starter Kit,86489,151500,Skincare, Skin Care Set,4.666666666666667,6,5,1,4,medium,909000
+252,bio-essence,Bio White Advanced Whitening Night Cream,23598,232900,Skincare, Face Cream & Lotion,4.2756410256410255,37,32,8,23,medium,8617300
+252,bio-essence,Bio Treasure Jeju Marine Algae Skin Water-full Mask,74483,46900,Skincare, Sheet Mask,4.85,3,5,0,5,low,140700
+252,bio-essence,Bio Essence - Bio Water B5 MOIST IN GEL 50,35512,293000,Skincare, Face Gel,4.668650793650794,124,124,3,98,medium,36332000
+252,bio-essence,Bio White Advanced Whitening Refiner,23595,187000,Skincare, Essence,4.409722222222222,70,62,13,42,medium,13090000
+252,bio-essence,Bio White Advanced Whitening Cleanser,23594,63500,Skincare, Face Wash,4.4423076923076925,258,233,43,145,low,16383000
+176,bioderma,Bioderma Hydrabio Brume - Refreshing Face Spray,1961,235000,Skincare, Face Mist,4.509966777408637,299,282,22,216,medium,70265000
+176,bioderma,Bioderma Sensibio Defensive - Antioxidant Soothing Moisturizer,94582,335000,Skincare, Face Cream & Lotion,5.0,1,2,0,2,medium,335000
+176,bioderma,Hydrabio Essence Lotion - Hydrating Essence Toner,1963,335000,Skincare, Essence,4.424550614947966,1054,1012,109,592,medium,353090000
+176,bioderma,Bioderma Sebium Lotion - Oil Rebalancing Toner,35388,335000,Skincare, Toner,4.360738255033557,149,135,18,95,medium,49915000
+176,bioderma,Bioderma Sensibio H2O Eye - Waterproof Makeup Remover,102290,215000,Skincare, Makeup Remover,4.964285714285714,5,7,0,7,medium,1075000
+176,bioderma,Hydrabio Gel-Crème - Hydrating Moisturizer,1726,335000,Skincare, Face Gel,4.495341614906833,159,153,14,113,medium,53265000
+176,bioderma,Bioderma Hydrabio Tonique - Hydrating Toner,434,315000,Skincare, Face Cream & Lotion,4.408227848101266,234,226,33,153,medium,73710000
+176,bioderma,Bioderma Sebium Sensitive - Soothing Acne Moisturizer,77482,400000,Skincare, Face Cream & Lotion,4.736363636363636,55,55,0,45,medium,22000000
+176,bioderma,Bioderma Sebium Pore Refiner - Pore Tightening Moisturizer,1975,345000,Skincare, Face Cream & Lotion,4.307259713701432,489,443,66,245,medium,168705000
+176,bioderma,Bioderma Atoderm Pp Baume - Moisturizing Balm,33318,380000,Skincare, Face Cream & Lotion,4.646551724137932,56,55,2,39,medium,21280000
+176,bioderma,Bioderma Hydrabio Serum - Universal Hydrating Serum,1965,415000,Skincare, Face Serum,4.436027837259101,930,906,109,515,medium,385950000
+176,bioderma,Bioderma Sebium Gel Moussant Actif - Acne Treatment Cleanser,96489,365000,Skincare, Face Wash,4.716101694915254,58,57,2,50,medium,21170000
+176,bioderma,Photoderm Max Spray SPF 50 + 200ml,1114,470000,Skincare, Sun Care,4.406716417910449,76,60,6,44,medium,35720000
+176,bioderma,Bioderma Photoderm Akn Mat Spf 30+,1966,335000,Skincare, Sunscreen,4.405092592592593,106,103,9,72,medium,35510000
+176,bioderma,Bioderma Photoderm Fluide Max Spf100 - Sunscreen 40Ml,1968,335000,Skincare, Sunscreen,4.19672131147541,180,152,40,83,medium,60300000
+286,biore,Cleansing Oil,2193,103400,Skincare, Cleanser,4.547241794256575,3613,3418,334,2584,medium,373584200
+286,biore,Biore UV Aqua Rich Watery Essence SPF 50+/PA+++,2559,122800,Skincare, Sun Care,4.533691915712223,9766,9245,852,7379,medium,1199264800
+286,biore,UV Aqua Rich Watery Gel Sunscreen Skin Care SPF 50 PA++++,21804,136500,Skincare, Sun Care,4.518103357872438,691,615,84,455,medium,94321500
+286,biore,UV Athlizm Skin Protection Essence Sport Sunscreen SPF 50 PA++++,72933,206200,Skincare, Sun Care,4.637376237623762,202,189,12,153,medium,41652400
+286,biore,Biore MUR Micellar Massage Wash 90ml,89874,33400,Skincare, Face Wash,4.580555555555556,270,246,23,185,low,9018000
+286,biore,Men's Biore Double Scrub Facial Foam - White Energy,73468,31200,Skincare, Face Wash,4.93,25,24,0,24,low,780000
+286,biore,UV Fresh & Bright SPF 50/PA+++ Oil Control Matte,100737,36900,Skincare, Sunscreen,4.570564516129032,124,115,12,85,low,4575600
+286,biore,Bright Body Foam Pouch,71292,28000,Bath & Body, Body Wash,4.721523668639053,676,667,14,572,low,18928000
+286,biore,Make Up Remover Cleansing Oil Sheet,2351,29600,Skincare, Cleansing Oil,4.519977802441732,901,879,73,683,low,26669600
+286,biore,Men's Biore Double Scrub Facial Foam - Acne-Bacterior,73469,31200,Skincare, Face Wash,4.71875,24,20,1,20,low,748800
+286,biore,Men's Biore Double Scrub Facial Foam - Cool Oil Clear,73466,31200,Skincare, Face Wash,4.707467532467533,35,35,2,29,low,1092000
+286,biore,Men's Biore Body Foam - White Energy,73474,28500,Bath & Body, Body Wash,4.599702380952381,63,61,0,45,low,1795500
+286,biore,Men's Biore Body Foam - Cool Energy,73473,28500,Bath & Body, Body Wash,4.550757575757576,66,65,1,46,low,1881000
+286,biore,Men's Biore Facial Foam - Oil Buster Bright Action,73471,31200,Skincare, Face Wash,4.625,33,29,5,25,low,1029600
+286,biore,UV Fresh & Bright SPF 50/PA+++ Instant Cover,100738,36900,Skincare, Sunscreen,4.387931034482758,87,72,14,55,low,3210300
+286,biore,Beauty Body Foam Pouch,83214,28000,Bath & Body, Body Wash,4.770714285714286,700,650,10,597,low,19600000
+286,biore,Body Foam Pouch,71293,28000,Bath & Body, Body Wash,4.746306128942449,870,850,8,770,low,24360000
+286,biore,Men's Biore Body Foam - Hygienic Energy,73472,28500,Bath & Body, Body Wash,4.6169950738916254,58,57,4,39,low,1653000
+286,biore,Men's Biore Double Scrub Facial Foam Bright Oil Clear,83629,31200,Skincare, Face Wash,4.675641025641025,39,34,2,30,low,1216800
+286,biore,Men's Biore Double Scrub Facial Foam - Deep Fresh,73467,31200,Skincare, Face Wash,4.820991432068544,43,40,1,34,low,1341600
+286,biore,Biore UV Face Sunscreen Aqua Rich Light Up Essence SPF 50+ PA++++,84717,159200,Skincare, Sun Care,4.360955056179775,178,140,44,103,medium,28337600
+15664,biotalk,Natural Calendula Salve,105372,175000,Bath & Body, Cellulite & Stretch Marks,4.788461538461538,13,13,0,12,medium,2275000
+2188,biyu,Invisible Physical Sunscreen SPF30 PA+++,108544,199000,Skincare, Sunscreen,4.875,2,2,0,2,medium,398000
+2188,biyu,Good Skin Day Toner Moisture Solutions,85508,109000,Skincare, Toner,4.375,4,3,0,3,medium,436000
+154,blink-charm,Vibrant Volume #2- 1 Pair,92183,59900,Makeup, False Eyelashes,4.542857142857143,6,6,1,6,low,359400
+154,blink-charm,Sweet Classic #1,92549,142900,Makeup, False Eyelashes,4.911111111111111,7,9,0,9,medium,1000300
+154,blink-charm,Sweet Classic #3,92544,142900,Makeup, False Eyelashes,4.914285714285715,5,6,1,6,medium,714500
+154,blink-charm,Sweet Classic #5,92548,42900,Makeup, False Eyelashes,4.909090909090909,9,11,1,10,low,386100
+154,blink-charm,Vibrant Volume #1- 1 Pair,92182,59900,Makeup, False Eyelashes,5.0,2,4,0,4,low,119800
+154,blink-charm,Natural Flair #3,92546,142900,Makeup, False Eyelashes,4.76,3,5,0,4,medium,428700
+154,blink-charm,Limitless Beauty Brow,96113,119000,Makeup, Eyebrows,4.85,5,8,0,7,medium,595000
+154,blink-charm,Sensual Curls #1,92539,42900,Makeup, False Eyelashes,4.92,8,10,0,8,low,343200
+154,blink-charm,Fearless Beauty Liner Intense Black,96112,119000,Makeup, Eyeliner,4.8625,14,16,0,13,medium,1666000
+154,blink-charm,Sexy Volume #2,92537,42900,Makeup, False Eyelashes,4.933333333333334,5,6,0,5,low,214500
+154,blink-charm,White Brush-On Lash Glue 2 x 2 mL,102517,99000,Accessories, Eyelash Glue,5.0,2,2,0,2,low,198000
+154,blink-charm,White Brush On Lash Glue,92181,62000,Accessories, Eyelash Glue,4.420322410147992,40,40,8,25,low,2480000
+15576,blood,Blood 33cm Corn Pad 10s,100073,55000,Sanitary, Pads,4.859649122807018,16,19,0,17,low,880000
+15576,blood,Blood Corn Liners 30s,100070,39000,Sanitary, Panty Liners,4.792929292929293,30,32,0,31,low,1170000
+15576,blood,Blood 50cm Corn Panty Pad Size,100074,65000,Sanitary, Pads,4.840909090909091,18,22,0,19,low,1170000
+15576,blood,NeckHeat Neck & Shoulder Pain Relief,100077,21000,Sanitary, Pads,4.708333333333333,19,16,2,14,low,399000
+15576,blood,BackHeat Back Pain Relief,100076,21000,Sanitary, Pads,4.465949820788531,30,26,4,19,low,630000
+15576,blood,MenstruHeat Menstrual Cramp Relief,100075,21000,Sanitary, Pads,4.833333333333333,35,34,3,31,low,735000
+15576,blood,Blood 25cm Corn Pad 14s,100071,55000,Sanitary, Pads,4.8580246913580245,24,27,1,23,low,1320000
+15576,blood,Blood 29cm Corn Pad 12s,100072,55000,Sanitary, Pads,4.863636363636363,19,22,1,20,low,1045000
+1117,bloomka,Sugar cane+calendula Exfoliating Facial Toner,81116,139000,Skincare, Toner,4.398,123,114,17,68,medium,17097000
+1117,bloomka,Sugarcane + Calendula Exfoliating Facial Mask,88459,139000,Skincare, Wash off Mask,4.514705882352941,31,29,3,17,medium,4309000
+1117,bloomka,Olive & Rosemary Deep Cleansing Oil,81281,169000,Skincare, Cleansing Oil,4.432203389830509,58,53,9,35,medium,9802000
+1117,bloomka,TGIF Acne Spot Treatment Clay Cream,88457,159000,Skincare, Acne Treatment / Sealing gel / Cream,4.528301886792453,50,49,6,38,medium,7950000
+1117,bloomka,Calendula+vitamin B3 Whitening Facial Toner,81115,139000,Skincare, Toner,4.422413793103448,114,108,12,72,medium,15846000
+1117,bloomka,Bakuchiol + Tamanu Spot Oil,88461,99000,Skincare, Face Oil,4.388888888888888,25,25,4,19,low,2475000
+1117,bloomka,Bakuchiol + Almond Anti Aging,80788,139000,Skincare, Face Oil,4.514006342494714,42,40,4,33,medium,5838000
+1117,bloomka,Manuka + Magnolia Anti Acne Water Cream,88458,159000,Skincare, Face Cream & Lotion,4.225806451612903,29,24,10,17,medium,4611000
+237,blp-beauty,Tremella Daily Hydrating Toner,94288,159000,Skincare, Toner,4.8269230769230775,13,13,0,13,medium,2067000
+237,blp-beauty,Airy Tint,105886,89000,Makeup, Lip Tint,4.707692307692308,39,38,3,32,low,3471000
+237,blp-beauty,Lip Gel,89173,109000,Makeup, Lip Tint,4.623220973782772,801,774,36,601,medium,87309000
+237,blp-beauty,Lip Cotton,92954,139000,Makeup, Lip Cream,4.6251612903225805,310,304,14,233,medium,43090000
+237,blp-beauty,Brow Definer,1794,129000,Makeup, Eyebrows,4.5460311193004,524,502,42,370,medium,67596000
+237,blp-beauty,BLP X Tuku Lip Vinyl,105105,89000,Makeup, Lip Gloss,4.528571428571429,56,54,2,40,low,4984000
+237,blp-beauty,BLP X Tuku Butter Balm,105106,79000,Makeup, Lip Balm,4.696296296296296,27,26,1,19,low,2133000
+237,blp-beauty,Face Concealer,73235,139000,Makeup, Concealer,4.650366748166259,818,795,43,615,medium,113702000
+237,blp-beauty,Face Powder 10 gr,19815,159000,Makeup, Loose Powder,4.5870019342359765,2585,2531,85,2097,medium,411015000
+237,blp-beauty,Lip Bullet,66447,129000,Makeup, Lipstick,4.488919288645691,731,688,66,476,medium,94299000
+237,blp-beauty,Face Glow New,100196,109000,Makeup, Blush,4.804166666666667,96,96,1,80,medium,10464000
+237,blp-beauty,Lip Vinyl,100192,89000,Makeup, Lip Gloss,4.577358490566038,106,102,7,73,low,9434000
+237,blp-beauty,Lip Coat,1611,139000,Makeup, Lip Cream,4.459693269722964,5386,5149,459,3804,medium,748654000
+237,blp-beauty,Nightfall,99359,239000,Makeup, Eyeshadow,4.6,13,12,2,9,medium,3107000
+237,blp-beauty,Daybreak,99341,239000,Makeup, Eyeshadow,4.6,26,26,2,14,medium,6214000
+=======
+brand_id,brand_name,product_name,product_id,price,category,subcategory,average_rating,amount_sold,total_recommended_count,total_repurchase_no_count,total_repurchase_yes_count,purchase_power,revenue
+796,3ce,VELVET LIP TINT,97810,264000,Makeup, Lip Cream,4.576190476190476,42,42,2,30,medium,11088000
+796,3ce,LIP COLOR,97822,317000,Makeup, Lipstick,0.0,0,0,0,0,medium,0
+796,3ce,MINI MULTI EYE COLOR PALETTE,97833,423000,Makeup, Eyeshadow,4.883333333333334,6,12,0,11,medium,2538000
+796,3ce,FACE BLUSH,97801,300000,Makeup, Blush,4.858823529411765,13,17,0,15,medium,3900000
+796,3ce,BLUR WATER TINT,97817,264000,Makeup, Lip Tint,4.729629629629629,51,53,3,48,medium,13464000
+796,3ce,CLOUD LIP TINT,97818,264000,Makeup, Lip Cream,4.768421052631579,17,19,0,19,medium,4488000
+796,3ce,NEW TAKE EYESHADOW PALETTE,98428,880000,Makeup, Eyeshadow,5.0,1,5,0,5,high,880000
+796,3ce,SUPER SLIM EYE BROW PENCIL,98369,212000,Makeup, Eyebrows,5.0,1,4,0,4,medium,212000
+796,3ce,VELVET FIT FOUNDATION,98368,564000,Makeup, Foundation,5.0,1,2,0,2,high,564000
+796,3ce,LIQUID PRIMER EYE SHADOW,98363,264000,Makeup, Eyeshadow,4.975,2,8,0,8,medium,528000
+796,3ce,Waterproof Mega Volume Mascara,107427,352000,Makeup, Mascara,0.0,0,0,0,0,medium,0
+796,3ce,[ 3CE x TOILETPAPER]   MAKEUP FIX POWDER,98429,581000,Makeup, Pressed Powder,5.0,3,4,0,4,high,1743000
+796,3ce,SOFT MATTE LIPSTICK,98409,317000,Makeup, Lipstick,4.844444444444445,4,9,0,9,medium,1268000
+796,3ce,[  3CEx TOILETPAPER]   MOOD RECIPE FACE BLUSH,98433,352000,Makeup, Blush,0.0,0,0,0,0,medium,0
+796,3ce,EYE SWITCH,98312,264000,Makeup, Eyeshadow,5.0,2,6,0,6,medium,528000
+796,3ce,SYRUP LAYERING TINT,98430,264000,Makeup, Lip Tint,4.876923076923077,5,12,1,12,medium,1320000
+796,3ce,NEW TAKE FACE BLUSHER,98431,352000,Makeup, Blush,5.0,1,6,0,6,medium,352000
+796,3ce,TATTOO LIP TINT,102642,229000,Makeup, Lip Tint,5.0,2,7,0,7,medium,458000
+796,3ce,Glaze Lip Tint,107426,264000,Makeup, Lip Tint,0.0,0,0,0,0,medium,0
+796,3ce,[ 3CE x TOILETPAPER]   VELVET LIP TINT,98435,317000,Makeup, Lip Tint,5.0,4,8,0,8,medium,1268000
+796,3ce,Plumping Lips,107425,229000,Makeup, Lip Tint,0.0,0,0,0,0,medium,0
+796,3ce,[ 3CE x TOILETPAPER]   FACE BLUSH,98434,352000,Makeup, Blush,4.975,5,8,0,8,medium,1760000
+796,3ce,[ 3CE x TOILETPAPER]   MULTI EYE COLOR PALETTE,98432,775000,Makeup, Eyeshadow,5.0,1,1,0,1,high,775000
+796,3ce,SUPER SLIM PEN EYE LINER,98370,229000,Makeup, Eyeliner,4.971428571428572,4,7,0,7,medium,916000
+751,abib,Heartleaf Essence Calming Pump,91887,380000,Skincare, Essence,4.775,8,8,0,6,medium,3040000
+751,abib,Quick Sunstick Protection Bar,91207,400000,Skincare, Sunscreen,4.666666666666666,17,17,0,16,medium,6800000
+751,abib,Yuja Essence Vitalizing Pump,91209,380000,Skincare, Essence,4.607142857142858,5,7,1,4,medium,1900000
+751,abib,Heartleaf Spot Pad Calming Touch,91204,360000,Skincare,,4.694444444444445,16,16,2,12,medium,5760000
+751,abib,Heartleaf Sun Essence Calming Drop,91895,390000,Skincare, Essence,4.84375,6,8,0,8,medium,2340000
+751,abib,Gummy Sheet Mask Milk Sticker,91194,56000,Skincare, Sheet Mask,4.916666666666667,5,6,0,6,low,280000
+751,abib,Jericho Rose Creme Nutrition Tube,98624,490000,Skincare, Face Cream & Lotion,5.0,1,3,0,3,medium,490000
+751,abib,Rebalancing Emulsion Skin Booster,91886,430000,Skincare, Face Cream & Lotion,4.875,2,4,0,3,medium,860000
+751,abib,Rebalancing Toner Skin Booster,91885,420000,Skincare, Toner,5.0,0,2,0,2,medium,0
+751,abib,Heartleaf Facial Mist Calming Spray Set,106156,310000,Skincare, Toner,4.666666666666667,3,3,0,1,medium,930000
+751,abib,Gummy Sheet Mask Heartleaf Sticker,91195,56000,Skincare, Sheet Mask,4.826923076923077,11,12,1,11,low,616000
+751,abib,Mild Acidic pH sheet Mask Heartleaf Fit,91201,56000,Skincare, Sheet Mask,4.625,14,15,0,13,low,784000
+751,abib,Acne Foam Cleanser Heartleaf Foam,91203,230000,Skincare, Face Wash,4.875,30,30,0,28,medium,6900000
+751,abib,Rice Probiotics Overnight Mask Barrier Jelly,98614,390000,Skincare, Wash off Mask,5.0,1,3,0,3,medium,390000
+751,abib,Jericho Rose Essence Nutrition Pump,98609,380000,Skincare, Essence,5.0,1,3,0,3,medium,380000
+751,abib,Protective Lip Balm Block Stick,98611,160000,Skincare, Lip Balm,4.78125,6,7,1,7,medium,960000
+751,abib,Pine Needle Pore Pad Clear Touch,91889,340000,Skincare, Toner,4.857142857142858,5,7,0,7,medium,1700000
+751,abib,Moisturizing Lip Balm Tube,98610,150000,Skincare,,5.0,0,1,0,1,medium,0
+751,abib,Mild Acidic pH Sheet Mask Yuja Fit,91199,56000,Skincare, Sheet Mask,4.791666666666666,4,6,0,6,low,224000
+751,abib,Mild Acidic pH Sheet Mask Jericho Rose Fit  (single),98599,56000,Skincare, Sheet Mask,4.958333333333333,4,6,0,6,low,224000
+751,abib,Calming Facial Soap Heartleaf Stone,98608,200000,Skincare, Cleansing Bar,5.0,1,3,0,3,medium,200000
+751,abib,Yuja Probiotics Blemish Pad Vitalizing Touch,91893,360000,Skincare, Toner,4.583333333333333,2,2,0,2,medium,720000
+730,acwell,Licorice pH Balancing Cleansing Toner,21291,165000,Skincare, Toner,4.635697764070933,1297,1224,85,990,medium,214005000
+730,acwell,Real Aqua Balancing Cream,90792,340000,Skincare, Face Cream & Lotion,4.7142857142857135,26,28,0,23,medium,8840000
+730,acwell,pH Balancing Bubble Free Cleansing Gel,90795,212000,Skincare, Cleansing Gel,4.573170731707317,39,36,7,27,medium,8268000
+730,acwell,pH Balancing Soothing Cleansing Foam,90794,202000,Skincare, Face Wash,4.815789473684211,17,19,0,16,medium,3434000
+730,acwell,Licorice pH Balancing Advance Serum,82363,220000,Skincare, Face Serum,4.577702702702703,145,133,20,101,medium,31900000
+730,acwell,Licorice pH Balancing Essence Mist,63246,229000,Skincare, Essence,4.627840909090909,86,83,4,64,medium,19694000
+730,acwell,Licorice pH Balancing Essential Cream,99997,320000,Skincare, Face Cream & Lotion,4.818181818181818,9,11,0,11,medium,2880000
+730,acwell,Licorice Toner & Essence Mist Set,105752,394000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+730,acwell,Licorice Toner & Cream Set,105751,485000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+730,acwell,Licorice Toner & Serum Set,105750,385000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+730,acwell,Deep Hydration  for Dull Skin,102279,495000,Skincare,,0.0,0,0,0,0,medium,0
+730,acwell,Cleansing Power - for Dry Skin,102277,367000,Skincare,,0.0,0,0,0,0,medium,0
+730,acwell,Cleansing Power - for Oily Skin,102276,357000,Skincare,,0.0,0,0,0,0,medium,0
+730,acwell,Licorice pH Balancing Cleansing Toner Duo,76061,330000,Skincare, Toner,0.0,0,0,0,0,medium,0
+730,acwell,Licorice pH Balancing Intensive Eye Cream,82362,289000,Skincare, Eye Cream,4.591346153846154,50,49,3,34,medium,14450000
+730,acwell,Real Aqua Balancing Lotion,90791,290000,Skincare, Face Cream & Lotion,4.6764705882352935,15,17,0,13,medium,4350000
+730,acwell,Real Aqua Balancing Ampoule,90793,300000,Skincare, Ampoule,4.931818181818182,9,11,0,10,medium,2700000
+730,acwell,Licorice Toner & Eye Cream Set,105753,454000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+730,acwell,Deep Hydration  for Oily Skin,102278,630000,Skincare, Skin Care Set,0.0,0,0,0,0,high,0
+730,acwell,Real Aqua Balancing Toner,85742,290000,Skincare, Toner,4.75,11,13,0,10,medium,3190000
+15654,adara-cosmetics,Noni Glow Conentrate,104991,106500,Skincare, Face Oil,5.0,2,2,0,2,medium,213000
+15654,adara-cosmetics,ADARA - Diamond Glycolic All In One Moisturizer,105056,103000,Skincare, Face Gel,5.0,2,2,0,2,medium,206000
+15654,adara-cosmetics,Bee Clear Acne Regular,104993,45000,Skincare, Acne Treatment / Sealing gel / Cream,4.95,10,10,0,10,low,450000
+15654,adara-cosmetics,ADARA - Diamond Glycolic Serum Instabirght,105055,99000,Skincare, Face Serum,5.0,3,3,0,3,low,297000
+15654,adara-cosmetics,Overnight Skinpair Concentrate,104992,99000,Skincare, Face Serum,5.0,2,2,0,2,low,198000
+15654,adara-cosmetics,PMS Ceramide Pudding,104998,103000,Skincare, Face Cream & Lotion,4.833333333333333,6,6,0,5,medium,618000
+15654,adara-cosmetics,Bee Clear Acne Treatment Extra Formula,104994,52000,Skincare, Acne Treatment / Sealing gel / Cream,4.852272727272727,22,21,1,20,low,1144000
+15654,adara-cosmetics,C Bright Serum,104990,107500,Skincare, Face Serum,5.0,3,3,0,3,medium,322500
+15654,adara-cosmetics,Bee White Spotless Cream,105007,126500,Skincare, Acne Treatment / Sealing gel / Cream,4.5,4,4,0,3,medium,506000
+15654,adara-cosmetics,Bee White Eye Do Care,105000,116000,Skincare, Eye Cream,4.785714285714286,7,7,0,6,medium,812000
+15654,adara-cosmetics,Bee White Foam Cleanser,104999,93000,Skincare, Face Wash,4.375,2,2,0,1,low,186000
+15654,adara-cosmetics,P.M.S Series Clarifying Toner,104997,74500,Skincare, Toner,5.0,2,2,0,2,low,149000
+15654,adara-cosmetics,P.M.S Series Stay Clear Enzyme Wash,104996,61000,Skincare, Face Wash,4.865384615384615,13,13,0,13,low,793000
+15654,adara-cosmetics,Bee Clear Acne Concentrate,104995,107500,Skincare, Face Serum,5.0,3,3,0,3,medium,322500
+15654,adara-cosmetics,Bee White Yogurt Night Dream,105010,120000,Skincare, Face Cream & Lotion,5.0,1,1,0,0,medium,120000
+15654,adara-cosmetics,Bee White Yogurt Day Dream,105009,120000,Skincare, Face Cream & Lotion,0.0,0,0,0,0,medium,0
+15654,adara-cosmetics,Bee White Spotless Gel,105006,126500,Skincare, Acne Treatment / Sealing gel / Cream,4.699999999999999,5,5,0,4,medium,632500
+584,aeris-beaute,Nudie Blendies - Makeup Sponge,99707,95000,Accessories, Sponge & Applicators,4.694444444444444,15,18,3,14,low,1425000
+584,aeris-beaute,Cloud Conceal Puff,102712,65000,Accessories, Sponge & Applicators,4.8,25,30,0,24,low,1625000
+584,aeris-beaute,The New Coral Face & Eye Brush Set,75162,379000,Accessories, Brush Set,4.721590909090909,88,86,6,61,medium,33352000
+584,aeris-beaute,Mini Blendie Pill,102710,85000,Accessories, Makeup Pouch,4.931818181818182,5,11,0,10,low,425000
+584,aeris-beaute,The Coral 2.0 - Individual Brushes CR11- Brow,104076,45000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X3-Blush,104048,59000,Accessories, Face Brushes,5.0,1,1,0,1,low,59000
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X4-Foundation,104050,59000,Accessories, Face Brushes,5.0,2,2,0,2,low,118000
+584,aeris-beaute,Smart Sonic Facial Cleanser,87216,575000,Accessories, Facial Tools,4.828431372549019,49,50,1,42,high,28175000
+584,aeris-beaute,Libre Trimming Scissor,104614,99000,Accessories, Brow Tools,5.0,3,3,0,2,low,297000
+584,aeris-beaute,Golden Silk Travel Set,104085,319000,Makeup,,0.0,0,0,0,0,medium,0
+584,aeris-beaute,Aeris Beauté Golden Silk Set (12 pcs Face & Eye Brush Set) + Free Gift,94533,615000,Accessories, Face Brushes,4.750000000000001,11,11,0,10,high,6765000
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X1-Powder,104049,69000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,Mrs. Blendie,34585,95000,Accessories, Sponge & Applicators,4.676900584795321,142,141,3,112,low,13490000
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X9-Eye Blending,104053,45000,Accessories, Face Brushes,5.0,1,1,0,1,low,45000
+584,aeris-beaute,Golden Silk - Individual Brushes S4-Pro Conceal,104080,89000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,The Coral 2.0 - Individual Brushes CR6-Under Eye,104068,55000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,Libre Precision Tweezer,104615,79000,Accessories, Brow Tools,4.666666666666667,3,3,1,2,low,237000
+584,aeris-beaute,Facial-Firming Rose Quartz Roller,86888,355000,Accessories, Facial Tools,4.875,1,2,0,1,medium,355000
+584,aeris-beaute,Rose Quartz Facial Set - Lifting Duo,86887,630000,Accessories, Facial Tools,4.625,1,2,0,2,high,630000
+584,aeris-beaute,Duo Color Switcher,92097,65000,Accessories, Brush Cleanser & Tools,4.666666666666667,7,9,0,7,low,455000
+584,aeris-beaute,Golden Silk - Individual Brushes S8-Multitasker,104079,85000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,The Coral 2.0 - Individual Brushes CR2-Pressed Powder,104066,75000,Accessories, Face Brushes,5.0,1,1,0,1,low,75000
+584,aeris-beaute,The Coral 2.0 - Individual Brushes CR3-Curved Cheek,104065,69000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X5-Under Eye,104052,59000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,The Coral 2.0 - Individual Brushes CR10-Detail Shadow,104070,45000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X13-Concealer,104062,45000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,Golden Silk - Individual Brushes S9-Eye Smudge,104083,69000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X14-Mini Pencil,104061,35000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,Pro Packs (Mr),72439,400000,Accessories, Sponge & Applicators,5.0,1,1,0,1,medium,400000
+584,aeris-beaute,Pro Packs (Sister),72441,356000,Accessories, Sponge & Applicators,4.541666666666666,4,5,1,5,medium,1424000
+584,aeris-beaute,Instant Brush Cleaner,82692,95000,Accessories, Brush Cleanser & Tools,4.916666666666667,1,3,0,3,low,95000
+584,aeris-beaute,Facelift Beauty Roller,91000,475000,Accessories, Facial Tools,4.7142857142857135,6,7,0,4,medium,2850000
+584,aeris-beaute,Golden Silk - Individual Brushes S10-Precision Brow,104087,75000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,The Coral 2.0 - Individual Brushes CR7-Flat Highlight,104069,50000,Accessories, Face Brushes,5.0,1,1,0,1,low,50000
+584,aeris-beaute,The Coral 2.0 - Individual Brushes CR1-Powder,104063,69000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X10-Tapered Blending,104056,40000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X15-Lip,104058,35000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X12-Brow Highlight,104060,35000,Accessories, Face Brushes,5.0,1,1,0,1,low,35000
+584,aeris-beaute,Gold Facial Spa Set,85150,295000,Accessories, Facial Tools,4.802631578947368,18,19,1,15,medium,5310000
+584,aeris-beaute,Rose Quartz Facial Set - Soothing Trio,86886,875000,Accessories, Facial Tools,4.75,2,3,1,2,high,1750000
+584,aeris-beaute,Golden Silk - Individual Brushes S12-Mini Multitasker,104086,75000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,The Coral 2.0 - Individual Brushes CR9-Round Blending,104072,45000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,Golden Silk - Individual Brushes S1-Pressed Powder,104075,99000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,Golden Silk - Individual Brushes S3-Pro Foundation,104073,99000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,The Onyx 2.0 - Individual Brushes X11-Brow,104059,45000,Accessories, Face Brushes,5.0,1,1,0,1,low,45000
+584,aeris-beaute,Golden Silk - Individual Brushes S6-Pro Highlight,104082,75000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,Golden Silk - Individual Brushes S11-Tapered Blending,104084,75000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,Smart Photon Light Therapy Device,88690,875000,Accessories, Facial Tools,4.806818181818182,21,22,1,14,high,18375000
+584,aeris-beaute,Onyx 15 Face & Eye Brush Set,34594,379000,Accessories, Brush Set,4.654999999999999,50,48,4,27,medium,18950000
+584,aeris-beaute,The Coral 2.0 - Individual Brushes CR8-Concealer,104071,45000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,Aeris Beauté x Sociolla Smart Sonic Facial Cleanser,95484,575000,Accessories, Facial Tools,4.787878787878788,65,64,8,45,high,37375000
+584,aeris-beaute,Sister Blendie,71592,95000,Accessories, Sponge & Applicators,4.713414634146341,39,38,2,34,low,3705000
+584,aeris-beaute,Pro Packs (Mrs),72440,356000,Accessories, Sponge & Applicators,5.0,1,3,0,3,medium,356000
+584,aeris-beaute,Blendie Bar Watermelon & Pear,70530,67000,Accessories, Brush Cleanser & Tools,4.75,97,99,0,87,low,6499000
+584,aeris-beaute,The Coral 2.0 - Individual Brushes CR5-Foundation,104064,59000,Accessories, Face Brushes,0.0,0,0,0,0,low,0
+584,aeris-beaute,Solo Color Switcher,92095,60000,Accessories, Brush Cleanser & Tools,4.125000000000001,4,4,2,2,low,240000
+584,aeris-beaute,Horoscope Blendie Bar,100316,67000,Accessories, Brush Cleanser & Tools,5.0,1,1,0,1,low,67000
+15703,alatte,Glazed Lip Tint,106999,79900,Makeup, Lip Tint,4.8,1,1,0,1,low,79900
+15703,alatte,Lip Veil,106998,129000,Makeup, Lip Cream,0.0,0,0,0,0,medium,0
+15703,alatte,Brow Wand,106997,119000,Makeup, Eyebrows,0.0,0,0,0,0,medium,0
+15542,alchemist-fragrance,01 Powder Room Eau De Parfum,98055,229000,Fragrance, Eau De Parfum,4.409356725146199,54,52,7,35,medium,12366000
+15542,alchemist-fragrance,Onirique | Extrait de Parfum,107269,379000,Fragrance, Eau De Parfum,4.461538461538461,13,12,1,9,medium,4927000
+15542,alchemist-fragrance,04 Home Garden Eau De Parfum,98059,229000,Fragrance, Eau De Parfum,4.4375,13,14,2,7,medium,2977000
+15542,alchemist-fragrance,03 Got My Mojo Back Eau De Parfum,98058,229000,Fragrance, Eau De Parfum,4.568181818181818,41,43,1,25,medium,9389000
+15542,alchemist-fragrance,02 Pink Laundry Eau De Parfum,98057,229000,Fragrance, Eau De Parfum,4.421875,61,62,4,41,medium,13969000
+15542,alchemist-fragrance,Out West Extrait De Parfum,99920,319000,Fragrance, Eau De Parfum,4.681818181818183,19,22,0,16,medium,6061000
+15542,alchemist-fragrance,04 Home Garden Body Lotion,107156,179000,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,medium,0
+15542,alchemist-fragrance,02 Pink Laundry Body Lotion,107152,179000,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,medium,0
+15542,alchemist-fragrance,03 Got My Mojo Back Body Lotion,107155,179000,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,medium,0
+15542,alchemist-fragrance,07 Galleria Body Lotion,107158,179000,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,medium,0
+1350,allglows,"Shake Lip Pigment (SLP) - Matte Liquid Lipstick, Serum-Infused",105045,139000,Makeup, Lip Cream,4.657142857142857,14,13,2,10,medium,1946000
+1350,allglows,Cheek Pigment,92682,139000,Makeup, Blush,4.7,33,38,1,30,medium,4587000
+1350,allglows,Allglows Lid Pigment Shimmer,94319,139000,Makeup, Eyeshadow,5.0,9,13,0,13,medium,1251000
+15700,amuse,DEW POWER VEGAN CUSHION,106967,508000,Makeup, Cushion,5.0,1,1,0,1,high,508000
+15700,amuse,DEW JELLY VEGAN CUSHION,106958,508000,Makeup, Cushion,0.0,0,0,0,0,high,0
+15700,amuse,META FIXING VEGAN CUSHION,106961,508000,Makeup, Cushion,0.0,0,0,0,0,high,0
+15700,amuse,JEL-FIT TINT,106966,299000,Makeup, Lip Tint,0.0,0,0,0,0,medium,0
+15700,amuse,DEW TINT,106952,299000,Makeup, Lip Tint,5.0,1,1,0,1,medium,299000
+15700,amuse,DEW VELVET,106951,299000,Makeup, Lip Tint,5.0,1,1,0,1,medium,299000
+15700,amuse,DEW BALM,106963,299000,Makeup, Lip Balm,0.0,0,0,0,0,medium,0
+15700,amuse,SOFT CREAM CHEEK,106965,254000,Makeup, Blush,0.0,0,0,0,0,medium,0
+15700,amuse,CHOU VELVET,106953,299000,Makeup, Lip Tint,0.0,0,0,0,0,medium,0
+15700,amuse,EYE VEGAN SHEER PALETTE,106964,433000,Makeup, Eyeshadow,0.0,0,0,0,0,medium,0
+2019,anessa,New Brightening Uv Sunscreen Gel,91302,403000,Skincare, Sunscreen,4.49438202247191,89,82,9,61,medium,35867000
+2019,anessa,New Perfect Uv Sunscreen Skincare Spray 60gr,91298,302000,Skincare, Sun Care,4.635,49,47,3,35,medium,14798000
+2019,anessa,ANESSA Trial Set Brightening Gel,106363,403000,Skincare, Sunscreen,4.75,2,2,0,2,medium,806000
+2019,anessa,Perfect UV Sunscreen Mild Milk,86904,494000,Skincare, Sun Care,4.669349778883361,270,258,18,205,medium,133380000
+2019,anessa,Mom & Baby UV Kit,100686,1037000,Skincare,,0.0,0,0,0,0,high,0
+2019,anessa,Anessa Perfect Gentle UV Kit,90154,1391000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Anessa Perfect Mild Sunscreen Kit,90152,1199000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Twinpack Perfect UV Sunscreen Mild Milk 60ml,90147,988000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Anessa Sensitive Skin Sunscreen Bundles,87349,897000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Anessa Delicate On-the-go Bundle,86981,796000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Anessa Delicate UV Protection Bundle,86980,695000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,New Perfect UV Sunscreen Skincare Gel,91297,403000,Skincare, Sun Care,4.669254658385093,160,156,8,128,medium,64480000
+2019,anessa,Moisture UV Sunscreen Mild Gel,84228,403000,Skincare, Sunscreen,4.560416666666667,133,111,12,85,medium,53599000
+2019,anessa,ANESSA Trial Set Gold Gel,106362,403000,Skincare, Sunscreen,4.958333333333333,6,6,0,6,medium,2418000
+2019,anessa,Twinpack New Brightening Uv Sunscreen Gel,93059,806000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Twinpack New Perfect Uv Sunscreen Skincare Gel,93058,806000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Triple Pack  UV Sunscreen Skincare Milk 60ml,109132,1482000,Skincare, Sunscreen,0.0,0,0,0,0,high,0
+2019,anessa,Sun-energized Ultimate Bundle,100688,1037000,Skincare,,0.0,0,0,0,0,high,0
+2019,anessa,Twinpack New Perfect Uv Sunscreen Skincare Milk,93056,988000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Anessa Perfect Beauty UV Kit,90153,1199000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Perfect Protection Kit,90151,1391000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Anessa Perfect On-The-Go Kit,90150,1290000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Anessa Best Selling Kit,90149,1199000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Ultimate UV Protection Set,88371,796000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,UV Triple Defense Duo,75376,695000,Skincare, Skin Care Set,0.0,0,0,0,0,high,0
+2019,anessa,Triple Pack  UV Sunscreen Skincare Milk 20ml,109133,609000,Skincare, Sunscreen,0.0,0,0,0,0,high,0
+2019,anessa,UV Radiant Glow kit,100683,1046000,Skincare,,0.0,0,0,0,0,high,0
+2019,anessa,Sun-energized Essentials,100669,744000,Skincare,,0.0,0,0,0,0,high,0
+2019,anessa,Beauty Sunscreen Bundle,90148,604000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Twinpack Anessa Perfect UV Milk 20ml,87904,402000,Skincare, Sun Care,4.5,1,1,0,0,medium,402000
+2019,anessa,Anessa Moist & Gentle Protection Bundle,86982,604000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,All-Day UV Protection Sets,75377,503000,Skincare, Skin Care Set,3.5,1,1,0,1,high,503000
+2019,anessa,Day Serum,91300,543000,Skincare, Sunscreen,4.6477272727272725,20,21,3,18,high,10860000
+2019,anessa,Duo Moisturizing For Plump Skin,100676,946000,Skincare,,0.0,0,0,0,0,high,0
+2019,anessa,Youthful On-the-go Kit,100674,845000,Skincare,,0.0,0,0,0,0,high,0
+2019,anessa,UV brightening Duo,100679,946000,Skincare,,0.0,0,0,0,0,high,0
+2019,anessa,Mom & Baby UV Essential,100677,946000,Skincare,,0.0,0,0,0,0,high,0
+2019,anessa,Anessa Brightening UV Protection Set,87936,705000,Skincare, Sun Care,0.0,0,0,0,0,high,0
+2019,anessa,Triple Pack UV Sunscreen Skincare Gel,109135,1209000,Skincare, Sunscreen,0.0,0,0,0,0,high,0
+2019,anessa,Triple Pack UV Sunscreen Skincare Spray,109134,906000,Skincare, Sunscreen,0.0,0,0,0,0,high,0
+15689,anua,Heartleaf Daily Lotion,106752,599000,Skincare, Face Cream & Lotion,0.0,0,0,0,0,high,0
+15689,anua,Watery Tone Up Cream,106754,399000,Makeup, Tinted Moisturizer,0.0,0,0,0,0,medium,0
+15689,anua,Heartleaf Clear Pad,106751,599000,Skincare, Toner,4.0,1,1,0,0,high,599000
+15689,anua,Heartleaf Acne Facial Cleanser,106750,399000,Skincare, Face Wash,0.0,0,0,0,0,medium,0
+15689,anua,Heartleaf 80% Soothing Ampoule,106749,499000,Skincare, Toner,0.0,0,0,0,0,medium,0
+15689,anua,Heartleaf 70% Soothing Cream,106746,599000,Skincare, Face Cream & Lotion,0.0,0,0,0,0,high,0
+15689,anua,Heartleaf 77% Soothing Sheet Mask,106747,599000,Skincare, Sheet Mask,0.0,0,0,0,0,high,0
+15689,anua,Green Tangerine Vita Dark Spot Mask,106745,599000,Skincare, Sheet Mask,0.0,0,0,0,0,high,0
+814,argavell,Argan Shampoo,70732,89000,Hair Care, Shampoo,4.576007326007327,270,249,30,193,low,24030000
+814,argavell,Argan Complete Set,74590,219000,Hair Care, Hair Care Set,0.0,0,0,0,0,medium,0
+814,argavell,Argan Hair Care Set,74589,178000,Hair Care, Shampoo,0.0,0,0,0,0,medium,0
+814,argavell,100% Organic Argan Oil,70731,130000,Hair Care, Hair Oil,4.678260869565217,113,109,7,88,medium,14690000
+814,argavell,Superfood Gentle Cleanser,98024,119000,Skincare, Face Wash,4.9,3,5,0,5,medium,357000
+814,argavell,Argan Body Care Set,74588,260000,Body Oil, Body Care,0.0,0,0,0,0,medium,0
+2086,ariul,Pack of 6 - 7Days Mask Green Tea+S,90681,132000,Skincare, Sheet Mask,5.0,1,1,0,1,medium,132000
+2086,ariul,SPECIAL KIT 7Days Glow & Brightening (Serum + 2pcs Mask Duo + 2pcs Sheetmask),104679,202000,Skincare, Face Serum,0.0,0,0,0,0,medium,0
+2086,ariul,Easy Glow Brightening (Sheet Mask + Wash off Mask),101620,124500,Skincare,,0.0,0,0,0,0,medium,0
+2086,ariul,7Days Hydra Glow,91864,44000,Skincare, Sheet Mask,0.0,0,0,0,0,low,0
+2086,ariul,7Days Bright Up,91862,44000,Skincare, Sheet Mask,0.0,0,0,0,0,low,0
+2086,ariul,Pack of 6 - 7Days Mask Bamboo+B,90685,132000,Skincare, Sheet Mask,0.0,0,0,0,0,medium,0
+2086,ariul,Pack of 6 - 7Days Mask Lemon+C,90677,132000,Skincare, Sheet Mask,0.0,0,0,0,0,medium,0
+2086,ariul,Ariul 7Days Mask - Best Seller Set,88017,66000,Skincare, Sheet Mask,0.0,0,0,0,0,low,0
+2086,ariul,Set of 7 - Ariul 7Days Mask,86728,154000,Skincare, Sheet Mask,4.9,5,5,0,5,medium,770000
+2086,ariul,ARIUL 7days Mask Bamboo + B,86076,22000,Skincare, Sheet Mask,4.778270509977827,451,445,6,393,low,9922000
+2086,ariul,ARIUL 7days Mask Lemon + C,86072,22000,Skincare, Sheet Mask,4.770727506565456,770,712,12,609,low,16940000
+2086,ariul,City Girl Set: My Mood Maker Cute + Hand Cream Cute,80725,61000,Bath & Body, Body Care,0.0,0,0,0,0,low,0
+2086,ariul,My Mood Maker Cute,72686,21500,Skincare, Sheet Mask,4.689792663476874,1957,1822,53,1451,low,42075500
+2086,ariul,ARIUL 7days Mask Calendula + P,86077,22000,Skincare, Sheet Mask,4.780042918454936,466,460,9,391,low,10252000
+2086,ariul,New Comer - Plumpy Anti-Aging Bundle (Serum + Wash Off Mask),101627,180000,Skincare,,0.0,0,0,0,0,medium,0
+2086,ariul,New Comer - Glowing Bundle for Brightening (Serum + Wash Off Mask),101625,180000,Skincare,,0.0,0,0,0,0,medium,0
+2086,ariul,2 Week Better Glow & Bright(Wash Off Mask),101623,132000,Skincare,,0.0,0,0,0,0,medium,0
+2086,ariul,Extra Glowing Kit,97907,139400,Skincare, Sheet Mask,0.0,0,0,0,0,medium,0
+2086,ariul,7Days Mask Duo 2 in 1 Brightening Night Mask,92451,22000,Skincare, Clay Mask,4.803536345776031,509,498,15,428,low,11198000
+2086,ariul,7Days Glow Brightening Serum,97877,114000,Skincare, Face Serum,4.763358778625954,262,256,8,208,medium,29868000
+2086,ariul,Pack of 6 - 7Days Mask Aloe+H,90687,132000,Skincare, Sheet Mask,0.0,0,0,0,0,medium,0
+2086,ariul,ARIUL 7days Mask Aloe + H,86075,22000,Skincare, Sheet Mask,4.7589108910891085,555,498,7,439,low,12210000
+2086,ariul,ARIUL 7days Mask Green Tea + S,86071,22000,Skincare, Sheet Mask,4.7572,625,613,14,535,low,13750000
+2086,ariul,Smooth & Pure Cleansing Tissue,63765,29000,Skincare, Cleansing Wipes,4.652536929993578,1557,1494,62,1125,low,45153000
+2086,ariul,7Days Treatment,91865,66000,Skincare, Sheet Mask,0.0,0,0,0,0,low,0
+2086,ariul,7Days Serum Glow Brightening & Acne Care Set,104678,228000,Skincare, Face Serum,0.0,0,0,0,0,medium,0
+2086,ariul,7Days Serum Best Seller Set,104676,228000,Skincare, Face Serum,0.0,0,0,0,0,medium,0
+2086,ariul,7Days Advanced Anti-Aging Serum,97880,114000,Skincare, Face Serum,4.766566265060241,166,160,4,130,medium,18924000
+2086,ariul,Smooth & Pure Lip & Eye Remover Pads,63766,45000,Skincare, Cleansing Wipes,4.719641401792991,1227,1199,33,984,low,55215000
+2086,ariul,Ariul Watermelon Hydro Vital Cream,75347,159000,Skincare, Face Cream & Lotion,4.606032338308458,804,755,72,544,medium,127836000
+2086,ariul,Ariul Green Vitamin C Toning Ampoule,101839,199000,Skincare, Face Serum,4.875,12,12,0,11,medium,2388000
+2086,ariul,7Days Mask Duo 2 in 1 Acne Care Night Mask,92450,22000,Skincare, Clay Mask,4.802407932011332,353,344,8,307,low,7766000
+2086,ariul,7Days Acne Clearing Serum,97879,114000,Skincare, Face Serum,4.804838709677419,155,151,7,122,medium,17670000
+2086,ariul,ARIUL 7days Mask Tea Tree + M,86074,22000,Skincare, Sheet Mask,4.7578125,672,659,16,566,low,14784000
+2086,ariul,New Comer - Acne Clearing Bundle (Serum + Wash Off Mask),101626,180000,Skincare,,0.0,0,0,0,0,medium,0
+2086,ariul,2 Week Acne Calming (Wash Off Mask),101624,132000,Skincare,,0.0,0,0,0,0,medium,0
+2086,ariul,Watermelon Hydro Glow Serum,75346,169000,Skincare, Face Serum,4.648504273504273,468,440,33,321,medium,79092000
+2086,ariul,7 DAYS FLORAL MIST (Face Spray),82384,125000,Skincare, Face Mist,4.625,140,127,13,87,medium,17500000
+2086,ariul,Smooth & Pure Daily Toning Pad 30 sheet,82382,69900,Skincare, Toner,4.617978686125369,314,305,7,227,low,21948600
+2086,ariul,Smooth & Pure Double Cleansing Kit,71616,80500,Skincare,,4.597910216718266,76,74,2,51,low,6118000
+2086,ariul,Watermelon Hydro Vital Cream + Sleeping Mask,80679,338000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+2086,ariul,Ariul Watermelon Hydro Glow Moisturizing & Firming Care,79484,507000,Skincare,,4.833333333333334,3,3,0,3,high,1521000
+2086,ariul,Ariul Green Vitamin C Balancing Toner,101841,209000,Skincare, Toner,0.0,0,0,0,0,medium,0
+2086,ariul,Pack of 6 - 7Days Mask Green Tea,90706,234000,Skincare, Sheet Mask,0.0,0,0,0,0,medium,0
+2086,ariul,Pack of 6 - Watermelon Hydro Vital Sheet Mask,90694,144000,Skincare, Sheet Mask,0.0,0,0,0,0,medium,0
+2086,ariul,7Days Plus Mask - Lemon,63091,39000,Skincare, Sheet Mask,4.6589068825910935,247,235,14,192,low,9633000
+2086,ariul,7Days Plus Mask - Green Tea,63092,39000,Skincare, Sheet Mask,4.695121951219512,164,161,3,131,low,6396000
+2086,ariul,Pack of 6 - 7Days Mask Calendula+P,90688,132000,Skincare, Sheet Mask,0.0,0,0,0,0,medium,0
+2086,ariul,Watermelon Hydro Glow Sleeping Mask,75339,179000,Skincare, Sleeping Mask,4.631102362204724,635,606,38,436,medium,113665000
+2086,ariul,My Mood Maker Glam,72688,21500,Skincare, Sheet Mask,4.679382889200562,1426,1370,55,1070,low,30659000
+2086,ariul,My Mood Maker Chic,72687,21500,Skincare, Sheet Mask,4.674402643619725,1967,1885,77,1478,low,42290500
+2086,ariul,Watermelon Hydro Glow Cream Spout,84566,59000,Skincare, Face Cream & Lotion,4.7230215827338125,139,134,6,103,low,8201000
+2086,ariul,ARIUL 7days Mask Lotus + N,86073,22000,Skincare, Sheet Mask,4.749415887850467,428,421,5,369,low,9416000
+2086,ariul,SPECIAL KIT 7Days Acne Care (Serum + 2pcs Mask Duo + 2pcs Sheetmask),104680,202000,Skincare, Face Serum,0.0,0,0,0,0,medium,0
+2086,ariul,Easy Acne Calming (Sheet Mask + Wash Off Mask),101622,124500,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+2086,ariul,Watermelon Hydro Vital Sheet Mask,75338,24000,Skincare, Sheet Mask,4.687667560321716,746,730,22,603,low,17904000
+2086,ariul,Watermelon Hydro Glow Sleeping Mask Spout,84567,69000,Skincare, Sleeping Mask,4.718518518518518,135,126,7,100,low,9315000
+2086,ariul,Tell Me Your Wish Hand Cream,72694,39500,Bath & Body, Hand & Foot Cream,4.586767895878525,461,441,23,309,low,18209500
+2086,ariul,Tell Me Your Wish Hand Essence Happy with Box,81547,39000,Bath & Body, Hand & Foot Cream,4.5773809523809526,42,38,4,29,low,1638000
+2086,ariul,Watermelon Hydro Glow Gel Mist,75340,159000,Skincare, Face Mist,4.616906474820144,278,258,22,185,medium,44202000
+2086,ariul,7Days Plus Mask - Aloe,63093,39000,Skincare, Sheet Mask,4.64240506329114,158,151,6,133,low,6162000
+2086,ariul,Tell Me Your Wish Hand Butter,72695,39500,Bath & Body, Body Care,4.637906897319548,1162,1096,59,797,low,45899000
+2086,ariul,Ariul Glowing Skin Kit,88015,53500,Skincare, Skin Care Set,0.0,0,0,0,0,low,0
+2086,ariul,Pack of 6 - 7Days Mask Plus Aloe,90701,234000,Skincare, Sheet Mask,0.0,0,0,0,0,medium,0
+2086,ariul,Tell Me Your Wish Hand Essence,72693,39500,Bath & Body, Body Care,4.618314901820345,1062,1010,66,717,low,41949000
+2086,ariul,Pack of 6 - 7Days Mask Lemon,90707,234000,Skincare, Sheet Mask,0.0,0,0,0,0,medium,0
+2086,ariul,Smooth & Pure Daily Peeling Pad 30 sheet,82383,69900,Skincare, Toner,4.622906184486373,450,431,15,311,low,31455000
+281,artisan-professionnel,Classiques,2135,28000,Makeup, False Eyelashes,4.683768444948922,872,863,36,728,low,24416000
+281,artisan-professionnel,L'Absolu,2261,45000,Makeup, False Eyelashes,4.65106248685041,82,94,6,79,low,3690000
+281,artisan-professionnel,Voile,2567,50000,Makeup, False Eyelashes,4.540740740740741,48,51,3,46,low,2400000
+281,artisan-professionnel,Touche 3D Lashes,25485,50000,Makeup, False Eyelashes,4.672,46,49,1,40,low,2300000
+281,artisan-professionnel,Artisan Professionnel Classiques 1170 x January Christy,94322,28000,Makeup, False Eyelashes,4.657142857142857,5,7,0,6,low,140000
+281,artisan-professionnel,L'Essentiel,34174,55000,Makeup, False Eyelashes,4.709090909090909,131,140,5,115,low,7205000
+281,artisan-professionnel,Petite Artisan,2532,45000,Makeup, False Eyelashes,4.702564102564102,66,77,4,62,low,2970000
+281,artisan-professionnel,Touche,35051,50000,Makeup, False Eyelashes,4.823076923076923,48,51,2,49,low,2400000
+281,artisan-professionnel,Artisan Professionnel Classique 1626 x Dini Nurdiani,86934,28000,Makeup, False Eyelashes,4.720000000000001,3,5,0,5,low,84000
+281,artisan-professionnel,Classiques 1624,82706,28000,Makeup, False Eyelashes,4.739999999999999,8,10,0,10,low,224000
+281,artisan-professionnel,Voile New Exclusive Collection,35050,50000,Makeup, False Eyelashes,4.8279069767441865,39,41,3,39,low,1950000
+281,artisan-professionnel,OPTIMISTE ROUGE Pro Lip Colour,102840,108000,Makeup, Lip Cream,4.927272727272728,7,11,0,7,medium,756000
+281,artisan-professionnel,Delicat 7472,82704,58000,Makeup, False Eyelashes,5.0,3,5,0,5,low,174000
+281,artisan-professionnel,Artisan Professionnel - Eyeliner Pro Dessiner - Bonne Nuit,94321,128000,Makeup, Eyeliner,4.683333333333334,11,11,1,7,medium,1408000
+281,artisan-professionnel,Voile 5792,74066,50000,Makeup, False Eyelashes,4.927272727272728,9,11,0,10,low,450000
+281,artisan-professionnel,Artisan Professionnel Voile 5932 x Sela,86935,50000,Makeup, False Eyelashes,5.0,6,8,0,8,low,300000
+281,artisan-professionnel,Artisan Professionnel Voile 5535 x Kirana Fary,94325,50000,Makeup, False Eyelashes,5.0,1,3,0,3,low,50000
+281,artisan-professionnel,Delicat 7355,82703,58000,Makeup, False Eyelashes,4.639999999999999,3,5,1,4,low,174000
+281,artisan-professionnel,Artisan Professionnel Classiques 1635 x Dewi Tian,94324,28000,Makeup, False Eyelashes,5.0,1,3,0,3,low,28000
+281,artisan-professionnel,Artisan Professionnel Voile 5201 x Candra Zhang,94323,50000,Makeup, False Eyelashes,5.0,1,3,0,3,low,50000
+281,artisan-professionnel,Voile 5523,74065,50000,Makeup, False Eyelashes,5.0,4,6,0,6,low,200000
+281,artisan-professionnel,L'Essentiel Special 246 X 743,34762,99000,Makeup, False Eyelashes,5.0,4,4,0,4,low,396000
+1196,aveeno,Soothing and Calming Moisturizing Lotion,70973,230000,Bath & Body, Body Lotion / Body Serum,4.7100760456273765,262,257,6,221,medium,60260000
+1196,aveeno,Skin Relief Body Wash,23451,205900,Bath & Body, Body Wash,4.522058823529412,134,132,5,92,medium,27590600
+1196,aveeno,Bundle Pouch Daily Moisture,97256,278400,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,medium,0
+1196,aveeno,Daily Moisture Lotion Triple Set,97222,280500,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,medium,0
+1196,aveeno,Daily Moisture Regular Set,97217,414900,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,medium,0
+1196,aveeno,Daily Moisturising Body Wash,23449,184900,Bath & Body, Body Wash,4.5918803418803416,116,112,8,89,medium,21448400
+1196,aveeno,Soothing and Calming Moisturizing Body Wash,70974,184900,Bath & Body, Body Wash,4.698630136986301,70,72,4,56,medium,12943000
+1196,aveeno,Baby Wash and Shampoo,36384,194300,Hair Care, Shampoo,4.818181818181818,9,11,0,10,medium,1748700
+1196,aveeno,Daily Moisture Lotion Twin Set,97224,460000,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,medium,0
+1196,aveeno,Soothing & Calming Lotion Twin Set,97226,460000,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,medium,0
+1196,aveeno,Calming Daily Body Lotion Set,97220,460000,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,medium,0
+1196,aveeno,Calming Relief Body Lotion Set,97219,533500,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,high,0
+1196,aveeno,Soothing & Calming Regular Set,97218,414900,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,medium,0
+1196,aveeno,Skin Relief Lotion Twin Set,97223,607000,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,high,0
+1196,aveeno,Skin Relief Lotion Triple Set,97221,312000,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,medium,0
+1196,aveeno,Skin Relief Regular Set,97216,509400,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,high,0
+1196,aveeno,Daily Moisturizing Energizing Lotion,100014,230000,Bath & Body, Body Lotion / Body Serum,4.83,23,25,0,24,medium,5290000
+504,avoskin,YOUR SKIN BAE SERIES Niacinamide 12% + Centella,80851,154300,Skincare, Face Serum,4.55674074074074,3375,3121,298,2329,medium,520762500
+504,avoskin,YOUR SKIN BAE SERIES Collagen 10% + Gingseng Root,80850,154300,Skincare, Face Serum,4.625161098443542,1441,1374,70,1060,medium,222346300
+504,avoskin,Hydrating Treatment Essence,11257,132100,Skincare, Essence,4.4759570494864604,2142,1933,290,1285,medium,282958200
+504,avoskin,Your Skin Bae Toner Vitamin C 2% + Niacinamide 2% + Carrot Extract + Raspberry,84387,176500,Skincare, Toner,4.5928362573099415,339,311,41,234,medium,59833500
+504,avoskin,Miraculous Refining Serum,33304,276400,Skincare, Face Serum,4.588900203665988,2455,2341,151,1848,medium,678562000
+504,avoskin,YOUR SKIN BAE SERIES Toner Niacinamide 7% + Alpha Arbutin 1% + Kale,80839,165400,Skincare, Toner,4.574376612209803,1163,1079,93,776,medium,192360200
+504,avoskin,Natural Sublime Facial Cleanser,79496,132100,Skincare, Face Wash,4.690382452193476,889,861,34,726,medium,117436900
+504,avoskin,Advance Action Eye Ampoule,78922,243100,Skincare, Eye Serum,4.436267071320182,1318,1206,110,792,medium,320405800
+504,avoskin,Miraculous Retinol Ampoule,71144,287500,Skincare, Anti-Aging,4.646138583638584,3276,3166,105,2649,medium,941850000
+504,avoskin,YSB Serum Infused Cleanser Kojic Acid + Glycolic Acid + Licorice Allantion + Sodium Hyaluronate,102893,109900,Skincare, Face Wash,4.7444444444444445,45,44,2,31,medium,4945500
+504,avoskin,YOUR SKIN BAE SERIES Alpha Arbutin 3% + Grapeseed,80847,154300,Skincare, Face Serum,4.634108946608947,2772,2638,159,2096,medium,427719600
+504,avoskin,Avoskin Anti Aging and Hydrating Bundle,106033,426300,Skincare,,0.0,0,0,0,0,medium,0
+504,avoskin,YSB Bright and Hydrate Bundling (PIH),106032,293100,Skincare,,0.0,0,0,0,0,medium,0
+504,avoskin,YSB Bright and Hydrate Bundling (PIE),106031,293100,Skincare,,0.0,0,0,0,0,medium,0
+504,avoskin,YSB Multi Herbs Hydro Burst Moisturizer,104204,138800,Skincare, Face Gel,4.545454545454546,11,9,3,8,medium,1526800
+504,avoskin,YOUR SKIN BAE SERIES Ultimate Hyaluron Marine Collagen 5% + Hyacross 2% + Galactomyces,80842,165400,Skincare, Toner,4.643911439114391,813,775,53,594,medium,134470200
+504,avoskin,Miraculous Refining Series Travel Kit,91774,243100,Skincare, Skin Care Set,4.71,25,24,1,16,medium,6077500
+504,avoskin,YOUR SKIN BAE SERIES ByeAcne ByeBlackhead Salicylic Acid 2% + Zinc,80844,154300,Skincare, Face Serum,4.562281315605318,1426,1328,123,994,medium,220031800
+504,avoskin,Intensive Nourishing Eye Cream Alpha Arbutin + Squalane + Kojic Acid + Retinol + Peptide + Edelweiss Extract,30907,165400,Skincare, Eye Cream,4.163550906346295,1388,1129,275,587,medium,229575200
+504,avoskin,YSB Niacinamide + Centella Asiatica Concentrated Serum Mask,89738,38900,Skincare, Sheet Mask,4.738970588235294,68,67,1,55,low,2645200
+504,avoskin,YSB Serum Mandelic Acid 5% + Panthenol + Perilla Extract,98927,154300,Skincare, Face Serum,4.645833333333333,12,12,1,11,medium,1851600
+504,avoskin,YSB Serum Infused Cleanser Spirulina + Witch Hazel + Glycolic Acid,102891,109900,Skincare, Face Wash,4.5875,40,38,5,24,medium,4396000
+504,avoskin,YSB Serum Spirulina + Witch Hazel + Glycolic Acid + Niacinamide (30 ml),100240,143200,Skincare, Face Serum,4.580357142857142,28,27,2,16,medium,4009600
+504,avoskin,Miraculous Divine Aura Ampoule X Paola Serena,92251,320800,Skincare, Ampoule,4.707831325301205,83,80,3,73,medium,26626400
+504,avoskin,Miraculous Divine Aura Liquid Ampoule Sheet Mask,92253,54400,Skincare, Sheet Mask,4.614035087719298,57,53,5,42,low,3100800
+504,avoskin,Miraculous Refining 7th Bday Edition,92263,536200,Skincare, Skin Care Set,0.0,0,0,0,0,high,0
+504,avoskin,Miraculous Refining Series,84342,492900,Chăm sóc da, Set Chăm sóc da,4.0,1,1,0,1,medium,492900
+504,avoskin,Miraculous Refining Toner (Twin),84341,476300,Skincare, Toner,0.0,0,0,0,0,medium,0
+504,avoskin,Your Skin Bae Salicylic Acid Series,88204,319700,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+504,avoskin,Miraculous divine aura series,100494,740400,Skincare,,0.0,0,0,0,0,high,0
+504,avoskin,Miraculous Divine Aura Essence-Toner X Paola Serena,92256,365200,Skincare, Essence,4.739583333333333,72,70,3,59,medium,26294400
+504,avoskin,YSB Acne & Pores Savior Balm Stick,106630,187600,Skincare, Face Cream & Lotion,0.0,0,0,0,0,medium,0
+504,avoskin,YSB Vit. C + Hyaluronic Acid Concentrated Serum Mask,89739,38900,Skincare, Sheet Mask,4.724137931034483,58,57,2,47,low,2256200
+504,avoskin,YOUR SKIN BAE SERIES Ultimate Hyaluron HYACROSS 3% + Green Tea,80849,154300,Skincare, Face Serum,4.672683513838748,831,801,37,668,medium,128223300
+504,avoskin,YOUR SKIN BAE SERIES  Toner Salicylic Acid 1% + Zinc + Tea Tree Water,80841,165400,Skincare, Toner,4.594581749049429,526,491,45,354,medium,87000400
+504,avoskin,Your Skin Bae Collagen Series,88205,319700,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+504,avoskin,New Crush : Glow Bundle Stick Balm,107673,440700,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+504,avoskin,YSB Vitamin C Wrinkle Balm Moisturizing Stick,106629,187600,Skincare, Face Cream & Lotion,4.875,2,2,0,2,medium,375200
+504,avoskin,"Your Skin Bae Serum YSB Azeclair 10% + Niacinamide 2,5% + Kombucha Vaccine Serum",84384,165400,Skincare, Face Serum,4.561377245508982,665,624,62,443,medium,109991000
+504,avoskin,Miraculous Dark Spots Solution Active-Serum Infused Cleanser,98925,132100,Skincare, Face Wash,4.568181818181818,44,41,3,31,medium,5812400
+504,avoskin,Miraculous Retinol Toner Anniversary Edition,89753,243100,Skincare, Skin Care Set,4.663366336633663,101,96,4,80,medium,24553100
+504,avoskin,YSB Serum Tea Tree + Witch Hazel + Glycolic Acid + Rosemary (30 ml),100242,143200,Skincare, Face Serum,4.790540540540541,37,37,0,31,medium,5298400
+504,avoskin,My Serendipity NO.0 Deep Body Cleanser (200ml),101311,121000,Bath & Body, Body Wash,4.625,4,4,0,4,medium,484000
+504,avoskin,YOUR SKIN BAE Serum Panthenol 5% + Mugwort + Cica,87126,154300,Skincare, Face Serum,4.615853658536586,492,468,32,358,medium,75915600
+504,avoskin,Miraculous Retinol 7th Bday Edition,92268,573900,Skincare, Skin Care Set,4.5,1,1,0,0,high,573900
+504,avoskin,Miraculous Retinol Series,84343,530600,Skincare, Skin Care Set,4.625,4,4,0,3,high,2122400
+504,avoskin,YSB Spirulina Series for Acne Prone Skin,106029,292000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+504,avoskin,Retinol toner & sheetmask set,87682,164300,Skincare, Toner,0.0,0,0,0,0,medium,0
+504,avoskin,B1G1 Miraculous Refining Toner 20ml,107457,219800,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+504,avoskin,Refining toner & sheetmask set,87681,153200,Skincare, Toner,0.0,0,0,0,0,medium,0
+504,avoskin,Mini Glowing Kit,87680,275300,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+504,avoskin,My Serendipity NO.1 Deep Body Cleanser (200ml),101312,121000,Bath & Body, Body Wash,4.583333333333334,6,6,0,5,medium,726000
+504,avoskin,Miraculous Dark Spots Solution Essence Toner,98919,209800,Skincare, Toner,4.692307692307692,39,36,1,25,medium,8182200
+504,avoskin,YSB Niacinamide + Centella Asiatica Concentrated Serum Mask Set of 3,90778,115500,Skincare, Sheet Mask,0.0,0,0,0,0,medium,0
+504,avoskin,B1G1 YSB Serum Infused Cleanser Spirulina + Witch Hazel + Glycolic Acid,108033,219800,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+504,avoskin,New Crush : Anti Acne Bundle Stick Balm,107674,440700,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+504,avoskin,YSB Serum Infused Cleanser Spirulina Twin Bundle,103784,260085,Skincare, Face Wash,0.0,0,0,0,0,medium,0
+504,avoskin,YSB Vit. C + Hyaluronic Acid Concentrated Serum Mask Set of 3,90779,115500,Skincare, Sheet Mask,0.0,0,0,0,0,medium,0
+504,avoskin,Your Skin Bae Serum Vitamin C 3% + Niacinamide 2% + Mandarin Orange Fruit Extract,84385,165400,Skincare, Face Serum,4.629940443963184,1849,1745,133,1348,medium,305824600
+504,avoskin,YSB Serum Tranexamic Acid 3% + Glycolic Acid + Cranberry + Licorice,98926,154300,Skincare, Face Serum,4.615771812080537,149,140,12,93,medium,22990700
+504,avoskin,YSB Alpha Arbutin + Grapeseed Concentrated Serum Mask,89734,38900,Skincare, Sheet Mask,4.701298701298701,77,72,7,64,low,2995300
+504,avoskin,Miraculous Dark Spots Solution,100095,573900,Skincare,,0.0,0,0,0,0,high,0
+504,avoskin,Miraculous Retinol Series Travel Kit,91888,254200,Skincare, Skin Care Set,4.677884615384615,104,100,5,73,medium,26436800
+504,avoskin,Avoskin Intensive Divine Day Cream,34626,154300,Skincare, Face Cream & Lotion,4.305208333333333,240,198,45,130,medium,37032000
+504,avoskin,Miraculous Dark Spots Solution Ampoule,98917,232000,Skincare, Ampoule,4.646551724137931,58,55,1,43,medium,13456000
+504,avoskin,Miraculous Acne Solution Spot Treatment,89715,243100,Skincare, Acne Treatment / Sealing gel / Cream,4.588888888888889,135,119,14,99,medium,32818500
+504,avoskin,"Your Skin Bae Serum Lactic Acid 10% + Niacinamide 2,5%",84383,143200,Skincare, Face Serum,4.64119170984456,772,741,40,600,medium,110550400
+504,avoskin,"YSB Serum Lactic Acid 10% + Kiwi Fruit 5% + Niacinamide 2,5% High Dose Anniversary Edition (30 ml)",99614,143200,Skincare, Face Serum,4.75107296137339,233,228,6,195,medium,33365600
+504,avoskin,YOUR SKIN BAE Toner Ceramide LC S-20 1% + Mugwort + Cica,87127,176500,Skincare, Toner,4.597982708933717,347,324,17,254,medium,61245500
+504,avoskin,Ultra Brightening Cream 3% Alpha Arbutin + 0.5% Retinolsome + 2% Squalane,76154,176500,Skincare, Face Cream & Lotion,4.426070038910506,257,234,23,157,medium,45360500
+504,avoskin,Miraculous Acne Solution Micro Serum,89717,243100,Skincare, Face Serum,4.597560975609756,205,185,17,150,medium,49835500
+504,avoskin,YSB Serum Kojic Acid 1% + Glycolic Acid + Soybean + Licorice (30 ml),99595,143200,Skincare, Face Serum,4.569444444444445,126,118,9,86,medium,18043200
+504,avoskin,Your Skin Bae Vitamin C Series,88206,330800,Skincare, Face Serum,0.0,0,0,0,0,medium,0
+504,avoskin,Avoskin Basic Kit,65900,320800,Skincare, Skin Care Set,4.414092140921409,45,42,5,27,medium,14436000
+504,avoskin,Avoskin Luminous Emulsion Night Cream,34627,154300,Skincare, Face Cream & Lotion,4.370588235294118,255,219,42,146,medium,39346500
+504,avoskin,Your Skin Bae Mugwort Series,89657,330800,Skincare, Skin Care Set,4.541666666666667,6,6,0,6,medium,1984800
+504,avoskin,Kiss Your Crush! Hydration Plump It Up Travel Kit,91891,209800,Skincare, Skin Care Set,4.589285714285714,14,14,1,10,medium,2937200
+504,avoskin,Miraculous Acne Solution Bubble-Serum Infused Cleanser,89716,154300,Skincare, Face Wash,4.595486111111111,144,133,11,95,medium,22219200
+504,avoskin,Naufa Pure Olive Oil Bar Soap,34628,24500,Skincare, Cleansing Bar,4.527426160337553,237,221,18,150,low,5806500
+504,avoskin,Avoskin Deluxe Essential Series,34624,442900,Skincare,,4.432088744588745,33,29,3,20,medium,14615700
+504,avoskin,YSB Kojic Acis Series for Brightening Skin,106030,292000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+504,avoskin,YSB Serum Infused Cleanser Kojic Acid Twin Bundle,103785,260085,Skincare,,0.0,0,0,0,0,medium,0
+504,avoskin,AHA BHA PHA Sheetmask,79498,43300,Skincare, Sheet Mask,4.462374581939799,299,278,23,199,low,12946700
+504,avoskin,YSB Alpha Arbutin + Grapeseed Concentrated Serum Mask Set of 3,90777,115500,Skincare, Sheet Mask,0.0,0,0,0,0,medium,0
+504,avoskin,It`s Time To Glow Travel Kit,91890,209800,Skincare, Skin Care Set,4.4375,16,14,3,11,medium,3356800
+504,avoskin,Miraculous Acne Solution Overnight Liquid Ampoule Sheet Mask Set of 3,90780,128700,Skincare, Sheet Mask,2.75,1,0,1,0,medium,128700
+504,avoskin,Miraculous Acne Solution Overnight Liquid Ampoule Sheet Mask,89718,43300,Skincare, Sheet Mask,4.669075144508671,173,159,10,138,low,7490900
+504,avoskin,Avoskin Triple Sheetmask Package,83623,259800,Skincare, Sheet Mask,4.0,1,1,0,1,medium,259800
+15230,axis-y,Spot the Difference Blemish Treatment,99620,306000,Skincare, Essence,0.0,0,0,0,0,medium,0
+15230,axis-y,Hearleaf My-Type Calming Cream,99618,351000,Skincare, Face Cream & Lotion,0.0,0,0,0,0,medium,0
+15230,axis-y,Daily Purifying Treatment Toner,92676,360000,Skincare, Toner,0.0,0,0,0,0,medium,0
+15230,axis-y,Dark Spot Glow Serum,82424,387000,Skincare, Face Serum,4.512861736334405,311,292,29,212,medium,120357000
+15230,axis-y,Quinoa One-Step balanced Gel Cleanser,82425,324000,Skincare, Face Wash,4.551282051282051,39,37,4,22,medium,12636000
+15230,axis-y,New Skin Resolution Gel Mask,106759,387000,Skincare, Wash off Mask,5.0,1,1,0,1,medium,387000
+15230,axis-y,Sunday Morning Refreshing Cleansing Foam,106760,243000,Skincare, Face Wash,0.0,0,0,0,0,medium,0
+15230,axis-y,Mini Glow Set,106757,162000,Skincare,,0.0,0,0,0,0,medium,0
+475,azarine,Hydramax-C Sunscreen Serum,92683,65000,Skincare, Sun Care,4.731332357247438,1366,1334,60,1142,low,88790000
+475,azarine,Hydrashoothe Sunscreen Gel Spf45+++,82166,65000,Skincare, Sun Care,4.786224163647987,9386,9168,215,8372,low,610090000
+475,azarine,Velvety Lippie Cream,105903,54000,Makeup, Lip Cream,4.603703703703704,108,104,5,74,low,5832000
+475,azarine,Chic to Cheek Blush,108254,59000,Makeup, Blush,4.64,5,5,0,5,low,295000
+475,azarine,Retinol Smooth Glowing Serum,96223,59000,Skincare, Face Serum,4.620967741935484,403,385,25,283,low,23777000
+475,azarine,Tinted Lippie Cake,103676,49000,Makeup, Lip Tint,4.689212827988338,343,332,16,265,low,16807000
+475,azarine,Bodyguard Moisturiser Sunscreen Serum  Sweet Treats Baby,97672,65000,Bath & Body, Body Lotion / Body Serum,4.722027972027972,143,139,5,117,low,9295000
+475,azarine,Hydrasoothe Sunscreen Mist,92690,65000,Skincare, Sun Care,4.508819951338199,822,733,90,527,low,53430000
+475,azarine,Bodyguard Moisturiser Sunscreen Serum  Sun O'Clock,97671,65000,Bath & Body, Body Lotion / Body Serum,4.713270142180095,211,207,6,176,low,13715000
+475,azarine,Bodysaver Moisturiser Bright Power 100 ml,101319,45000,Bath & Body, Body Lotion / Body Serum,4.642045454545455,44,41,5,28,low,1980000
+475,azarine,Mild Purifying Toner,91513,69000,Skincare, Toner,4.780087527352298,457,422,19,383,low,31533000
+475,azarine,Multi Acids Glowing Toner,91512,69000,Skincare, Toner,4.753597122302159,278,256,9,233,low,19182000
+475,azarine,Cicamide Barrier Sunscreen Moisturiser SPF 35 PA+++,105905,39000,Skincare, Face Serum,4.806603773584905,53,53,0,46,low,2067000
+475,azarine,Bodysaver Moisturiser Barrier Glow 100 ml,101316,45000,Bath & Body, Body Lotion / Body Serum,4.533333333333333,15,15,3,7,low,675000
+475,azarine,Bodyguard Moisturiser Sunscreen Serum  Young & Free,97896,65000,Bath & Body, Body Lotion / Body Serum,4.703947368421053,228,218,13,172,low,14820000
+475,azarine,Xpress micellar oil water,98876,49000,Skincare, Makeup Remover,4.7785714285714285,70,69,4,55,low,3430000
+475,azarine,Niacinamide 5 % + Moisture Sepiwhite Serum,96218,59000,Skincare, Face Serum,4.641176470588236,170,163,14,109,low,10030000
+475,azarine,Daily Beginner Exfoliating Toner,91515,69000,Skincare, Toner,4.792929292929293,396,365,12,328,low,27324000
+475,azarine,Moisture Rich Hydrating Toner,91514,69000,Skincare, Toner,4.76867469879518,415,384,19,354,low,28635000
+475,azarine,Oh! So Fine Liner,103674,55000,Makeup, Eyeliner,4.564705882352941,34,28,4,20,low,1870000
+475,azarine,Sweet Treats Eyeshadow,108252,62000,Makeup, Eyeshadow,4.640000000000001,5,5,0,5,low,310000
+475,azarine,Pure Radiance Barrier Moisturizer,106596,54000,Skincare, Face Cream & Lotion,4.6875,16,16,0,12,low,864000
+475,azarine,Intense Luminous Barrier Moisturizer,106594,54000,Skincare, Face Cream & Lotion,4.461538461538462,26,25,2,16,low,1404000
+475,azarine,Make It Brow-Cara!,108251,59000,Makeup, Eyebrows,4.8,4,4,0,2,low,236000
+475,azarine,Oh! My Brow Definer,103675,55000,Makeup, Eyebrows,4.735714285714286,56,55,2,43,low,3080000
+475,azarine,Bodyguard Moisturiser Sunscreen Serum  Sunproof Monster,97673,65000,Bath & Body, Body Lotion / Body Serum,4.669512195121951,205,198,7,155,low,13325000
+475,azarine,Niacinamide 10% + Dipotassium Glycyrrhizate Glorious Serum,102738,99000,Skincare, Face Serum,4.386363636363637,22,20,3,10,low,2178000
+475,azarine,Pop The Soda! Highlighter,108258,59000,Makeup, Highlighter,0.0,0,0,0,0,low,0
+475,azarine,Calm My Acne Sunscreen Moisturiser SPF 35 PA+++,105904,39000,Skincare, Face Serum,4.845454545454546,55,54,1,52,low,2145000
+475,azarine,Ceramoist botanical micellar water,98875,39000,Skincare, Makeup Remover,4.74404761904762,84,80,7,62,low,3276000
+475,azarine,Oil Free Brightening Daily Moisturizer,86490,69000,Skincare, Face Cream & Lotion,4.814696485623003,1565,1534,27,1378,low,107985000
+475,azarine,Acne Spot Serum,96214,29000,Skincare, Face Serum,4.631983240223463,358,330,32,257,low,10382000
+475,azarine,Bodyguard Moisturiser Sunscreen Serum  Magical Luv,97897,65000,Bath & Body, Body Lotion / Body Serum,4.715,350,344,8,281,low,22750000
+475,azarine,Essential Protection Bundle,104922,120000,Skincare,,0.0,0,0,0,0,medium,0
+475,azarine,Simple Glam Protection Bundle,104921,120000,Skincare,,0.0,0,0,0,0,medium,0
+475,azarine,Daily Basic Protection Bundle,104920,114000,Skincare,,0.0,0,0,0,0,medium,0
+475,azarine,Bodysaver Moisturiser Smooth On 100 ml,101315,45000,Bath & Body, Body Lotion / Body Serum,4.483333333333334,30,28,3,19,low,1350000
+475,azarine,HydraMax Water Bank Serum,96222,49000,Skincare, Face Serum,4.643491124260355,169,160,15,109,low,8281000
+475,azarine,PHA 10% + Astaxanthin Hillarious Serum,102736,99000,Skincare, Face Serum,4.875,4,4,0,4,low,396000
+475,azarine,Vitamin C 10% + Diamond Booster Serum,102735,99000,Skincare, Face Serum,4.289473684210526,19,16,3,12,low,1881000
+475,azarine,Get Sunkissed! Bronzer,108257,59000,Makeup, Bronzer,4.666666666666667,3,3,0,2,low,177000
+475,azarine,Miracle Oil Serum,96225,59000,Skincare, Face Serum,4.588235294117647,34,30,3,28,low,2006000
+475,azarine,AHA-BHA-PHA Peeling Serum,96215,49000,Skincare, Face Serum,4.592105263157895,171,154,20,107,low,8379000
+475,azarine,Bubble On Me Deep Mask Cleanser,84779,125000,Skincare, Face Wash,4.75,98,96,6,76,medium,12250000
+475,azarine,Vitamin Lab Instant Glow Peel Off Nail Polish,87996,35000,Nail Care, Nail Polish,4.51937984496124,129,124,6,107,low,4515000
+475,azarine,Retinol Complex + 5x Ceramide Mighty Serum,102737,99000,Skincare, Face Serum,4.555555555555555,27,27,1,17,low,2673000
+475,azarine,Tone Up Mineral Sunscreen Serum,92691,75000,Skincare, Sun Care,4.694606413994169,343,319,27,266,low,25725000
+475,azarine,Miraclear Herbal Peeling Serum,76038,29500,Skincare, Face Serum,4.669835466179159,1094,1037,69,852,low,32273000
+475,azarine,Brightening C- Glow Serum,96217,59000,Skincare, Face Serum,4.610745614035088,228,211,24,157,low,13452000
+475,azarine,Advanced Youth Barrier Moisturizer,106595,54000,Skincare, Face Cream & Lotion,4.75,10,10,0,9,low,540000
+475,azarine,Bodysaver Moisturiser Ageless Glow 100 ml,101317,45000,Bath & Body, Body Lotion / Body Serum,4.75,24,24,0,15,low,1080000
+475,azarine,Polypeptide Fresh Vitality Toner,100116,69000,Skincare, Toner,4.472222222222222,36,33,5,20,low,2484000
+475,azarine,Daily Defender Multivitamin Serum,96230,59000,Skincare, Face Serum,4.632352941176471,85,81,5,52,low,5015000
+475,azarine,Radiant Luminous Serum,96220,49000,Skincare, Face Serum,4.620879120879121,91,85,4,60,low,4459000
+475,azarine,Eyeluminate Firming Serum C White,74715,42000,Skincare, Eye Serum,4.54982292682999,1186,1089,93,748,low,49812000
+475,azarine,Purifying Deep Cleansing Clay Mask,88409,65000,Skincare, Clay Mask,4.637392241379311,464,426,42,322,low,30160000
+475,azarine,C White Ultralight Hydraglow Day Cream,76036,55000,Skincare, Face Cream & Lotion,4.844712739383847,1201,1186,19,1084,low,66055000
+475,azarine,Blackhead Remover Mask,88410,50000,Skincare, Nose Pack,4.62827868852459,610,536,65,462,low,30500000
+475,azarine,Calming Skinpair Serum,96219,59000,Skincare, Face Serum,4.631889763779528,127,122,6,95,low,7493000
+475,azarine,Fresh Radiance Brightening Scrub,76037,32500,Skincare, Scrub & Exfoliator,4.560416666666667,120,111,8,73,low,3900000
+475,azarine,Acne Spot Gel,12602,45000,Skincare, Sealing / Treatment Gel / Cream,4.57673860911271,417,382,46,284,low,18765000
+1371,balans,Recharge Honey Lemon Tube | 14 Sachet,94653,379000,Supplement, Beauty Suplements,4.74525201893623,94,93,0,88,medium,35626000
+1371,balans,Balans Pure Tube | Collagen Drink – 14 Sachets,97753,389000,Supplement, Beauty Suplements,4.133333333333334,4,4,0,4,medium,1556000
+1371,balans,Active Mixed Berries Tube | 14 Sachet,94654,379000,Supplement, Beauty Suplements,4.779635823114083,38,39,0,37,medium,14402000
+1371,balans,Lite Tropical Fruits Tube | 14 Sachet,94655,379000,Supplement, Beauty Suplements,4.616725507502206,104,101,3,83,medium,39416000
+202,banana-boat,Sport Ultra SPF50+ Sunscreen Lotion,98549,254000,Skincare, Sunscreen,4.741935483870968,60,60,2,48,medium,15240000
+202,banana-boat,Ultra Protect Sunscreen Lotion SPF 50,2556,183000,Skincare, Sun Care,4.496010638297872,184,175,17,134,medium,33672000
+202,banana-boat,Deep Tanning Oil,23441,99000,Skincare, Sun Care,4.583333333333333,1,3,0,3,low,99000
+202,banana-boat,Simply Protect Aqua Sensitive Suncreen Lotion SPF50+ 50ml,102836,177000,Skincare, Sunscreen,4.7125,18,19,2,14,medium,3186000
+202,banana-boat,Sport Ultra SPF30 Sunscreen Lotion 90ml,484,159000,Skincare, Sun Care,4.3578947368421055,93,89,7,57,medium,14787000
+202,banana-boat,Ultra Protect Ultramist SPF50,23439,254000,Skincare, Sun Care,4.723194748358862,457,448,14,351,medium,116078000
+202,banana-boat,Simply Protect Aqua Daily Moisture Sunscreen Lotion SPF50+,63867,168000,Skincare, Sun Care,4.656336088154269,363,341,20,276,medium,60984000
+202,banana-boat,Ultra Protect Faces Sunscreen Lotion SPF 50 - 60ml,483,151000,Skincare, Sun Care,4.297222222222222,268,224,46,150,medium,40468000
+202,banana-boat,Simply Protect Aqua Long Wearing Moisture Sunscreen Lotion SPF50+,63866,168000,Skincare, Sun Care,4.673575129533679,189,184,9,142,medium,31752000
+202,banana-boat,Sun Comfort Lotion SPF 50,33707,193000,Skincare, Sun Care,4.342105263157896,55,53,6,35,medium,10615000
+202,banana-boat,Sport Ultra SPF50 Sunscreen Lotion 90ml,485,193000,Bath & Body, Body Sunscreen,4.335972850678733,220,216,15,152,medium,42460000
+202,banana-boat,Ultra Protect Sunscreen Lotion SPF 30,2555,151000,Bath & Body, Body Sunscreen,4.15,38,35,6,22,medium,5738000
+202,banana-boat,Deep Tanning Oil SPF 4 - 236ml,487,118000,Bath & Body, Tanning,4.514705882352941,15,16,2,11,medium,1770000
+202,banana-boat,Protective Tanning Oil SPF 8,2206,169000,Bath & Body, Tanning,4.428571428571429,5,7,1,4,medium,845000
+202,banana-boat,Deep Tanning Oil SPF2,23442,107000,Bath & Body, Tanning,5.0,0,2,0,2,medium,0
+1247,banobagi,Vita Genic Jelly Mask Cica,106914,25000,Skincare, Sheet Mask,4.916666666666667,3,3,0,3,low,75000
+1247,banobagi,Vita Genic Jelly Mask Relaxing,106910,25000,Skincare, Sheet Mask,4.875,2,2,0,2,low,50000
+1247,banobagi,Vita Genic Jelly Mask Whitening,106907,25000,Skincare, Sheet Mask,4.875,2,2,0,2,low,50000
+1247,banobagi,Vita Genic Jelly Mask Lifting,106912,25000,Skincare, Sheet Mask,4.875,2,2,0,2,low,50000
+1247,banobagi,Vita Genic Jelly Mask Hydrating,106913,25000,Skincare, Sheet Mask,4.875,2,2,0,2,low,50000
+1247,banobagi,Vita Genic Jelly Mask Pore Tightening,106911,25000,Skincare, Sheet Mask,4.875,2,2,0,2,low,50000
+1247,banobagi,Vita Genic Jelly Mask Vitalizing,106908,25000,Skincare, Sheet Mask,4.875,2,2,0,2,low,50000
+1284,barenbliss,Cherry Makes Cheerful Lip Velvet,91569,69000,Makeup, Lip Cream,4.586168741355464,1446,1351,98,1043,low,99774000
+1284,barenbliss,Peach Makes Perfect Lip Tint,88812,69000,Makeup, Lip Tint,4.619731465265615,3426,3288,159,2627,low,236394000
+1284,barenbliss,Korean Bloomatte Full Bloom Transferproof Matte Tint LONGLAST 12H,100546,69000,Makeup, Lip Tint,4.573654390934845,706,660,63,492,low,48714000
+1284,barenbliss,Berry Makes Comfort Lip Cream,88811,69000,Makeup, Lip Cream,4.568921389396708,1094,1028,87,736,low,75486000
+1284,barenbliss,Kiwi Tin Tint Lip & Cheek,100699,69000,Makeup, Lip Tint,4.520105820105821,378,349,34,241,low,26082000
+1284,barenbliss,Fortune Cookie Eyeshadow,88832,69000,Makeup, Eyeshadow,4.621374045801526,524,496,24,371,low,36156000
+1284,barenbliss,Highlight! Rich Girl in Area,88840,79000,Makeup, Highlighter,4.676683937823834,193,186,12,124,low,15247000
+1284,barenbliss,Roll to Volume Mascara,101591,79000,Makeup, Mascara,4.773658536585366,205,195,9,165,low,16195000
+1284,barenbliss,Into Glow! Mon Paris Brightening Body Wash,98073,79000,Bath & Body, Body Wash,4.726010101010101,198,189,11,136,low,15642000
+1284,barenbliss,Barenbliss Fine to Refine Compact Powder,93071,129000,Makeup, Pressed Powder,4.542180094786729,422,393,35,290,medium,54438000
+1284,barenbliss,Dream Chaser Quad Eyeshadow Palette,108107,109000,Makeup, Eyeshadow,0.0,0,0,0,0,medium,0
+1284,barenbliss,Butter Rush Vitamin Lip mask,91570,45000,Skincare, Lip Mask,4.562996031746032,504,455,55,322,low,22680000
+1284,barenbliss,Cheerio Acne! Black Opium Calming Body Wash,98078,79000,Bath & Body, Body Wash,4.588888888888889,180,157,18,114,low,14220000
+1284,barenbliss,Glow Guide! Brightening Skincare  Travel Kit,101590,300000,Skincare,,4.764925373134329,67,65,4,47,medium,20100000
+1284,barenbliss,Ceramoist Glow Lip Serum,101911,69000,Skincare, Lip Balm,4.71046511627907,215,206,11,160,low,14835000
+1284,barenbliss,True Beauty Inside Cushion Refill,103916,109000,Makeup, Cushion,4.661538461538461,39,37,2,33,medium,4251000
+1284,barenbliss,Soul-Matte Loose Powder,88842,99000,Makeup, Loose Powder,4.600210304942165,951,888,78,671,low,94149000
+1284,barenbliss,Make Me Classy Eyebrow,88838,49000,Makeup, Eyebrows,4.580630630630631,444,409,32,317,low,21756000
+1284,barenbliss,Into Glow! Mon Paris Brightening Body Serum,98081,89000,Bath & Body, Body Lotion / Body Serum,4.6477272727272725,220,210,14,147,low,19580000
+1284,barenbliss,Cheerio Acne! Black Opium Calming Body Serum,98082,89000,Bath & Body, Body Lotion / Body Serum,4.652892561983471,121,115,6,84,low,10769000
+1284,barenbliss,Barenbliss True Beauty Inside Cushion,93060,159000,Makeup, Cushion,4.5137931034482754,754,692,76,486,medium,119886000
+1284,barenbliss,Barenbliss Start-Over Concealer,93062,89000,Makeup, Concealer,4.463636363636363,154,135,18,88,low,13706000
+1284,barenbliss,Like A Pro! Shockproof DuraBrow Pomade,101592,69000,Makeup, Eyebrows,4.584126984126984,63,59,5,36,low,4347000
+1284,barenbliss,Better Than Magic Eyeliner,88835,45000,Makeup, Eyeliner,4.671860465116279,860,813,52,650,low,38700000
+1284,barenbliss,Double shot! C Day A Night Deep Brightening Double Serum,96869,189000,Skincare, Face Serum,4.61436170212766,94,90,4,65,medium,17766000
+1284,barenbliss,Spark-Tacular Party Blush,88841,75000,Makeup, Blush,4.6971428571428575,245,236,11,184,low,18375000
+1284,barenbliss,Set N Slick Lasting Browcara,106781,79000,Makeup, Eyebrows,4.711111111111111,9,9,0,8,low,711000
+1284,barenbliss,Yogurt Vit+ Mask Sakura Brightening Solution,90076,17000,Skincare, Sheet Mask,4.767412935323383,201,199,5,163,low,3417000
+1284,barenbliss,Caramel Frost Renewing Lip Scrub,103915,45000,Skincare, Lip Scrub,4.583333333333334,12,11,1,9,low,540000
+1284,barenbliss,BNB Bundle Glow Lip Serum + Lip Velvet,103710,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Lip Velvet + Lip Cream,103709,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Lip Velvet + Kiwi Tint,103708,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Lip Velvet - 2 pcs,103702,138000,Makeup, Lip Cream,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Lip Tint + Lip Velvet,101212,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle  Matte Tint + Lip Velvet,101002,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,Cheer Your Body Brightening Bundle [Sabun Cair + Body Serum],99870,168000,Bath & Body, Body Lotion / Body Serum,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Glow Lip Serum + Lip Tint,103713,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Lip Tint + Lip Cream,103707,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Lip Tint + Kiwi Tint,103706,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,[MUST HAVE] Cushion x Lip Tint Terlaris,101361,288000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Lip Tint Bundle - 2 pcs,101354,138000,Makeup, Lip Tint,0.0,0,0,0,0,medium,0
+1284,barenbliss,Bloom My Way - Bloomatte Series Bundle 04,101215,357000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Lip Tint + Matte Tint,101000,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,Machi Peachy Micellar Water,90078,55000,Skincare, Micellar Water,4.669381107491857,307,287,21,213,low,16885000
+1284,barenbliss,Cushion X Concealer,101219,248000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,Meta-Glow Double shot! C Day A Night Deep Brightening korea Double Serum + Bloomatte Start-Over Concealer,97364,278000,Skincare, Face Serum,0.0,0,0,0,0,medium,0
+1284,barenbliss,K.O! Kombucha Omega Deep Cleansing Balm,99357,119000,Skincare, Cleansing Balm,4.600515463917526,97,86,12,57,medium,11543000
+1284,barenbliss,barenbliss My UV Armor SPF 50 PA++++,96437,89000,Skincare, Sun Care,4.5534351145038165,131,119,18,84,low,11659000
+1284,barenbliss,Clear Up Cheer Up Self-Care Travel Kit,102529,159000,Bath & Body, Bath & Body Set,5.0,5,5,0,4,medium,795000
+1284,barenbliss,[MUST HAVE] Paket Makeup - Matte Finish Terlaris,101360,288000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,[MUST HAVE] Cushion x Kiwi Tint,101210,228000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,[MUST HAVE] Cushion x Matte Tint,101208,228000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,[MUST HAVE] Cushion x Lip Velvet Terlaris,101003,228000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Glow Lip Serum + Matte Tint,103712,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Glow Lip Serum + Kiwi Tint,103715,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Glow Lip Serum + Lip Cream,103714,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Glow Lip Serum - 2 pcs,103711,138000,Skincare, Lip Balm,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Matte Tint + Lip Cream,103704,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Matte Tint - 2 pcs,103703,138000,Makeup, Lip Tint,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Matte Tint + Kiwi Tint,101214,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,Double Cleansing Kit Cleansing Balm + Facial Foam,99871,228000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+1284,barenbliss,10 Elements! Amino Acid Rich Foam Cleanser,99358,109000,Skincare, Face Wash,4.674242424242424,33,33,2,16,medium,3597000
+1284,barenbliss,I'm Pore-fect Amazon Glow Clay Duo,102822,109000,Skincare, Clay Mask,4.75,19,19,1,14,medium,2071000
+1284,barenbliss,Pimple Warrior! Salicylic Acid Acne Drying Lotion 35gr - 2pcs,101366,178000,Skincare, Acne Treatment / Sealing gel / Cream,0.0,0,0,0,0,medium,0
+1284,barenbliss,Meta-Glow Double shot! C Day A Night Deep Brightening korea Double Serum + Bloomatte True Beauty Inside Cushion,97369,348000,Makeup, Cushion,0.0,0,0,0,0,medium,0
+1284,barenbliss,barenbliss Bloom My Way - Bloomatte Series Bundle 01,96438,288000,Makeup, Cushion,0.0,0,0,0,0,medium,0
+1284,barenbliss,Meta-Glow Double shot! C Day A Night Deep Brightening korea Double Serum + Yogurt Vit+ Mask Sakura,97386,206000,Skincare,,0.0,0,0,0,0,medium,0
+1284,barenbliss,Meta-Glow Skin Chill Routine Set! Brightening Korean Skincare Set「28 Days Brightening」,97359,517000,Skincare,,0.0,0,0,0,0,high,0
+1284,barenbliss,Meta-Glow Brightening Bundle skin chill 02,97357,358000,Skincare, Face Serum,0.0,0,0,0,0,medium,0
+1284,barenbliss,Meta-Glow Brightening Bundle skin chill 01,97356,348000,Skincare, Face Serum,0.0,0,0,0,0,medium,0
+1284,barenbliss,2 PCS Meta-Glow Double shot! C Day A Night Deep Brightening korea Double Serum,97354,378000,Skincare, Face Serum,0.0,0,0,0,0,medium,0
+1284,barenbliss,KO! Kombucha Omega Deep Cleansing Balm (Refill),99716,89000,Skincare, Cleansing Balm,4.365384615384615,13,10,1,7,low,1157000
+1284,barenbliss,BNB Bundle Kiwi Tint + Lip Cream,103705,138000,Makeup,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Lip Cream 02 + Lip Cream 04,91648,138000,Makeup, Lip Cream,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Lip Cream 01 + Lip Cream 03,91566,138000,Makeup, Lip Tint,0.0,0,0,0,0,medium,0
+1284,barenbliss,Double Joy Inside Holiday Edition Cushion Kit (cushion + refill),100978,268000,Makeup, Cushion,4.729411764705882,17,17,0,13,medium,4556000
+1284,barenbliss,Meta-Glow Glow Bottle! Lavabiome Brightening Korea Essence Hydrating Toner  + Bloomatte Fine to Refine Compact Powder,97367,288000,Makeup, Pressed Powder,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Barenbliss Lit It Up Bundle 1,91649,154000,Makeup, Highlighter,0.0,0,0,0,0,medium,0
+1284,barenbliss,Meta-Glow Lab Power! Oléomide Brightening korea Reviving Cream + My UV Armor SPF 50 PA++++,97361,258000,Skincare, Face Cream & Lotion,0.0,0,0,0,0,medium,0
+1284,barenbliss,Meta-Glow Glow Bottle! Lavabiome Brightening Korea Essence Hydrating Toner + My UV Armor SPF 50 PA++++,97360,248000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+1284,barenbliss,Kiwi Tint Lip & Cheek Full Set Series,101182,275000,Makeup, Lip Tint,4.618181818181818,11,11,0,8,medium,3025000
+1284,barenbliss,BNB Barenbliss Lit It Up Bundle 2,91650,154000,Makeup, Highlighter,0.0,0,0,0,0,medium,0
+1284,barenbliss,Meta-Glow Brightening Bundle skin chill 03,97358,328000,Skincare, Face Cream & Lotion,0.0,0,0,0,0,medium,0
+1284,barenbliss,Bloom My Way Bundle,101184,288000,Makeup,,4.7,2,2,1,1,medium,576000
+1284,barenbliss,Yogurt Vit+ Mask Tea Tree Calming Solution,90077,17000,Skincare, Sheet Mask,4.654285714285714,175,167,11,118,low,2975000
+1284,barenbliss,Barenbliss Peach Punch Mini Lip Tint Kit,106157,135000,Makeup, Lip Tint,4.694285714285714,70,70,0,57,medium,9450000
+1284,barenbliss,Meta-Glow Double shot! C Day A Night Deep Brightening korea Double Serum + Yogurt Vit+ Mask Tea Tree,97387,206000,Skincare,,0.0,0,0,0,0,medium,0
+1284,barenbliss,BNB Bundle Kiwi Tint - 2 pcs,101211,138000,Makeup, Lip Tint,0.0,0,0,0,0,medium,0
+1284,barenbliss,Clean Up Glow Up Self-Care Travel Kit,101589,159000,Bath & Body,,4.70625,40,40,0,27,medium,6360000
+1322,base,Dreamy Glow Postbiotic Gel Mask,102648,145000,Skincare, Face Gel,4.625,4,4,0,4,medium,580000
+1322,base,Fresh Clarifying Clay Mask,99873,225000,Skincare, Clay Mask,4.75,14,14,0,8,medium,3150000
+1322,base,Ultra Matte Natural Sunscreen SPF 50 PA+++,90204,169000,Skincare, Sun Care,4.446875,80,72,8,51,medium,13520000
+1322,base,Deep Sebum Control & Pore Clarifying Serum,91259,159000,Skincare, Face Serum,4.619047619047619,21,18,3,16,medium,3339000
+1322,base,Ultra Clarity Balancing Lotion,90209,189000,Skincare, Face Cream & Lotion,4.464285714285714,14,13,1,5,medium,2646000
+1322,base,Overnight Moisture Lip Mask,106995,69000,Skincare, Lip Mask,0.0,0,0,0,0,low,0
+1322,base,Ultra Soothe Moisture Cream,90213,189000,Skincare, Face Cream & Lotion,4.45,5,4,1,2,medium,945000
+1322,base,Gloss & Go Lip Tint,102401,98000,Makeup, Lip Tint,4.714285714285714,21,21,0,15,low,2058000
+1322,base,Ultra Soothe Natural Sunscreen SPF 50 PA+++,90205,169000,Skincare, Sunscreen,4.285714285714286,28,23,8,10,medium,4732000
+1322,base,BASE Youthful Concentrate Eye Serum 15g,102553,139000,Skincare, Eye Serum,4.0,7,6,1,5,medium,973000
+1322,base,BASE Smooth Solar Shield Eye Cream SPF 45 PA+++ 15g,102552,139000,Skincare, Eye Cream,4.5,4,3,1,2,medium,556000
+1322,base,Relief Hydration & Barrier Calming Serum,98880,159000,Skincare, Face Serum,4.305555555555555,9,9,3,6,medium,1431000
+1322,base,Ultra Gleam Purifying Lotion,101481,189000,Skincare, Face Cream & Lotion,0.0,0,0,0,0,medium,0
+1322,base,All Day Quick Comfort Face Mist,102646,98000,Skincare, Face Mist,4.833333333333333,12,12,0,9,low,1176000
+1322,base,Daily Renewal Natural Exfoliating Pads,102645,149000,Skincare, Face Cream & Lotion,4.25,3,3,1,2,medium,447000
+1322,base,Rich Moisture & Youthful Firming Serum,98879,159000,Skincare, Face Serum,4.716666666666667,15,15,0,10,medium,2385000
+1322,base,Daily Radiance & Multi Protection Serum,93143,159000,Skincare, Face Serum,4.425,10,9,3,4,medium,1590000
+1322,base,Freshly Dew Toner,90206,159000,Skincare, Toner,4.53125,16,14,1,7,medium,2544000
+1322,base,BASE Gloss & Go Collection Set,102551,588000,Makeup, Lip Tint,4.7,2,2,0,2,high,1176000
+515,batiste,Tropical Exotic Coconut Dry Shampoo,103888,120082,Hair Care, Dry Shampoo,4.714285714285714,14,14,0,13,medium,1681148
+515,batiste,Light & Breezy Fresh,73918,120082,Hair Care, Dry Shampoo,4.607142857142858,42,41,3,34,medium,5043444
+515,batiste,Fruity & Cheeky Cherry,73945,120082,Hair Care, Dry Shampoo,4.628571428571428,70,68,3,56,medium,8405740
+515,batiste,BUY 1 FREE 1 Batiste Dry Shampoo - Clean & Classic Original 200ml,84989,238000,Hair Care, Dry Shampoo,4.25,2,1,1,1,medium,476000
+515,batiste,Clean & Classic Original,73944,120082,Hair Care, Dry Shampoo,4.596590909090909,44,42,4,32,medium,5283608
+515,batiste,Benefit Dry Shampoo & Volume,89158,150355,Hair Care, Dry Shampoo,4.428571428571429,14,11,3,10,medium,2104970
+515,batiste,Divine Dark With A Hint Of Color,73922,120082,Hair Care, Dry Shampoo,4.4642857142857135,7,4,1,3,medium,840574
+515,batiste,Pretty & Opulent Oriental,73920,120082,Hair Care, Dry Shampoo,4.611111111111111,18,18,0,14,medium,2161476
+515,batiste,Beautiful Brunette With A Hint of Colour Dry Shampoo,103889,120002,Hair Care, Dry Shampoo,0.0,0,0,0,0,medium,0
+515,batiste,BUY 1 FREE 1 Batiste Dry Shampoo - Fruity & Cheeky Cherry 200ml,84988,238000,Hair Care, Dry Shampoo,0.0,0,0,0,0,medium,0
+515,batiste,Self Love Beaming Berries,104416,120082,Hair Care, Dry Shampoo,4.0,1,1,1,0,medium,120082
+515,batiste,Benefit Dry Shampoo & De-Frizz,89160,150355,Hair Care, Dry Shampoo,4.75,2,2,1,1,medium,300710
+515,batiste,Benefit Dry Shampoo & Hydrate,89159,150355,Hair Care, Dry Shampoo,4.333333333333333,3,2,0,1,medium,451065
+515,batiste,BUY 1 FREE 1 Batiste Dry Shampoo - Pretty & Opulent Oriental 200ml,84985,238000,Hair Care, Dry Shampoo,0.0,0,0,0,0,medium,0
+515,batiste,Clean & Classic Original Travel Size,73946,49445,Hair Care, Dry Shampoo,4.762711864406779,59,59,2,52,low,2917255
+2271,beauty-of-joseon,Glow Serum : Propolis + Niacinamide,102899,240000,Skincare, Face Serum,4.7,32,34,3,27,medium,7680000
+2271,beauty-of-joseon,Radiance Cleansing Balm,102906,270000,Skincare, Cleansing Balm,4.791666666666667,10,11,1,10,medium,2700000
+2271,beauty-of-joseon,Centella Asiatica Calming Mask,102897,35000,Skincare, Sheet Mask,4.875,4,4,0,3,low,140000
+2271,beauty-of-joseon,Glow Deep Serum : Rice + Alpha-Arbutin,102904,240000,Skincare, Face Serum,4.804878048780488,39,40,1,35,medium,9360000
+2271,beauty-of-joseon,Sunscreen : Rice + Probiotics,102905,250000,Skincare, Sunscreen,4.742774566473988,171,166,10,141,medium,42750000
+2271,beauty-of-joseon,Revive Eye Cream: Ginseng + Retinal,102907,260000,Skincare, Eye Cream,4.674242424242424,32,32,1,22,medium,8320000
+2271,beauty-of-joseon,Revive Serum : Ginseng + Snail Mucin,102903,240000,Skincare, Face Serum,4.816666666666666,13,15,0,12,medium,3120000
+2271,beauty-of-joseon,Ginseng Essence Water,102901,250000,Skincare, Essence,4.75,10,12,0,11,medium,2500000
+2271,beauty-of-joseon,Dynasty Cream,102898,340000,Skincare, Face Cream & Lotion,4.63125,39,39,2,27,medium,13260000
+2271,beauty-of-joseon,Green Plum Refreshing Cleanser,102900,180000,Skincare, Face Wash,4.857142857142857,5,7,0,6,medium,900000
+2271,beauty-of-joseon,Ginseng Cleansing Oil,102902,280000,Skincare, Cleansing Oil,4.764705882352942,15,17,0,16,medium,4200000
+15526,beauty-of-majesty,Wonderproof Pen Eye Liner,89837,195000,Makeup, Eyeliner,5.0,0,3,0,3,medium,0
+15526,beauty-of-majesty,My Lipstick,89906,210000,Makeup, Lipstick,4.933333333333334,2,9,0,9,medium,420000
+15526,beauty-of-majesty,Eight Tea Toner,91638,280000,Skincare, Toner,5.0,0,2,0,2,medium,0
+15526,beauty-of-majesty,Dewy Lip Balm,89842,195000,Skincare, Lip Balm,4.583333333333333,2,6,0,6,medium,390000
+15526,beauty-of-majesty,Matt Holic Tint,89838,249000,Makeup, Lip Cream,4.971428571428572,3,7,0,6,medium,747000
+15526,beauty-of-majesty,Pearl Party Eye Glitter,89843,222000,Makeup, Eyeshadow,4.7,2,2,0,2,medium,444000
+15526,beauty-of-majesty,3in1 Triple Edge Eyebrow,89841,172000,Makeup, Eyebrows,4.880000000000001,2,5,0,4,medium,344000
+15526,beauty-of-majesty,Omg Matt Lip Lacquer,102621,222000,Makeup, Lip Cream,4.975,3,8,0,8,medium,666000
+15526,beauty-of-majesty,Wonderproof Mascara Long & Curl,89840,210000,Makeup, Mascara,5.0,1,2,0,2,medium,210000
+15526,beauty-of-majesty,Light On Tone-Up Cream,91642,289000,Skincare, Face Cream & Lotion,4.9375,2,4,0,3,medium,578000
+15526,beauty-of-majesty,Eight Tea Cicaming Serum,91641,299000,Skincare, Face Serum,5.0,2,4,0,4,medium,598000
+15526,beauty-of-majesty,Eight Tea Lotion,91639,286000,Skincare, Face Cream & Lotion,5.0,0,2,0,2,medium,0
+15526,beauty-of-majesty,Eight Tea Cleansing Foam,91637,199000,Skincare, Face Wash,5.0,1,3,0,3,medium,199000
+15526,beauty-of-majesty,Eight Tea Cleansing Water,89845,269000,Chăm sóc da, Nước tẩy trang,5.0,3,4,0,4,medium,807000
+15526,beauty-of-majesty,Just One Houttuynia Cordata Serum,102627,276000,Skincare, Face Serum,5.0,3,5,0,4,medium,828000
+15526,beauty-of-majesty,Eight Tea Boosting Mask,102631,370000,Skincare, Sheet Mask,4.875,4,6,0,6,medium,1480000
+15526,beauty-of-majesty,Just One Artemisia Serum,102628,276000,Skincare, Face Serum,0.0,0,0,0,0,medium,0
+15526,beauty-of-majesty,Eight Tea Lip And Eye Remover Pad,92265,64000,Skincare, Cleansing Wipes,4.5,2,3,1,3,low,128000
+15526,beauty-of-majesty,Light On In Shower Body Tone Up,91644,397000,Bath & Body, Body Lotion / Body Serum,4.875,3,4,0,4,medium,1191000
+15526,beauty-of-majesty,Eight Tea Water Capsule Cream,91636,299000,Skincare, Face Cream & Lotion,5.0,2,3,0,3,medium,598000
+15526,beauty-of-majesty,Peptide Power Ampoule,102626,300000,Skincare, Ampoule,5.0,2,4,0,4,medium,600000
+15662,beauty-secrets,Lovely Lavender Set,105339,150000,Bath & Body, Bath & Body Set,4.833333333333333,12,12,0,11,medium,1800000
+15662,beauty-secrets,Little Rose Set,105340,250000,Bath & Body, Bath & Body Set,4.8500000000000005,15,15,0,12,medium,3750000
+15662,beauty-secrets,Pretty Relax Set,105338,85000,Bath & Body, Bath & Body Set,4.979166666666667,12,12,0,11,low,1020000
+15662,beauty-secrets,Japan Cherry B Fragrance Mist,105336,200000,Fragrance, Body Mist,4.851851851851852,18,18,1,17,medium,3600000
+15662,beauty-secrets,Sweet Pea Body Lotion,105328,200000,Bath & Body, Body Lotion / Body Serum,5.0,7,7,0,6,medium,1400000
+15662,beauty-secrets,Sweet Pea Fragrance Mist,105329,200000,Fragrance, Body Mist,4.725490196078432,17,17,1,13,medium,3400000
+15662,beauty-secrets,Sweet Pea Shower Gel,105326,200000,Bath & Body, Body Wash,5.0,4,4,0,4,medium,800000
+15662,beauty-secrets,Dark Kiss Body Lotion,105320,200000,Bath & Body, Body Lotion / Body Serum,5.0,2,2,0,2,medium,400000
+15662,beauty-secrets,Japanese Cherry B Body Lotion,105334,200000,Bath & Body, Body Lotion / Body Serum,5.0,4,4,0,4,medium,800000
+15662,beauty-secrets,Japanese Cherry B Shower Gel,105330,200000,Bath & Body, Body Wash,4.9375,4,4,0,4,medium,800000
+15662,beauty-secrets,Shower Gel Dark Kiss,105318,200000,Bath & Body, Body Wash,0.0,0,0,0,0,medium,0
+15662,beauty-secrets,Japanese Cherry B Body Scrub,105331,200000,Bath & Body, Body Cleanser,5.0,3,3,0,3,medium,600000
+15662,beauty-secrets,Dark Kiss Body Scrub,105319,200000,Bath & Body, Body Cleanser,5.0,2,2,0,2,medium,400000
+15662,beauty-secrets,Sweet Pea Body Scrub,105327,200000,Bath & Body, Body Cleanser,5.0,4,4,0,3,medium,800000
+15662,beauty-secrets,Dark Kiss Fragrance Mist,105323,200000,Fragrance, Body Mist,4.791666666666667,16,16,0,14,medium,3200000
+109,beautyblender,Dream,98591,388000,Accessories, Sponge & Applicators,5.0,0,1,0,1,medium,0
+109,beautyblender,Besties Glitter Blend & Cleanse Set,103161,418000,Accessories, Brush Cleanser & Tools,0.0,0,0,0,0,medium,0
+109,beautyblender,California Girls,95950,655000,Accessories, Sponge & Applicators,4.833333333333334,1,3,0,3,high,655000
+109,beautyblender,Beautyblender BBF Kit,19880,695000,Accessories, Sponge & Applicators,4.833333333333333,4,6,1,5,high,2780000
+109,beautyblender,Besties Bronze Limited Edition Starter Set,105917,418000,Accessories, Brush Cleanser & Tools,0.0,0,0,0,0,medium,0
+109,beautyblender,Original Pink,151,388000,Accessories, Sponge & Applicators,4.569672131147541,58,61,2,43,medium,22504000
+109,beautyblender,Besties Charcoal,105053,418000,Accessories, Sponge & Applicators,0.0,0,0,0,0,medium,0
+109,beautyblender,BlenderCleanser Liquid Charcoal,103160,288000,Accessories, Brush Cleanser & Tools,0.0,0,0,0,0,medium,0
+109,beautyblender,Bio Pure,85368,388000,Accessories, Sponge & Applicators,4.9375,2,4,0,3,medium,776000
+109,beautyblender,Besties Bio Pure,95948,418000,Accessories, Sponge & Applicators,5.0,0,2,0,2,medium,0
+109,beautyblender,House Of Bounce,101410,399000,Accessories, Sponge & Applicators,5.0,1,1,0,1,medium,399000
+109,beautyblender,Papaya,95952,388000,Accessories, Sponge & Applicators,5.0,0,2,0,2,medium,0
+109,beautyblender,Beam,91819,388000,Accessories, Sponge & Applicators,5.0,0,2,0,2,medium,0
+109,beautyblender,Blendercleanser Liquid,1470,378000,Accessories, Brush Cleanser & Tools,4.625,8,9,2,7,medium,3024000
+109,beautyblender,Beautyblender Shadeshifter PLAY,107119,388000,Accessories, Sponge & Applicators,0.0,0,0,0,0,medium,0
+109,beautyblender,Beary Flawless Blend & Cleanse Set,107118,428000,Accessories, Sponge & Applicators,0.0,0,0,0,0,medium,0
+109,beautyblender,Blender Defender,25004,248000,Accessories, Travel Bottles & Makeup case,3.863636363636364,9,7,4,3,medium,2232000
+109,beautyblender,Beautyblender® Electric Violet,33855,388000,Accessories, Sponge & Applicators,4.7,9,10,1,7,medium,3492000
+109,beautyblender,Pro Black,150,388000,Accessories, Sponge & Applicators,4.375,42,43,3,31,medium,16296000
+109,beautyblender,Joy beautyblender,35369,388000,Accessories, Sponge & Applicators,4.291666666666666,4,5,0,2,medium,1552000
+109,beautyblender,Beautyblender Nude,19710,388000,Accessories, Sponge & Applicators,4.489999999999999,23,21,4,16,medium,8924000
+109,beautyblender,Beam x Blendercleanser Solid,91950,675000,Accessories, Sponge & Applicators,0.0,0,0,0,0,high,0
+109,beautyblender,Blendercleanser Solid,1469,368000,Accessories, Brush Cleanser & Tools,4.5,11,12,2,10,medium,4048000
+575,benton,Air Fit UV Defense Sun Cream,102349,310000,Skincare, Sunscreen,4.375000000000001,6,5,1,4,medium,1860000
+575,benton,Fermentation Mask Pack,77964,45000,Skincare, Sheet Mask,4.691860465116279,43,40,2,34,low,1935000
+575,benton,Snail Bee High Content Essence,9847,320000,Treatment, Skincare,4.433024088541667,3072,2784,447,1904,medium,983040000
+575,benton,Snail Bee High Content Skin Toner,9845,280000,Skincare, Toner,4.353448275862069,667,593,119,363,medium,186760000
+575,benton,Snail Bee High Content Steam Cream,9848,290000,Skincare, Face Cream & Lotion,4.120426829268293,328,267,82,140,medium,95120000
+575,benton,Refresh by Cica Body Wash,102351,370000,Bath & Body, Body Wash,4.875,2,2,0,1,medium,740000
+575,benton,Snail Bee High Content Mask Pack,9844,40000,Skincare, Sheet Mask,4.414850136239783,367,334,32,233,low,14680000
+575,benton,Fermentation Essence,9841,350000,Skincare, Essence,4.387931034482758,203,178,31,114,medium,71050000
+575,benton,Honest Lip Balm,91288,140000,Skincare, Lip Balm,4.291666666666666,6,5,1,2,medium,840000
+575,benton,Mineral Sun Stick,86657,370000,Skincare, Sun Care,4.431818181818182,22,19,1,14,medium,8140000
+575,benton,Snail Bee Ultimate Hydrogel Eye Patch,70823,380000,Skincare, Eye Mask,4.446969696969697,66,59,7,36,medium,25080000
+575,benton,Deep Green Tea Cleansing Foam,82016,200000,Skincare, Face Wash,4.491071428571429,28,27,4,16,medium,5600000
+575,benton,Aloe Soothing Mask Pack,34777,40000,Skincare, Sheet Mask,4.549132947976879,173,166,8,120,low,6920000
+575,benton,Honest Eyelash Serum,98593,330000,Skincare, Eyelash Serum,4.803571428571429,14,13,2,10,medium,4620000
+575,benton,Aloe Propolis Soothing Gel,9850,270000,Skincare, Face Gel,4.625500546050237,2747,2641,158,2083,medium,741690000
+575,benton,Fermentation Eye Cream,9840,350000,Skincare, Eye Cream,4.13125,240,199,50,86,medium,84000000
+575,benton,Aloe Real Cool Soothing Gel,74234,130000,Skincare, Face Gel,4.522810218978102,274,255,20,184,medium,35620000
+575,benton,PHA Peeling Toner,86654,370000,Skincare, Toner,4.874999999999999,6,6,0,5,medium,2220000
+575,benton,Deep Green Tea Toner,70817,210000,Skincare, Toner,4.559190031152648,321,295,25,199,medium,67410000
+575,benton,Cacao Moist and Mild Toner,21838,270000,Skincare, Toner,4.378787878787879,33,30,5,22,medium,8910000
+575,benton,Centella Mask Pack,35542,40000,Skincare, Sheet Mask,4.588541666666666,144,130,11,97,low,5760000
+575,benton,Shea Butter dan Coconut Body Lotion,70820,320000,Bath & Body, Body Lotion,4.578947368421053,19,19,2,15,medium,6080000
+575,benton,Tea Tree Cleansing Water,22281,300000,Skincare, Micellar Water,4.389423076923077,52,50,6,28,medium,15600000
+575,benton,Cacao Moist and Mild Cream,9838,250000,Skincare, Face Cream & Lotion,4.37,100,90,14,47,medium,25000000
+575,benton,Cacao Moist And Mild Serum,70818,250000,Skincare, Face Serum,4.381944444444445,36,30,7,17,medium,9000000
+575,benton,Shea Butter and Olive Hand Cream,70819,130000,Hand & Foot Cream, Bath & Body,4.669642857142857,28,27,0,21,medium,3640000
+575,benton,Tea Tree Serum,82019,300000,Skincare, Face Serum,4.669642857142857,28,26,3,21,medium,8400000
+731,bhumi,Ceramide Hydra Lock Moisturizer,63259,261100,Skincare, Face Cream & Lotion,4.638333333333333,200,197,10,157,medium,52220000
+731,bhumi,HPR Retinol Serum,99783,202400,Skincare, Face Serum,4.69,50,48,2,43,medium,10120000
+731,bhumi,Overnight Body Serum,74050,182850,Bath & Body, Body Lotion / Body Serum,4.361111111111111,36,32,2,21,medium,6582600
+731,bhumi,C+ Brightening Booster,88250,217500,Skincare, Booster,4.608928571428572,140,134,8,101,medium,30450000
+731,bhumi,G-Alpine Hydra Lock Moisturizer,63261,258750,Skincare, Face Cream & Lotion,4.48470744680851,96,88,11,65,medium,24840000
+731,bhumi,HPR Retinol Serum,81329,327000,Skincare, Face Serum,4.6118421052631575,114,112,5,83,medium,37278000
+731,bhumi,Intensive Repair Barrier Serum,101352,194500,Skincare, Face Serum,4.875,6,6,0,6,medium,1167000
+731,bhumi,Refill Pack Ceramide Hydra Lock Moisturizer,93240,201500,Skincare, Face Cream & Lotion,4.73,25,24,0,20,medium,5037500
+731,bhumi,Skin Ready Hydrating Toner,86786,178500,Skincare, Toner,4.652777777777777,18,16,1,11,medium,3213000
+731,bhumi,beneath! By Bhumi Cucumber Calming Gel Mask,90339,143750,Skincare, Sleeping Mask,4.7142857142857135,7,7,1,5,medium,1006250
+731,bhumi,Essential Care Post Acne Scar (Aging & Sensitized Skin)  (Oily Combination & Acne-Prone),86789,795000,Skincare, Skin Care Set,0.0,0,0,0,0,high,0
+731,bhumi,Claire Vibrant Booster,97321,200100,Skincare, Face Serum,4.53125,16,15,1,12,medium,3201600
+731,bhumi,beneath! By Bhumi Sugar Rush Exfoliating Serum,90335,105800,Skincare, Face Serum,4.722222222222221,18,17,1,16,medium,1904400
+731,bhumi,beneath! By Bhumi Dear Doris Skin Prep Essence Toner,90337,140300,Skincare, Toner,4.84375,8,7,0,6,medium,1122400
+731,bhumi,Luminight Exfoliating Serum,97320,241500,Skincare, Face Serum,4.750000000000001,17,16,1,16,medium,4105500
+731,bhumi,beneath! By Bhumi Very Berry Brightening Serum,90331,101200,Skincare, Face Serum,4.71875,8,8,1,6,medium,809600
+731,bhumi,Bundle Luminight & Vibrant,97412,441600,Skincare, Face Serum,0.0,0,0,0,0,medium,0
+15349,bies,Miss Viviane,92782,300000,Fragrance, Eau De Parfum,4.904761904761905,4,7,0,7,medium,1200000
+15349,bies,Viva La Dolce,87420,300000,Fragrance, Eau De Parfum,4.317073170731708,38,36,6,27,medium,11400000
+15349,bies,Cecile,92594,300000,Fragrance, Eau De Parfum,4.7407407407407405,6,9,2,5,medium,1800000
+15349,bies,Bliss of Joy,92592,300000,Fragrance, Eau De Parfum,4.481481481481482,5,9,0,7,medium,1500000
+15349,bies,I Just Love It,87422,240000,Fragrance, Eau De Parfum,4.567567567567568,33,35,3,28,medium,7920000
+15349,bies,Blossom Garden EDP,87425,290000,Fragrance, Eau De Parfum,4.3580246913580245,24,24,4,14,medium,6960000
+15349,bies,Wish,92593,300000,Fragrance, Eau De Parfum,4.818181818181818,8,11,0,10,medium,2400000
+15349,bies,Blossom Roses EDP,87442,290000,Fragrance, Eau De Parfum,4.270833333333333,13,11,4,10,medium,3770000
+15349,bies,Blossom Roses Body Mist,87444,150000,Fragrance, Body Mist,4.583333333333333,5,8,0,6,medium,750000
+15349,bies,Blossom Meadow EDP,87448,290000,Fragrance, Eau De Parfum,4.549019607843138,14,17,2,10,medium,4060000
+15349,bies,Blossom Hills EDP,87451,290000,Fragrance, Eau De Parfum,4.621212121212121,19,22,0,16,medium,5510000
+15349,bies,Blossom Hills Body Mist,87454,150000,Fragrance, Body Mist,4.523809523809524,4,6,1,6,medium,600000
+15349,bies,Blossom Avenue Body Mist,87447,150000,Fragrance, Body Mist,4.291666666666667,5,7,2,6,medium,750000
+15349,bies,Love Elixir,87421,240000,Fragrance, Eau De Parfum,4.5681818181818175,41,39,5,30,medium,9840000
+15349,bies,Blossom Garden EDP Travel Size,87440,75000,Fragrance, Eau De Parfum,4.312222222222222,23,22,5,13,low,1725000
+15349,bies,Blossom Orchid EDP,87455,290000,Fragrance, Eau De Parfum,4.714285714285714,4,7,1,6,medium,1160000
+15349,bies,Blossom Meadow EDP Travel Size,87449,75000,Fragrance, Eau De Parfum,4.246376811594203,20,21,8,9,low,1500000
+15349,bies,Blossom Avenue EDP Travel Size,87446,75000,Fragrance, Eau De Parfum,4.555555555555555,9,11,0,8,low,675000
+15349,bies,Blossom Orchid EDP Travel Size,87456,75000,Fragrance, Eau De Parfum,4.583333333333333,13,15,2,11,low,975000
+15349,bies,Blossom Hills EDP Travel Size,87452,75000,Fragrance, Eau De Parfum,4.717948717948718,10,13,0,10,low,750000
+15349,bies,Blossom Roses EDP Travel Size,87443,75000,Fragrance, Eau De Parfum,4.277777777777779,9,10,3,6,low,675000
+15349,bies,Blossom Avenue EDP,87445,290000,Fragrance, Eau De Parfum,4.846153846153846,11,13,0,11,medium,3190000
+15349,bies,Blossom Meadow Body Mist,87450,150000,Fragrance, Body Mist,4.444444444444445,3,5,1,4,medium,450000
+1161,bio-beauty-lab,Blemish and Pore Clearing Toner,105118,185000,Skincare, Toner,4.726190476190476,21,21,0,18,medium,3885000
+1161,bio-beauty-lab,Bio Beauty Lab Acne Treatment Face Oil Twinpack - 20 ml,85750,640000,Skincare, Face Oil,0.0,0,0,0,0,high,0
+1161,bio-beauty-lab,Bio Beauty Lab Acne Treatment Face Oil Twinpack - 10 ml,85749,390000,Skincare, Face Oil,4.75,1,1,0,1,medium,390000
+1161,bio-beauty-lab,Bio Beauty Lab Acne Treatment Face Oil Twinpack - 5 ml,85748,240000,Skincare, Face Oil,0.0,0,0,0,0,medium,0
+1161,bio-beauty-lab,Bio Beauty Lab Face Oil Complete Set - 20 ml,85743,640000,Skincare, Face Oil,0.0,0,0,0,0,high,0
+1161,bio-beauty-lab,Bio Beauty Lab Face Oil Complete Set - 10 ml,85740,390000,Skincare, Face Oil,4.5,2,2,0,1,medium,780000
+1161,bio-beauty-lab,Bio Beauty Lab Luxurious Face Oil Twinpack - 20 ml,85747,640000,Skincare, Face Oil,0.0,0,0,0,0,high,0
+1161,bio-beauty-lab,Bio Beauty Lab Luxurious Face Oil Twinpack - 10 ml,85745,390000,Skincare, Face Oil,5.0,1,1,0,1,medium,390000
+1161,bio-beauty-lab,Bio Beauty Lab Luxurious Face Oil Twinpack - 5 ml,85744,240000,Skincare, Face Oil,0.0,0,0,0,0,medium,0
+192,bio-oil,Dry Skin Gel  50ml,36113,89000,Bath & Body, Body Lotion / Body Serum,4.59253640776699,824,788,42,600,low,73336000
+192,bio-oil,Dry Skin Gel  200ml,36110,254000,Bath & Body, Body Lotion / Body Serum,4.605263157894737,57,55,3,46,medium,14478000
+192,bio-oil,Dry Skin Gel 100ml,36111,152000,Bath & Body, Body Lotion / Body Serum,4.434684684684685,111,106,9,74,medium,16872000
+252,bio-essence,Bio Gold Radiance Cleanser,33751,71500,Skincare, Face Wash,4.512237762237762,143,133,13,98,low,10224500
+252,bio-essence,Bio Gold Night Cream,33756,351500,Skincare, Face Cream & Lotion,4.470588235294118,34,31,2,23,medium,11951000
+252,bio-essence,Bio Gold Golden Ratio Double Serum,33757,441000,Skincare, Face Serum,4.420454545454546,20,17,4,13,medium,8820000
+252,bio-essence,Bio-Gold Golden Ratio Double Serum Anti Aging + Cleanser,90888,512500,Skincare, Face Serum,0.0,0,0,0,0,high,0
+252,bio-essence,Bio Essence Bio-Gold Night Cream 40 gr + Radiant Cleanser 100 gr,78208,423000,Skincare, Face Cream & Lotion,0.0,0,0,0,0,medium,0
+252,bio-essence,Bio White Advanced Whitening Serum,23593,294000,Skincare, Face Serum,4.220833333333333,58,54,7,31,medium,17052000
+252,bio-essence,Bio Renew Nourishing Toner,34690,188000,Skincare, Toner,4.631944444444445,34,35,1,26,medium,6392000
+252,bio-essence,Bio Gold Eye Power Illuminator,33753,351500,Skincare, Eye Serum,4.637931034482759,27,27,3,22,medium,9490500
+252,bio-essence,Bio Treasure  Korea Bamboo Acne Treatment Gel Cleanser,92812,81000,Skincare, Cleansing Gel,4.9,3,5,0,4,low,243000
+252,bio-essence,Bio-Treasure Japanese Cherry Blossom Brightening Face Wash,90190,84500,Skincare, Face Wash,4.708333333333334,4,6,0,5,low,338000
+252,bio-essence,Bio Essence - Bio Water B5 HYDRATING TONER,35511,222500,Skincare, Toner,4.703703703703704,25,26,1,23,medium,5562500
+252,bio-essence,Bio Essence - Bio Water B5 ACNE GEL 15,95606,140000,Skincare, Acne Treatment / Sealing gel / Cream,5.0,1,3,0,3,medium,140000
+252,bio-essence,Bio Essence - Bio Water B5 PORE MINIMIZER SERUM,95598,257500,Skincare, Face Serum,4.75,2,4,0,3,medium,515000
+252,bio-essence,Bio-Renew Deep Exfoliating Gel,36961,176500,Skincare, Scrub & Exfoliator,4.631313131313132,97,96,3,74,medium,17120500
+252,bio-essence,Bio Gold Day Cream SPF 25/PA++,33755,351500,Skincare, Face Cream & Lotion,4.663793103448276,26,29,0,22,medium,9139000
+252,bio-essence,Bio Renew Foamy Cleanser,34688,83500,Skincare, Face Wash,4.458333333333333,22,22,1,19,low,1837000
+252,bio-essence,Bio Vlift Face Lifting Cream,35129,388000,Skincare, Face Cream & Lotion,4.478260869565218,21,22,1,13,medium,8148000
+252,bio-essence,Twinpack Bio Essence Bio-Gold Radiance Cleanser 100 gr - Foam Cleanser,92061,143000,Skincare, Face Wash,0.0,0,0,0,0,medium,0
+252,bio-essence,Bio-Gold Gold Water 30 ml + Bio Essence Bio-Gold Radiance Cleanser 100 gr,90890,188000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+252,bio-essence,Bio-Gold Day Cream SPF 25 40 gr + Radiant Cleanser 100 gr,90889,423000,Skincare, Face Cream & Lotion,0.0,0,0,0,0,medium,0
+252,bio-essence,Bio Renew - Starter Pack - Perawatan Wajah Anti Aging,89982,163500,Skincare, Skin Care Set,5.0,2,2,0,2,medium,327000
+252,bio-essence,Bio White Advanced Whitening Day Cream SPF20,23597,232900,Skincare, Face Cream & Lotion,4.369791666666667,46,42,8,28,medium,10713400
+252,bio-essence,Bio Treatment Essence In Oil,23599,155000,Skincare, Face Oil,4.326086956521739,44,38,6,27,medium,6820000
+252,bio-essence,Bio Gold - Starter Pack - Perawatan Wajah Anti Aging,89983,175500,Skincare, Skin Care Set,5.0,2,2,0,2,medium,351000
+252,bio-essence,Bio Renew  Radiant Youth Facial Oil,34692,294000,Skincare, Face Oil,4.75,12,14,0,13,medium,3528000
+252,bio-essence,Bio Renew Deep Cleanser,34687,83500,Skincare, Face Wash,4.608974358974359,37,37,4,28,low,3089500
+252,bio-essence,Bio Essence - Bio White Starter Kit,86489,151500,Skincare, Skin Care Set,4.666666666666667,6,5,1,4,medium,909000
+252,bio-essence,Bio White Advanced Whitening Night Cream,23598,232900,Skincare, Face Cream & Lotion,4.2756410256410255,37,32,8,23,medium,8617300
+252,bio-essence,Bio Gold Day and Night Face Cream - Perawatan Anti Aging,90873,703000,Skincare, Skin Care Set,0.0,0,0,0,0,high,0
+252,bio-essence,Bio Treasure Jeju Marine Algae Skin Water-full Mask,74483,46900,Skincare, Sheet Mask,4.85,3,5,0,5,low,140700
+252,bio-essence,Bio Essence - Bio Water B5 MOIST IN GEL 50,35512,293000,Skincare, Face Gel,4.668650793650794,124,124,3,98,medium,36332000
+252,bio-essence,Twinpack Bio Essence Bio-Renew Exfoliating/Face Scrub Gel 60 gr - Cleanser,92063,353000,Skincare, Scrub & Exfoliator,0.0,0,0,0,0,medium,0
+252,bio-essence,Bio White Advanced Whitening Refiner,23595,187000,Skincare, Essence,4.409722222222222,70,62,13,42,medium,13090000
+252,bio-essence,Twinpack Bio Essence Bio Water Moist In Water Gel/Cream 50gr - Perawatan Wajah,92068,680000,Skincare, Face Gel,0.0,0,0,0,0,high,0
+252,bio-essence,Twinpack Bioessence BioWater Energizing Water Face Mist 100ml - Perawatan Wajah,92066,282000,Skincare, Face Mist,0.0,0,0,0,0,medium,0
+252,bio-essence,Twinpack Bioessence BioWater Energizing Water Face Mist 300ml - Perawatan Wajah,92067,555000,Skincare, Face Mist,0.0,0,0,0,0,high,0
+252,bio-essence,Twinpack Bio Essence Bio-Renew Foamy Cleanser 100 gr - Foam Cleanser,92064,167000,Skincare, Face Wash,0.0,0,0,0,0,medium,0
+252,bio-essence,Bio essence Bio White Serum + Bio White Cleanser,78210,357500,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+252,bio-essence,Bio White Advanced Whitening Cleanser,23594,63500,Skincare, Face Wash,4.4423076923076925,258,233,43,145,low,16383000
+252,bio-essence,Twinpack Bio Essence BioWhite Advanced Whitening Cleanser 100gr - Foam Cleanser,92069,127000,Skincare, Face Wash,0.0,0,0,0,0,medium,0
+252,bio-essence,Twinpack Bio Essence Bio-Gold Water Essence 30ml - Perawatan Wajah Anti Aging,92062,233000,Skincare, Essence,0.0,0,0,0,0,medium,0
+252,bio-essence,Twinpack Bio Essence Bio-Gold Water Essence 100ml - Perawatan Wajah Anti Aging,92060,703000,Skincare, Essence,0.0,0,0,0,0,high,0
+252,bio-essence,Twinpack Bio Essence Bio-Gold Water Essence 150ml - Perawatan Wajah Anti Aging,92059,874000,Skincare, Essence,0.0,0,0,0,0,high,0
+252,bio-essence,Bio Essence Bio White Day and Night Cream,78211,465800,Skincare, Face Cream & Lotion,0.0,0,0,0,0,medium,0
+252,bio-essence,Twinpack Bio Essence Bio-Vlift Face Lifting Cream 45gr - Wajah Anti Aging,92065,776000,Skincare, Face Cream & Lotion,0.0,0,0,0,0,high,0
+252,bio-essence,Twinpack Bio Essence BioWhite Advanced Whitening Night Cream 45gr - Wajah Cerah,92070,465800,Skincare, Face Cream & Lotion,0.0,0,0,0,0,medium,0
+176,bioderma,Bioderma Hydrabio Brume - Refreshing Face Spray,1961,235000,Skincare, Face Mist,4.509966777408637,299,282,22,216,medium,70265000
+176,bioderma,Bioderma Sensibio Defensive - Antioxidant Soothing Moisturizer,94582,335000,Skincare, Face Cream & Lotion,5.0,1,2,0,2,medium,335000
+176,bioderma,Hydrabio Essence Lotion - Hydrating Essence Toner,1963,335000,Skincare, Essence,4.424550614947966,1054,1012,109,592,medium,353090000
+176,bioderma,BIODERMA SEBIUM KERATO+ NON IRRITATING ANTI-ACNE GEL CREAM,102012,335000,Skincare, Face Cream & Lotion,0.0,0,0,0,0,medium,0
+176,bioderma,Bioderma Sebium Lotion - Oil Rebalancing Toner,35388,335000,Skincare, Toner,4.360738255033557,149,135,18,95,medium,49915000
+176,bioderma,Bioderma Sensibio H2O Eye - Waterproof Makeup Remover,102290,215000,Skincare, Makeup Remover,4.964285714285714,5,7,0,7,medium,1075000
+176,bioderma,Hydrabio Gel-Crème - Hydrating Moisturizer,1726,335000,Skincare, Face Gel,4.495341614906833,159,153,14,113,medium,53265000
+176,bioderma,Bioderma Hydrabio Tonique - Hydrating Toner,434,315000,Skincare, Face Cream & Lotion,4.408227848101266,234,226,33,153,medium,73710000
+176,bioderma,Bioderma Sebium Sensitive - Soothing Acne Moisturizer,77482,400000,Skincare, Face Cream & Lotion,4.736363636363636,55,55,0,45,medium,22000000
+176,bioderma,Bioderma Sebium Pore Refiner - Pore Tightening Moisturizer,1975,345000,Skincare, Face Cream & Lotion,4.307259713701432,489,443,66,245,medium,168705000
+176,bioderma,Bioderma Atoderm Pp Baume - Moisturizing Balm,33318,380000,Skincare, Face Cream & Lotion,4.646551724137932,56,55,2,39,medium,21280000
+176,bioderma,Atoderm Creme 200 ml FREE Bioderma Sensibio H2O 250 ml,100531,565000,Skincare,,0.0,0,0,0,0,high,0
+176,bioderma,Bioderma Hydrabio Serum - Universal Hydrating Serum,1965,415000,Skincare, Face Serum,4.436027837259101,930,906,109,515,medium,385950000
+176,bioderma,Bioderma Sebium Gel Moussant Actif - Acne Treatment Cleanser,96489,365000,Skincare, Face Wash,4.716101694915254,58,57,2,50,medium,21170000
+176,bioderma,Atoderm PP Baume 200 ml FREE Bioderma Sensibio H2O 250 ml,100549,665000,Skincare,,0.0,0,0,0,0,high,0
+176,bioderma,Sebium Gel Moussant Actif 200 ml FREE Bioderma Sebium H2O 250 ml,100529,622000,Skincare,,0.0,0,0,0,0,high,0
+176,bioderma,Photoderm Max Spray SPF 50 + 200ml,1114,470000,Skincare, Sun Care,4.406716417910449,76,60,6,44,medium,35720000
+176,bioderma,Sebium Global 30 ml FREE Bioderma Sebium H2O 250 ml,100498,585000,Skincare,,0.0,0,0,0,0,high,0
+176,bioderma,Bioderma Photoderm Akn Mat Spf 30+,1966,335000,Skincare, Sunscreen,4.405092592592593,106,103,9,72,medium,35510000
+176,bioderma,Bioderma Photoderm Fluide Max Spf100 - Sunscreen 40Ml,1968,335000,Skincare, Sunscreen,4.19672131147541,180,152,40,83,medium,60300000
+286,biore,Cleansing Oil,2193,103400,Skincare, Cleanser,4.547241794256575,3613,3418,334,2584,medium,373584200
+286,biore,Biore UV Aqua Rich Watery Essence SPF 50+/PA+++,2559,122800,Skincare, Sun Care,4.533691915712223,9766,9245,852,7379,medium,1199264800
+286,biore,UV Aqua Rich Watery Gel Sunscreen Skin Care SPF 50 PA++++,21804,136500,Skincare, Sun Care,4.518103357872438,691,615,84,455,medium,94321500
+286,biore,UV Athlizm Skin Protection Essence Sport Sunscreen SPF 50 PA++++,72933,206200,Skincare, Sun Care,4.637376237623762,202,189,12,153,medium,41652400
+286,biore,Biore MUR Micellar Massage Wash 90ml,89874,33400,Skincare, Face Wash,4.580555555555556,270,246,23,185,low,9018000
+286,biore,Men's Biore Double Scrub Facial Foam - White Energy,73468,31200,Skincare, Face Wash,4.93,25,24,0,24,low,780000
+286,biore,UV Fresh & Bright SPF 50/PA+++ Oil Control Matte,100737,36900,Skincare, Sunscreen,4.570564516129032,124,115,12,85,low,4575600
+286,biore,Bright Body Foam Pouch,71292,28000,Bath & Body, Body Wash,4.721523668639053,676,667,14,572,low,18928000
+286,biore,Make Up Remover Cleansing Oil Sheet,2351,29600,Skincare, Cleansing Oil,4.519977802441732,901,879,73,683,low,26669600
+286,biore,Men's Biore Double Scrub Facial Foam - Acne-Bacterior,73469,31200,Skincare, Face Wash,4.71875,24,20,1,20,low,748800
+286,biore,Men's Biore Double Scrub Facial Foam - Cool Oil Clear,73466,31200,Skincare, Face Wash,4.707467532467533,35,35,2,29,low,1092000
+286,biore,Men's Biore Body Foam - White Energy,73474,28500,Bath & Body, Body Wash,4.599702380952381,63,61,0,45,low,1795500
+286,biore,Men's Biore Body Foam - Cool Energy,73473,28500,Bath & Body, Body Wash,4.550757575757576,66,65,1,46,low,1881000
+286,biore,Men's Biore Facial Foam - Oil Buster Bright Action,73471,31200,Skincare, Face Wash,4.625,33,29,5,25,low,1029600
+286,biore,UV Fresh & Bright SPF 50/PA+++ Instant Cover,100738,36900,Skincare, Sunscreen,4.387931034482758,87,72,14,55,low,3210300
+286,biore,Beauty Body Foam Pouch,83214,28000,Bath & Body, Body Wash,4.770714285714286,700,650,10,597,low,19600000
+286,biore,Body Foam Pouch,71293,28000,Bath & Body, Body Wash,4.746306128942449,870,850,8,770,low,24360000
+286,biore,Men's Biore Body Foam - Hygienic Energy,73472,28500,Bath & Body, Body Wash,4.6169950738916254,58,57,4,39,low,1653000
+286,biore,Men's Biore Double Scrub Facial Foam Bright Oil Clear,83629,31200,Skincare, Face Wash,4.675641025641025,39,34,2,30,low,1216800
+286,biore,Men's Biore Double Scrub Facial Foam - Deep Fresh,73467,31200,Skincare, Face Wash,4.820991432068544,43,40,1,34,low,1341600
+286,biore,Biore UV Face Sunscreen Aqua Rich Light Up Essence SPF 50+ PA++++,84717,159200,Skincare, Sun Care,4.360955056179775,178,140,44,103,medium,28337600
+15664,biotalk,Natural Calendula Salve,105372,175000,Bath & Body, Cellulite & Stretch Marks,4.788461538461538,13,13,0,12,medium,2275000
+2188,biyu,Invisible Physical Sunscreen SPF30 PA+++,108544,199000,Skincare, Sunscreen,4.875,2,2,0,2,medium,398000
+2188,biyu,Daily Essential Bundle - Normal to Combi Skin,108625,318000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+2188,biyu,Daily Essential Bundle - Oily Skin,108622,318000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+2188,biyu,Daily Moisture Bundle - Oily Skin,108627,238000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+2188,biyu,Good Skin Day Toner Moisture Solutions,85508,109000,Skincare, Toner,4.375,4,3,0,3,medium,436000
+2188,biyu,Daily Protection Bundle,108629,318000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+2188,biyu,Daily Moisture Bundle - Normal to Combi Skin,108628,238000,Skincare, Skin Care Set,0.0,0,0,0,0,medium,0
+154,blink-charm,Vibrant Volume #2- 1 Pair,92183,59900,Makeup, False Eyelashes,4.542857142857143,6,6,1,6,low,359400
+154,blink-charm,Sweet Classic #1,92549,142900,Makeup, False Eyelashes,4.911111111111111,7,9,0,9,medium,1000300
+154,blink-charm,Sweet Classic #3,92544,142900,Makeup, False Eyelashes,4.914285714285715,5,6,1,6,medium,714500
+154,blink-charm,Sweet Classic #5,92548,42900,Makeup, False Eyelashes,4.909090909090909,9,11,1,10,low,386100
+154,blink-charm,Vibrant Volume #1- 1 Pair,92182,59900,Makeup, False Eyelashes,5.0,2,4,0,4,low,119800
+154,blink-charm,Natural Flair #3,92546,142900,Makeup, False Eyelashes,4.76,3,5,0,4,medium,428700
+154,blink-charm,Fearless and Limitless Complete Eye Set - Fearless Beauty Liner and Limitless Beauty Brow in Dark Brown,98565,238000,Makeup,,0.0,0,0,0,0,medium,0
+154,blink-charm,Buy Limitless Beauty Brow Get Free Sweet Classic #1,97005,119000,Makeup,,0.0,0,0,0,0,medium,0
+154,blink-charm,Limitless Beauty Brow,96113,119000,Makeup, Eyebrows,4.85,5,8,0,7,medium,595000
+154,blink-charm,Sensual Curls #1,92539,42900,Makeup, False Eyelashes,4.92,8,10,0,8,low,343200
+154,blink-charm,Buy Sweet Classic #3 Get Free White Brush On Lash Glue,97008,142900,Makeup, False Eyelashes,0.0,0,0,0,0,medium,0
+154,blink-charm,Fearless Beauty Liner Intense Black,96112,119000,Makeup, Eyeliner,4.8625,14,16,0,13,medium,1666000
+154,blink-charm,Lash Glue Daily Use 1 Ml,107660,25900,Accessories, Eyelash Glue,0.0,0,0,0,0,low,0
+154,blink-charm,Buy Fearless Beauty Liner Get Free Sweet Classic #1,97004,119000,Makeup, Makeup Palettes & Set ,0.0,0,0,0,0,medium,0
+154,blink-charm,Sexy Volume #2,92537,42900,Makeup, False Eyelashes,4.933333333333334,5,6,0,5,low,214500
+154,blink-charm,White Brush-On Lash Glue 2 x 2 mL,102517,99000,Accessories, Eyelash Glue,5.0,2,2,0,2,low,198000
+154,blink-charm,Natural Flair #2 - 1 Pair Bundling Lem 1Ml,107659,57900,Makeup, False Eyelashes,0.0,0,0,0,0,low,0
+154,blink-charm,Buy Sweet Classic #1 Get Free White Brush On Lash Glue,97007,142900,Makeup,,0.0,0,0,0,0,medium,0
+154,blink-charm,Sweet Classic #3 - 1 Pair Bundling Lem 1Ml,107658,57900,Makeup, False Eyelashes,0.0,0,0,0,0,low,0
+154,blink-charm,Buy Natural Flair #3 Get Free White Brush On Lash Glue,97009,142900,Makeup, False Eyelashes,0.0,0,0,0,0,medium,0
+154,blink-charm,White Brush On Lash Glue,92181,62000,Accessories, Eyelash Glue,4.420322410147992,40,40,8,25,low,2480000
+154,blink-charm,Sweet Classic #5 + White Brush On Lash Glue Set,98568,104900,Makeup, False Eyelashes,0.0,0,0,0,0,medium,0
+154,blink-charm,Natural Flair #2 + White Brush On Lash Glue Set,98596,104900,Makeup, False Eyelashes,0.0,0,0,0,0,medium,0
+154,blink-charm,Duo White Brush On Lash Glue,98569,124000,Accessories, Eyelash Glue,0.0,0,0,0,0,medium,0
+154,blink-charm,Buy Natural Flair #2 Get Free White Brush On Lash Glue,97006,142900,Makeup, False Eyelashes,0.0,0,0,0,0,medium,0
+154,blink-charm,Lash Glue Daily Use 1 Ml X 2 Pcs,107661,45900,Accessories, Eyelash Glue,0.0,0,0,0,0,low,0
+15576,blood,Blood 33cm Corn Pad 10s,100073,55000,Sanitary, Pads,4.859649122807018,16,19,0,17,low,880000
+15576,blood,Blood Corn Liners 30s,100070,39000,Sanitary, Panty Liners,4.792929292929293,30,32,0,31,low,1170000
+15576,blood,Blood 50cm Corn Panty Pad Size,100074,65000,Sanitary, Pads,4.840909090909091,18,22,0,19,low,1170000
+15576,blood,NeckHeat Neck & Shoulder Pain Relief,100077,21000,Sanitary, Pads,4.708333333333333,19,16,2,14,low,399000
+15576,blood,BackHeat Back Pain Relief,100076,21000,Sanitary, Pads,4.465949820788531,30,26,4,19,low,630000
+15576,blood,MenstruHeat Menstrual Cramp Relief,100075,21000,Sanitary, Pads,4.833333333333333,35,34,3,31,low,735000
+15576,blood,Blood 25cm Corn Pad 14s,100071,55000,Sanitary, Pads,4.8580246913580245,24,27,1,23,low,1320000
+15576,blood,Blood 29cm Corn Pad 12s,100072,55000,Sanitary, Pads,4.863636363636363,19,22,1,20,low,1045000
+1117,bloomka,Sugar cane+calendula Exfoliating Facial Toner,81116,139000,Skincare, Toner,4.398,123,114,17,68,medium,17097000
+1117,bloomka,Sugarcane + Calendula Exfoliating Facial Mask,88459,139000,Skincare, Wash off Mask,4.514705882352941,31,29,3,17,medium,4309000
+1117,bloomka,Olive & Rosemary Deep Cleansing Oil,81281,169000,Skincare, Cleansing Oil,4.432203389830509,58,53,9,35,medium,9802000
+1117,bloomka,TGIF Acne Spot Treatment Clay Cream,88457,159000,Skincare, Acne Treatment / Sealing gel / Cream,4.528301886792453,50,49,6,38,medium,7950000
+1117,bloomka,Calendula+vitamin B3 Whitening Facial Toner,81115,139000,Skincare, Toner,4.422413793103448,114,108,12,72,medium,15846000
+1117,bloomka,Bakuchiol + Tamanu Spot Oil,88461,99000,Skincare, Face Oil,4.388888888888888,25,25,4,19,low,2475000
+1117,bloomka,Bakuchiol + Almond Anti Aging,80788,139000,Skincare, Face Oil,4.514006342494714,42,40,4,33,medium,5838000
+1117,bloomka,Manuka + Magnolia Anti Acne Water Cream,88458,159000,Skincare, Face Cream & Lotion,4.225806451612903,29,24,10,17,medium,4611000
+237,blp-beauty,Tremella Daily Hydrating Toner,94288,159000,Skincare, Toner,4.8269230769230775,13,13,0,13,medium,2067000
+237,blp-beauty,Airy Tint,105886,89000,Makeup, Lip Tint,4.707692307692308,39,38,3,32,low,3471000
+237,blp-beauty,Lip Gel,89173,109000,Makeup, Lip Tint,4.623220973782772,801,774,36,601,medium,87309000
+237,blp-beauty,Lip Cotton,92954,139000,Makeup, Lip Cream,4.6251612903225805,310,304,14,233,medium,43090000
+237,blp-beauty,Brow Definer,1794,129000,Makeup, Eyebrows,4.5460311193004,524,502,42,370,medium,67596000
+237,blp-beauty,BLP X Tuku Lip Vinyl,105105,89000,Makeup, Lip Gloss,4.528571428571429,56,54,2,40,low,4984000
+237,blp-beauty,BLP X Tuku Butter Balm,105106,79000,Makeup, Lip Balm,4.696296296296296,27,26,1,19,low,2133000
+237,blp-beauty,Face Concealer,73235,139000,Makeup, Concealer,4.650366748166259,818,795,43,615,medium,113702000
+237,blp-beauty,Face Powder 10 gr,19815,159000,Makeup, Loose Powder,4.5870019342359765,2585,2531,85,2097,medium,411015000
+237,blp-beauty,Lip Bullet,66447,129000,Makeup, Lipstick,4.488919288645691,731,688,66,476,medium,94299000
+237,blp-beauty,Face Glow New,100196,109000,Makeup, Blush,4.804166666666667,96,96,1,80,medium,10464000
+237,blp-beauty,Lip Vinyl,100192,89000,Makeup, Lip Gloss,4.577358490566038,106,102,7,73,low,9434000
+237,blp-beauty,Lip Coat,1611,139000,Makeup, Lip Cream,4.459693269722964,5386,5149,459,3804,medium,748654000
+237,blp-beauty,Nightfall,99359,239000,Makeup, Eyeshadow,4.6,13,12,2,9,medium,3107000
+237,blp-beauty,Daybreak,99341,239000,Makeup, Eyeshadow,4.6,26,26,2,14,medium,6214000
+>>>>>>> 05583d582ebd0a628af5be3a43d8416d754637b9
